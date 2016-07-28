@@ -3,6 +3,8 @@ layout: post
 title: News article about the Midwest Big Data Summer School 
 ---
 
+[<img src="{{ site.baseurl }}/images/bigdatasummerschool.jpg" alt="Midwest Big Data Summer School" style="width: 1000px;"/>](http://mbds.cs.iastate.edu)
+
 In June 2016, a team of individuals organized the Inaugural 
 [Midwest Big Data Summer School](http://mbds.cs.iastate.edu).
 The team consisted of 
