@@ -19,19 +19,23 @@ Before contacting a potential advisor, do your homework: read the advisor's home
 
 If doing this doesn't give you any interesting ideas, this is probably not someone with whom you want to do research so you shouldn't waste time contacting her or him. If it does, send a short introductory email.
 
-First Email
+### First Email
+
 A typical message should go something like this:
-From: Flipper Wordsfish <flipper@adou.edu>
-Subject: Prospective Student Interested in TSU Problem	Make sure your from address and subject lines are useful
-Dear Professor Nemo,	Greeting: its safest to be a bit formal here.
-I will be finishing a BS degree in Underwater Mathematics at the Atlantis Deep Ocean University this year. I am considering applying to ISU's PhD program and would be interested joining your Octople Cryptology research group.	Briefly introduce yourself in at most two sentences. Don't tell your whole life story. Be direct and clear about applying to grad school.
-I found your paper, "A Linear-Time Solution to the Travelling Sea Urchin Problem", on your website (http://www.smith.org/urchin.html). I was fascinated by your result, especially as I have spent several summers studying the similar travelling sea cucumber problem as an intern at Microshifty Corp in the Attle Sea. (You can find a paper about my work on this at http://www.flipper.com/research/tscp.html)	Explain specifically what you read and where you found it (people sometimes publish several papers with similar names and forget which is which). A touch of flattery never hurts, but don't go overboard. If appropriate, relate it to your background and interests and briefly plug your work.
-I believe your result is even more important than your paper implies, since it can be extended to solve the Travelling Salesman Problem and thus to prove P = NP.	Concisely describe your insight or why you are interested in the work.
-Do you think it would be worthwhile to pursue this line of research? If you are interested, I can send you a proof sketch.	End with a clear, simple question.
+
+---------------------------------------------------------------------------------------------------------------------------
+| From: Flipper Wordsfish <flipper@adou.edu>                    |                                                          |
+| Subject: Prospective Student Interested in TSU Problem	| Make sure your from address and subject lines are useful |
+| Dear Professor Nemo,	                                        | Greeting: its safest to be a bit formal here.            |
+| I will be finishing a BS degree in Underwater Mathematics at the Atlantis Deep Ocean University this year. I am considering applying to ISU's PhD program and would be interested joining your Octople Cryptology research group. |	Briefly introduce yourself in at most two sentences. Don't tell your whole life story. Be direct and clear about applying to grad school.
+| I found your paper, "A Linear-Time Solution to the Travelling Sea Urchin Problem", on your website (http://www.smith.org/urchin.html). I was fascinated by your result, especially as I have spent several summers studying the similar travelling sea cucumber problem as an intern at Microshifty Corp in the Attle Sea. (You can find a paper about my work on this at http://www.flipper.com/research/tscp.html)	| Explain specifically what you read and where you found it (people sometimes publish several papers with similar names and forget which is which). A touch of flattery never hurts, but don't go overboard. If appropriate, relate it to your background and interests and briefly plug your work.
+| I believe your result is even more important than your paper implies, since it can be extended to solve the Travelling Salesman Problem and thus to prove P = NP.  |	Concisely describe your insight or why you are interested in the work.
+| Do you think it would be worthwhile to pursue this line of research? If you are interested, I can send you a proof sketch.	| End with a clear, simple question.
 Offer a suggestion on how to proceed.
-Regards,
-Flipper Wordsfish (flipper@adou.edu)	Closing — make sure to include you name and email address.
-Include the word "#*potential*#" in the subject line.
+| Regards,
+| Flipper Wordsfish (flipper@adou.edu)	Closing — make sure to include you name and email address.
+| Include the word "#*potential*#" in the subject line.
+---------------------------------------------------------------------------------------------------------------------------
 
 Of course, your insight isn't likely to be so significant as Flipper's. But, you should make an effort to raise an interesting question about the work described in the paper, to suggest extensions or applications of the work, or to relate it directly to something you have done.
 
