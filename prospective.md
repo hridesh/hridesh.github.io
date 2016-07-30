@@ -23,6 +23,10 @@ If doing this doesn't give you any interesting ideas, this is probably not someo
 
 A typical message should go something like this:
 
+--------
+|    |  |
+---------
+
 ---------------------------------------------------------------------------------------------------------------------------
 | From: Flipper Wordsfish <flipper@adou.edu>                    |                                                          |
 | Subject: Prospective Student Interested in TSU Problem	| Make sure your from address and subject lines are useful |
@@ -34,7 +38,7 @@ A typical message should go something like this:
 Offer a suggestion on how to proceed.
 | Regards,
 | Flipper Wordsfish (flipper@adou.edu)	Closing — make sure to include you name and email address.
-| Include the word "#*potential*#" in the subject line.
+| Include the word "#*potential*#" in the subject line. |    |
 ---------------------------------------------------------------------------------------------------------------------------
 
 Of course, your insight isn't likely to be so significant as Flipper's. But, you should make an effort to raise an interesting question about the work described in the paper, to suggest extensions or applications of the work, or to relate it directly to something you have done.
