@@ -23,6 +23,7 @@ If doing this doesn't give you any interesting ideas, this is probably not someo
 
 A typical message should go something like this:
 
+|               |               |
 | ------------- | ------------- |
 | From: Flipper Wordsfish <flipper@adou.edu>  | Make sure your from address is professional.  |
 | Subject: Prospective Student Interested in TSU Problem  | Make sure your subject line is useful  |
