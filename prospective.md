@@ -43,12 +43,12 @@ It is definitely worth taking time to write clearly and consisely using correct 
 ### What Not To Do
 
 Never do any of these:
-* Don't send information about your GRE scores, GPA, class rank, cholesterol levels, favorite movies, etc. and ask what your chances of admission are. Standardized tests and grades have minimal influence on your chances of admission and reveal very little about your potential as a researcher. No one can or should tell you anything about your chances of admission based on an email.
-* Don't send a first email longer than one screenful (about 60 lines). You should be able to get across everything you need in a first email concisely and use longer emails if technical depth is required in follow ups.
-* Don't waste space and time telling me how hard-working, creative and smart you are — demonstrate it with the contents of your message.
-* Don't waste space and time telling me how brilliant I am. The fact that you are interested in joining my research group is flattery enough.
-* Don't attach anything to your email. If you want to provide additional content, you should do this by sending a URL (as plain text, not a link). If you are not able to create a web page, you may mention that you have a relevant paper and will send it to me if I request it.
-* Don't use any fancy formatting in your email (including your message signature).
+	* Don't send information about your GRE scores, GPA, class rank, cholesterol levels, favorite movies, etc. and ask what your chances of admission are. Standardized tests and grades have minimal influence on your chances of admission and reveal very little about your potential as a researcher. No one can or should tell you anything about your chances of admission based on an email.
+	* Don't send a first email longer than one screenful (about 60 lines). You should be able to get across everything you need in a first email concisely and use longer emails if technical depth is required in follow ups.
+	* Don't waste space and time telling me how hard-working, creative and smart you are — demonstrate it with the contents of your message.
+	* Don't waste space and time telling me how brilliant I am. The fact that you are interested in joining my research group is flattery enough.
+	* Don't attach anything to your email. If you want to provide additional content, you should do this by sending a URL (as plain text, not a link). If you are not able to create a web page, you may mention that you have a relevant paper and will send it to me if I request it.
+	* Don't use any fancy formatting in your email (including your message signature).
 
 ### Follow Up
 
