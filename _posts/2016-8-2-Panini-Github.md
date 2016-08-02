@@ -18,4 +18,4 @@ for documentation and web-pages.
 
 Migrating open and closed issues has been bit of a challenge, but 
 we hope to slowly migrate all of our development. The new (old) repository 
-is (https://github.com/hridesh/panc) and some work has already started.
+is [Panini project](https://github.com/hridesh/panc) and some work has already started.
