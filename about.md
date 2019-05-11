@@ -15,8 +15,8 @@ His work on [Boa](http://boa.cs.iastate.edu) is designing a family
 of domain-specific data analytics infrastructure to decrease the 
 barrier to entry in data-driven discovery.
 
-Prof. Rajan chaired the committees that designed the 
-Data Science Minor, 
+Prof. Rajan co-led (with Associate Deans Arne Hallam and Sriram Sundararajan) 
+the committees that designed the Data Science Minor, 
 Certificate, and 
 B.S. degree programs at ISU. 
 He founded the [annual Midwest Big Data Summer School](http://mbds.cs.iastate.edu) 
