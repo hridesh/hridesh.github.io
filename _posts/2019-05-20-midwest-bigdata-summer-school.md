@@ -1,14 +1,14 @@
 ---
-title: "2019 Midwest Big Data Summer School: Fourth edition"
+title: "2019 Midwest Big Data Summer School"
 ---
 
 ![2019 Midwest Big Data Summer School]({{ site.url }}/images/mbds2019.png)
 
 Building on the inaugural 
-<a href"http://mbds.cs.iastate.edu/2016/">2016</a>,
-<a href"http://mbds.cs.iastate.edu/2017/">2017</a>, and
-<a href"http://mbds.cs.iastate.edu/2018/">2018</a> editions,
-the <a href"http://mbds.cs.iastate.edu/2019/">2019</a> edition has started.
+[2016](http://mbds.cs.iastate.edu/2016/),
+[2017](http://mbds.cs.iastate.edu/2017/), and
+[2018](http://mbds.cs.iastate.edu/2018/) editions,
+the [2019](http://mbds.cs.iastate.edu/2019/) edition has started.
 This edition
 will be held from May 20-23, 2019 in Ames, Iowa. 
 The 2019 edition is sponsored by the Midwest Big Data Hub, the ISU College of Liberal Arts & Sciences, Syngenta, Corteva, the ISU Department of Computer Science and Statistics, and the ISU Data Science program.
