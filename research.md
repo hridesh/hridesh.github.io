@@ -171,15 +171,120 @@ that is developing techniques for inferring behavioral specifications
 that rely on both program analysis and data mining of data from open
 source repositories.
 
-SpecGuru project has been supported in part by the following grants.
+ SpecGuru project has been supported in part by the following grants.
 
-* US National Science Foundation, SHF: Large:Collaborative Research: Inferring Software Specifications from
-Open Source Repositories by Leveraging Data and Collective Community Expertise.
-PI: Hridesh Rajan and Co-I: Robert Dyer, Tien Nguyen, Gary T. Leavens, and Vasant Honavar (2015-2018),
-Links: [ISU](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1518897),
-[BGSU](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1518776),
-[UCF](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1518789), and
-[PSU](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1518732).
+ * US National Science Foundation, SHF: Large:Collaborative Research: Inferring Software Specifications from
+ Open Source Repositories by Leveraging Data and Collective Community Expertise.
+ PI: Hridesh Rajan and Co-I: Robert Dyer, Tien Nguyen, Gary T. Leavens, and Vasant Honavar (2015-2018),
+ Links: [ISU](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1518897),
+ [BGSU](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1518776),
+ [UCF](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1518789), and
+ [PSU](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1518732).
+
+
+<p>Following research papers document progress on this project:
+
+[(https://lab-design.github.io/papers/OOPSLA-17/)OOPSLA'17],
+[(https://lab-design.github.io/papers/ICSE-NIER-17b/)ICSE'17 (NIER)],
+[(https://lab-design.github.io/papers/ICSE-15b/)ICSE'15 (NIER)],
+[(https://lab-design.github.io/papers/FSE-14)FSE'14],
+
+
+
+
+(http://paninij.org)<B>Panini</B> project that is developing the
+(https://lab-design.github.io/papers/TR-13-01)capsule-oriented 
+programming model</B>.
+Capsule-oriented programming model is aimed at making concurrent software
+development easier by providing two properties:
+(1) given a module it ought to be possible to statically, and modularly identify all points
+in its code where other modules might interfere (interference points), and
+(2) given a module and the interfaces of other modules, that the subject module interacts with, it
+ought to be possible to statically and modularly construct an upper bound on the behavior
+of all potentially interferring tasks at each interference point.
+We show that if a programming model has these two properties, then it is possible to modularly
+reason about concurrent programs in that model.
+By the first property, humans and tools can identify points where interference from other
+concurrent tasks must be considered. By the second property, the computed upper bound can be
+used for reasoning instead of needing the implementation of interferring modules.
+Compared to alternatives, where reasoning either becomes a global process or entails a global
+step, modular reasoning afforded by this programming model makes both manual and automated
+reasoning about concurrent software more scalable. Panini project has been supported in part
+by the following grants.
+
+
+
+US National Science Foundation, (http://www.nsf.gov/awardsearch/showAward?AWD_ID=1423370)
+SHF:Small: Capsule-oriented Programming. PI: Hridesh Rajan
+(2014-2018), Award amount: $450,098.
+
+US National Science Foundation, (http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0846059)
+CAREER:On Mutualism of Modularity and Concurrency Goals. PI: Hridesh Rajan
+(2009-2015), Award amount: $565,935.
+
+US National Science Foundation, (http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1117937)
+SHF:Small:Phase-Based Tuning for Better Utilization of Performance-Asymmetric Multicores.
+PI: Hridesh Rajan (2011-2015), Award amount: $416,000.
+
+
+<p>Following research papers document progress on this project:
+
+
+[(https://lab-design.github.io/papers/OOPSLA-15/)OOPSLA'15],
+[(https://lab-design.github.io/papers/ICSE-15a/)ICSE'15 (NIER)],
+[(https://lab-design.github.io/papers/MODULARITY-15/)Modularity'15],
+[(https://lab-design.github.io/papers/ECOOP-15/)ECOOP'15],
+[(https://lab-design.github.io/papers/AGERE-14/)AGERE'14],
+[(https://lab-design.github.io/papers/ONWARD-10/)Onward!'10],
+[(https://lab-design.github.io/papers/GPCE-10)GPCE'10],
+[(https://lab-design.github.io/papers/FoSER-10/)FoSER'10]
+
+
+
+<p>We have created two software systems that support this programming model so far:
+<OL>
+
+an extension of Java (and the reference compiler javac) that we call
+(http://paninij.org)PaniniJ, and 
+an annotation-based framework that uses annotation processing facilities,
+instead of syntax extensions, that we call (http://hridesh.github.io/panini/)@PaniniJ.
+</OL>
+
+
+(http://ptolemy.cs.iastate.edu)<B>Ptolemy</B>, an event-based
+language whose goal is to enable more modular reasoning about advanced separation
+of concerns mechanisms such as implicit invocation and aspects. Ptolemy provides
+(https://lab-design.github.io/papers/ECOOP-2008)quantified-typed events
+that act as an interface between modules. A key benefit of quantified-typed events is
+that they allow programmers to write new kinds of contracts that we call
+(https://lab-design.github.io/papers/AOSD-11)translucid contracts,
+which enables modular reasoning about modules that announce events and those
+that listen to events. Ptolemy project has been supported in part by the following
+grant.
+
+US National Science Foundation, (http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1017334)
+SHF:Small:Balancing Expressiveness and Modular Reasoning for Aspect-oriented Programming.
+PI: Hridesh Rajan (2010 - 2013).
+
+
+<p>Following research papers document progress on this project:
+
+
+ * [Modularity'15](https://lab-design.github.io/papers/MODULARITY-15b/),
+ * [Modularity'13](https://lab-design.github.io/papers/AOSD-13),
+ * [TAOSD'13](https://lab-design.github.io/papers/TAOSD-13),
+ * [AOSD'12](https://lab-design.github.io/papers/AOSD-12),
+ * [FOAL'12](https://lab-design.github.io/papers/FOAL-12),
+ * [AOSD'11](https://lab-design.github.io/papers/AOSD-11),
+ * [FOAL'10](https://lab-design.github.io/papers/FOAL-10),
+ * [TOSEM'09](https://lab-design.github.io/papers/TOSEM-09),
+ * [ECOOP'08](https://lab-design.github.io/papers/ECOOP-2008),
+ * [IEEE Software'06](https://lab-design.github.io/papers/Software-2006),
+ * [ESEC/FSE'05](https://lab-design.github.io/papers/ESEC-FSE-2005)
+
+
+* [More projects...](https://lab-design.github.io/projects)
+
 
 
 ### Ptolemy Project
