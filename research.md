@@ -130,27 +130,28 @@ data intensive programs (also popularly referred to as Big Data programs) that f
 reasoning about such programs?</EM>-->
 My main research projects are:
 
+### [Boa](http://boa.cs.iastate.edu)
 
-* [Boa](http://boa.cs.iastate.edu), a domain-specific
-language and its infrastructure whose goal is to significantly ease the
-experimental cost of mining ultra-large-scale open source repositories.
-Boa is a research infrastructure that consists of a domain-specific language, its compiler and data
-updating tools, terabytes (and growing) of raw data from open source
-repositories that contains hundreds of thousands of open source projects,
-a backend based on map-reduce to effectively analyze this dataset,
-a compute cluster, and a web-based frontend for writing analysis programs.
+ [Boa](http://boa.cs.iastate.edu) project is developing a domain-specific
+ language and its infrastructure whose goal is to significantly ease the
+ experimental cost of mining ultra-large-scale open source repositories.
+ Boa is a research infrastructure that consists of a domain-specific language, its compiler and data
+ updating tools, terabytes (and growing) of raw data from open source
+ repositories that contains hundreds of thousands of open source projects,
+ a backend based on map-reduce to effectively analyze this dataset,
+ a compute cluster, and a web-based frontend for writing analysis programs.
 
  Boa project has been supported in part by the following grants.
 
  * US National Science Foundation, CI-EN: Boa: Enhancing Infrastructure for Studying Software and its Evolution at a Large Scale.
- PI: Hridesh Rajan and Co-I: Tien Nguyen, Robert Dyer (2015-2020),
- Total award amount: $1,559,806,
- Links: [ISU](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1513263), and
- [BGSU](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1512947).
+   PI: Hridesh Rajan and Co-I: Tien Nguyen, Robert Dyer (2015-2020),
+   Total award amount: $1,559,806,
+   Links: [ISU](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1513263), and
+   [BGSU](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1512947).
 
  * US National Science Foundation, 
- [EAGER: Boa: A Community Research Infrastructure for Mining Software Repositories](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1349153).
- PI: Hridesh Rajan and Co-I: Tien Nguyen (2013-2015).
+   [EAGER: Boa: A Community Research Infrastructure for Mining Software Repositories](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1349153).
+   PI: Hridesh Rajan and Co-I: Tien Nguyen (2013-2015).
 
 
  Following research papers document progress on this project:
@@ -166,32 +167,35 @@ a compute cluster, and a web-based frontend for writing analysis programs.
  * [GPCE'13](https://lab-design.github.io/papers/GPCE-13)
 
 
-* (https://specguru.github.io)<B>SpecGuru</B> project
-that is developing techniques for inferring behavioral specifications
-that rely on both program analysis and data mining of data from open
-source repositories.
+### [SpecGuru Project] (https://specguru.github.io)
+
+ [SpecGuru Project] (https://specguru.github.io) is developing techniques for inferring behavioral specifications
+ that rely on both program analysis and data mining of data from open
+ source repositories.
 
  SpecGuru project has been supported in part by the following grants.
 
  * US National Science Foundation, SHF: Large:Collaborative Research: Inferring Software Specifications from
- Open Source Repositories by Leveraging Data and Collective Community Expertise.
- PI: Hridesh Rajan and Co-I: Robert Dyer, Tien Nguyen, Gary T. Leavens, and Vasant Honavar (2015-2018),
- Links: [ISU](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1518897),
- [BGSU](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1518776),
- [UCF](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1518789), and
- [PSU](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1518732).
+   Open Source Repositories by Leveraging Data and Collective Community Expertise.
+   PI: Hridesh Rajan and Co-I: Robert Dyer, Tien Nguyen, Gary T. Leavens, and Vasant Honavar (2015-2018),
+   Links: [ISU](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1518897),
+   [BGSU](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1518776),
+   [UCF](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1518789), and
+   [PSU](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1518732).
 
 
-  Following research papers document progress on this project:
+ Following research papers document progress on this project:
 
-  * [OOPSLA'17](https://lab-design.github.io/papers/OOPSLA-17/),
-  * [ICSE'17 (NIER)](https://lab-design.github.io/papers/ICSE-NIER-17b/),
-  * [ICSE'15 (NIER)](https://lab-design.github.io/papers/ICSE-15b/),
-  * [FSE'14](https://lab-design.github.io/papers/FSE-14),
+ * [OOPSLA'17](https://lab-design.github.io/papers/OOPSLA-17/),
+ * [ICSE'17 (NIER)](https://lab-design.github.io/papers/ICSE-NIER-17b/),
+ * [ICSE'15 (NIER)](https://lab-design.github.io/papers/ICSE-15b/),
+ * [FSE'14](https://lab-design.github.io/papers/FSE-14),
 
 
-* [Panini](http://paninij.org) project that is developing the
-  [Capsule-oriented Programming](https://lab-design.github.io/papers/TR-13-01) model.
+### [Panini Project](http://paninij.org)
+
+ [Panini](http://paninij.org) project is developing the
+ [Capsule-oriented Programming](https://lab-design.github.io/papers/TR-13-01) model.
  Capsule-oriented programming model is aimed at making concurrent software
  development easier by providing two properties:
  (1) given a module it ought to be possible to statically, and modularly identify all points
@@ -243,8 +247,9 @@ source repositories.
   * an annotation-based framework that uses annotation processing facilities,
     instead of syntax extensions, that we call [@PaniniJ](http://hridesh.github.io/panini/).
 
+#### [Ptolemy](http://ptolemy.cs.iastate.edu)
 
-* [Ptolemy](http://ptolemy.cs.iastate.edu), an event-based
+  [Ptolemy](http://ptolemy.cs.iastate.edu) project is developing an event-based
   language whose goal is to enable more modular reasoning about advanced separation
   of concerns mechanisms such as implicit invocation and aspects. Ptolemy provides
   [quantified-typed events](https://lab-design.github.io/papers/ECOOP-2008)
@@ -273,6 +278,8 @@ source repositories.
   * [ECOOP'08](https://lab-design.github.io/papers/ECOOP-2008),
   * [IEEE Software'06](https://lab-design.github.io/papers/Software-2006),
   * [ESEC/FSE'05](https://lab-design.github.io/papers/ESEC-FSE-2005)
+
+
 
 
 * [More projects...](https://lab-design.github.io/projects)
