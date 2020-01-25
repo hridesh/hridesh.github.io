@@ -152,7 +152,7 @@ Com S 610-HR: Graduate Seminar on Security Properties of Software Systems
 
 ### Teaching Related Resources
 
-[exam.class](http://www.cs.iastate.edu/~hridesh/teaching/resources/examClass.tar.gz): 
+[exam.class]({{ site.baseurl }}/resources/examClass.tar.gz): 
 A LaTeX class file and example for typesetting exams and quizzes.
 
 
