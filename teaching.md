@@ -84,7 +84,51 @@ This edition used the book <EM>Essentials of Programming Languages, 2nd Edition
 by Friedman, Wand and Haynes</EM>. Most of this edition was adopted from a
 previously taught course by (http://www.eecs.ucf.edu/~leavens)Prof. Gary T. Leavens.
 
+### Com S 541: A Graduate Course on Programming Language Design and Semantics
 
+Below you will find description of the course
+Com S 541 as taught by Hridesh Rajan
+at Iowa State University and elsewhere.
+
+
+* [Fall 2015](http://www.cs.iastate.edu/~hridesh/teaching/541/):
+This edition used the lecture notes on Software Foundations developed by
+Benjamin C. Pierce <EM>et al.</EM> and the textbook
+<EM>&quot;Types and Programming Languages&quot;</EM> by Benjamin C. Pierce.
+Compared to previous editions that integrated projects, this edition used
+homework and exams as the primary evaluation medium.
+The course utilized ISU blackboard system for distributing material to students.
+
+
+
+<!--*
+(http://www.cs.iastate.edu/~hridesh/teaching/541/2011/fall/)Fall 2011:
+This edition is currently under construction. It will use the textbook
+<EM>&quot;Types and Programming Languages&quot;</EM> by Benjamin C. Pierce.
+-->
+
+* [Fall 2010](http://www.cs.iastate.edu/~hridesh/teaching/541/2010/fall/):
+This edition also used the lecture notes on Software Foundations developed by
+Benjamin C. Pierce <EM>et al.</EM> and the textbook
+<EM>&quot;Types and Programming Languages&quot;</EM> by Benjamin C. Pierce.
+Besides minor changes this edition was similar to the Fall 2009 edition.
+
+
+* [Fall 2009](http://www.cs.iastate.edu/~hridesh/teaching/541/2009/fall/)
+This edition used the lecture notes on Software Foundations developed by
+Benjamin C. Pierce <EM>et al.</EM> and the textbook
+<EM>&quot;Types and Programming Languages&quot;</EM> by Benjamin C. Pierce.
+A major change from last edition of this course was to use
+the (http://www.lix.polytechnique.fr/coq/)Coq proof assistant
+throughout this course for expressing language semantics, type systems, and
+for proving properties about them.
+
+
+* [Fall 2008](http://www.cs.iastate.edu/~hridesh/teaching/541/2008/fall/)
+This edition used the textbooks
+<EM>&quot;Types and Programming Languages&quot;</EM> by Benjamin C. Pierce
+and
+<EM>&quot;the Formal Semantics of Programming Languages&quot;</EM> by Glynn Winskel.
 
 ### Other Courses on Programming Language Design, Semantics, and Implementation
 
