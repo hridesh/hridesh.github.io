@@ -140,30 +140,30 @@ repositories that contains hundreds of thousands of open source projects,
 a backend based on map-reduce to effectively analyze this dataset,
 a compute cluster, and a web-based frontend for writing analysis programs.
 
-Boa project has been supported in part by the following grants.
+ Boa project has been supported in part by the following grants.
 
-* US National Science Foundation, CI-EN: Boa: Enhancing Infrastructure for Studying Software and its Evolution at a Large Scale.
-PI: Hridesh Rajan and Co-I: Tien Nguyen, Robert Dyer (2015-2020),
-Total award amount: $1,559,806,
-Links: [ISU](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1513263), and
-[BGSU](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1512947).
+ * US National Science Foundation, CI-EN: Boa: Enhancing Infrastructure for Studying Software and its Evolution at a Large Scale.
+ PI: Hridesh Rajan and Co-I: Tien Nguyen, Robert Dyer (2015-2020),
+ Total award amount: $1,559,806,
+ Links: [ISU](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1513263), and
+ [BGSU](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1512947).
 
-* US National Science Foundation, 
-[EAGER: Boa: A Community Research Infrastructure for Mining Software Repositories](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1349153).
-PI: Hridesh Rajan and Co-I: Tien Nguyen (2013-2015).
+ * US National Science Foundation, 
+ [EAGER: Boa: A Community Research Infrastructure for Mining Software Repositories](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1349153).
+ PI: Hridesh Rajan and Co-I: Tien Nguyen (2013-2015).
 
 
-Following research papers document progress on this project:
+ Following research papers document progress on this project:
 
-* [ESEC/FSE'18](https://lab-design.github.io/papers/FSE-18/),
-* [ICSE'18 (1)](https://lab-design.github.io/papers/ICSE-18a/),
-* [ICSE'18 (2)](https://lab-design.github.io/papers/ICSE-18b/),
-* [ICSE'17 (NIER)](https://lab-design.github.io/papers/ICSE-NIER-17a/),
-* [MSR'17](https://lab-design.github.io/papers/MSR-17/),
-* [ICSE'14](https://lab-design.github.io/papers/ICSE-14),
-* [ICSE'13](https://lab-design.github.io/papers/ICSE-13),
-* [ASE'13](https://lab-design.github.io/papers/ASE-13),
-* [GPCE'13](https://lab-design.github.io/papers/GPCE-13)
+ * [ESEC/FSE'18](https://lab-design.github.io/papers/FSE-18/),
+ * [ICSE'18 (1)](https://lab-design.github.io/papers/ICSE-18a/),
+ * [ICSE'18 (2)](https://lab-design.github.io/papers/ICSE-18b/),
+ * [ICSE'17 (NIER)](https://lab-design.github.io/papers/ICSE-NIER-17a/),
+ * [MSR'17](https://lab-design.github.io/papers/MSR-17/),
+ * [ICSE'14](https://lab-design.github.io/papers/ICSE-14),
+ * [ICSE'13](https://lab-design.github.io/papers/ICSE-13),
+ * [ASE'13](https://lab-design.github.io/papers/ASE-13),
+ * [GPCE'13](https://lab-design.github.io/papers/GPCE-13)
 
 
 * (https://specguru.github.io)<B>SpecGuru</B> project
