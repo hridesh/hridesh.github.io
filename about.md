@@ -7,18 +7,20 @@ permalink: /about/
 Hridesh Rajan is a Professor of [Computer Science](http://www.cs.iastate/edu)
 at [Iowa State University](http://www.iastate.edu), and 
 Professor-in-charge of [Data Science Programs](https://datascience.iastate.edu) at ISU. 
-His research interests are in Data Science, Software Engineering and Programming Languages. 
+His research interests are in Data Science, Software Engineering and Programming Languages 
+where he is most known for his design of the 
+[Ptolemy programming language](http://ptolemy.cs.iastate.edu) that 
+showed how to modularly reason about crosscutting concerns and the 
+[Boa programming language](http://boa.cs.iastate.edu) 
+and its infrastructure that decreases the barriers to data-driven software engineering. 
 He leads TADS ([Theoretical and Applied Data Science](https://tads.research.iastate.edu)), 
 a transdisciplinary research initiative of faculty and students in 
 Computer Science, Statistics, Mathematics, Agriculture, and Engineering. 
-His work on [Boa](http://boa.cs.iastate.edu) is designing a family 
-of domain-specific data analytics infrastructure to decrease the 
-barrier to entry in data-driven discovery.
 
 Prof. Rajan co-led (with Associate Deans Arne Hallam and Sriram Sundararajan) 
-the committees that designed the Data Science Minor, 
+the committees that designed the [Data Science Minor, 
 Certificate, and 
-B.S. degree programs at ISU. 
+B.S. degree programs at ISU](https://datascience.iastate.edu). 
 He founded the [annual Midwest Big Data Summer School](http://mbds.cs.iastate.edu) 
 to deliver broadly accessible data science training, and 
 served on the steering committee of the [Midwest Big Data Hub](http://midwestbigdatahub.org).
@@ -47,6 +49,21 @@ an ACM Distinguished Membership in 2017,
 and a US-UK Fulbright Scholarship in 2018. 
 He was a Member of Technical Staff at Bell Labs, 
 Lucent Technologies in Bangalore India from 2000 - 2001.
+
+### Short bio (for talks, etc.)
+
+Hridesh Rajan is the Kingland professor and interim department chair in 
+the Department of Computer Science at Iowa State University. 
+Prof. Rajan's research interests are in programming languages, software 
+engineering, and data science where he is most known for his design of 
+the Ptolemy programming language that showed how to modularly reason 
+about crosscutting concerns and the Boa programming language and its 
+infrastructure that decreases the barriers to data-driven software engineering.
+He has been recognized by the US National Science Foundation (NSF) with 
+a CAREER award, an Early Achievement in Research Award, a Big-12 Fellowship, 
+the Kingland Professorship, and an exemplary mentor for Junior Faculty award. 
+Prof. Rajan is a Fulbright scholar, distinguished member of the ACM, and 
+serves as an associate editor for the IEEE Transactions on Software Engineering.
 
 ### Academic Geneology
 
