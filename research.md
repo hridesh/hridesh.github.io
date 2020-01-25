@@ -167,9 +167,9 @@ My main research projects are:
  * [GPCE'13](https://lab-design.github.io/papers/GPCE-13)
 
 
-### [SpecGuru Project] (https://specguru.github.io)
+### [SpecGuru Project](https://specguru.github.io)
 
- [SpecGuru Project] (https://specguru.github.io) is developing techniques for inferring behavioral specifications
+ [SpecGuru Project](https://specguru.github.io) is developing techniques for inferring behavioral specifications
  that rely on both program analysis and data mining of data from open
  source repositories.
 
@@ -280,38 +280,8 @@ My main research projects are:
   * [ESEC/FSE'05](https://lab-design.github.io/papers/ESEC-FSE-2005)
 
 
-
-
 * [More projects...](https://lab-design.github.io/projects)
 
-
-
-### Ptolemy Project
-
-Our work on the [Ptolemy project](http://ptolemy.cs.iastate.edu) has created more modular mechanisms for reasoning about crosscutting concerns.
-
-### Boa Project
-
-Our work on the [Boa](http://boa.cs.iastate.edu) programming language 
-and its infrastructure has created linguistic abstractions for data-driven 
-science that scale because the language design ensures more modular 
-reasoning about runtime tasks. 
-A deployed setup of Boa (<http://boa.cs.iastate.edu>) is used by hundreds 
-of scientists around the world to study open source projects for a 
-variety of purposes and over three dozen external research papers have 
-appeared so far that have used Boa as a research instrument.
-
-### Panini Project
-
-Our work on the [Panini project](http://paninij.org) has created 
-abstractions for improving modular reasoning about concurrent programs.
-
-I direct the [Laboratory for Software Design](https://lab-design.github.io) 
-in the [Department of Computer Science](http://www.cs.iastate.edu). 
-In 2016 and 2017 we have also organized the 
-[Midwest Big Data Summer School](http://mbds.cs.iastate.edu), a one-week, 
-intensive curriculum aimed at early career researchers to get them 
-started in data-driven research.
 
 ### Contact me
 
