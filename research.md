@@ -113,6 +113,74 @@ ACM Trans. Softw. Eng. Methodol., December 2015.
 * [more...](https://lab-design.github.io/papers/)
 
 
+### Research Projects
+
+My recent research has focussed on data science and concurrency.
+My overarching research program is aimed at improving programmer productivity, and correctness of software systems that
+they produce. In particular, I am interested in designing new programming abstractions that
+abstract away error-prone concerns, improve modularity, and improve modular reasoning.
+By abstracting away error-prone concerns, and having compilers and programming frameworks
+automatically provide adequate implementation of such concerns, my research aspires to reduce
+potential for errors in software, and improve productivity.
+By improving modularity and modular reasoning, my research strives for improved scalability
+in both manual and automatic reasoning as well as verification processes.
+<!--I am interested in two specific questions: (1) <EM>how can we enable more modular reasoning 
+about concurrent programs?</EM> and (2) <EM>what are adequate programming abstractions for 
+data intensive programs (also popularly referred to as Big Data programs) that facilitate
+reasoning about such programs?</EM>-->
+My main research projects are:</p>
+
+
+* [Boa](http://boa.cs.iastate.edu), a domain-specific
+language and its infrastructure whose goal is to significantly ease the
+experimental cost of mining ultra-large-scale open source repositories.
+Boa is a research infrastructure that consists of a domain-specific language, its compiler and data
+updating tools, terabytes (and growing) of raw data from open source
+repositories that contains hundreds of thousands of open source projects,
+a backend based on map-reduce to effectively analyze this dataset,
+a compute cluster, and a web-based frontend for writing analysis programs.
+
+Boa project has been supported in part by the following grants.
+
+* US National Science Foundation, CI-EN: Boa: Enhancing Infrastructure for Studying Software and its Evolution at a Large Scale.
+PI: Hridesh Rajan and Co-I: Tien Nguyen, Robert Dyer (2015-2020),
+Total award amount: $1,559,806,
+Links: [ISU](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1513263), and
+[BGSU](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1512947).
+
+* US National Science Foundation, (http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1349153)
+[EAGER: Boa: A Community Research Infrastructure for Mining Software Repositories](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1349153).
+PI: Hridesh Rajan and Co-I: Tien Nguyen (2013-2015).
+
+
+Following research papers document progress on this project:
+
+* [(https://lab-design.github.io/papers/FSE-18/)ESEC/FSE'18],
+* [(https://lab-design.github.io/papers/ICSE-18a/)ICSE'18 (1)],
+* [(https://lab-design.github.io/papers/ICSE-18b/)ICSE'18 (2)],
+* [(https://lab-design.github.io/papers/ICSE-NIER-17a/)ICSE'17 (NIER)],
+* [(https://lab-design.github.io/papers/MSR-17/)MSR'17],
+* [(https://lab-design.github.io/papers/ICSE-14)ICSE'14],
+* [(https://lab-design.github.io/papers/ICSE-13)ICSE'13],
+* [(https://lab-design.github.io/papers/ASE-13)ASE'13],
+* [(https://lab-design.github.io/papers/GPCE-13)GPCE'13]
+
+
+* (https://specguru.github.io)<B>SpecGuru</B> project
+that is developing techniques for inferring behavioral specifications
+that rely on both program analysis and data mining of data from open
+source repositories.
+
+SpecGuru project has been supported in part by the following grants.
+
+* US National Science Foundation, SHF: Large:Collaborative Research: Inferring Software Specifications from
+Open Source Repositories by Leveraging Data and Collective Community Expertise.
+PI: Hridesh Rajan and Co-I: Robert Dyer, Tien Nguyen, Gary T. Leavens, and Vasant Honavar (2015-2018),
+Links: [ISU](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1518897),
+[BGSU](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1518776),
+[UCF](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1518789), and
+[PSU](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1518732).
+
 
 ### Ptolemy Project
 
