@@ -276,7 +276,7 @@ My main research projects are:
   * [FOAL'10](https://lab-design.github.io/papers/FOAL-10),
   * [TOSEM'09](https://lab-design.github.io/papers/TOSEM-09),
   * [ECOOP'08](https://lab-design.github.io/papers/ECOOP-2008),
-  * [IEEE Software'06](https://lab-design.github.io/papers/Software-2006), and 
+  * [IEEE Software'06](https://lab-design.github.io/papers/Software-2006), and
   * [ESEC/FSE'05](https://lab-design.github.io/papers/ESEC-FSE-2005).
 
 
