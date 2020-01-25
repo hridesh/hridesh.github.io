@@ -90,9 +90,9 @@ previously taught course by (http://www.eecs.ucf.edu/~leavens)Prof. Gary T. Leav
 
 Com S 610-HR: Advanced Topics Courses
 
-* Fall 2009: (http://www.cs.iastate.edu/~hridesh/teaching/610/09/fall/)Advanced Topics in Type Systems
-* Spring 2008: (http://www.cs.iastate.edu/~hridesh/teaching/610/08/spring/)Advanced Topics in Program Analysis.
-* Spring 2006: (http://www.cs.iastate.edu/~hridesh/teaching/610/06/01/)Aspect-oriented Software Development
+* Fall 2009: [Advanced Topics in Type Systems](http://www.cs.iastate.edu/~hridesh/teaching/610/09/fall/)
+* Spring 2008: [Advanced Topics in Program Analysis](http://www.cs.iastate.edu/~hridesh/teaching/610/08/spring/)
+* Spring 2006: [Aspect-oriented Software Development](http://www.cs.iastate.edu/~hridesh/teaching/610/06/01/)
 
 CS-551/661 - Aspect-oriented Software Development [Fall 2004](http://www.cs.virginia.edu/~eos/cs651/),
 co-developed and co-taught with Prof. Kevin Sullivan at University of Virginia
