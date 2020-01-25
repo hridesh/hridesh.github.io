@@ -7,6 +7,9 @@ links:
 
 
 Md Johirul Islam has successfully defended his Masters of Science thesis.
+Johirul's work has focused on creating a shared data science infrastructure for 
+transportation data. 
+
 The thesis abstract:
 
 <EM>

@@ -7,6 +7,11 @@ links:
 
 
 Hamid Bagheri has successfully passed the PhD preliminary exam.
+Hamid's PhD work will continue his MS work on a shared data science 
+infrastructure for genomics data extending it to the non-redundant (NR)
+database and using the infrastructure to enable new questions in 
+data-driven genomics. 
+
 The proposal abstract:
 
 <EM>

@@ -7,6 +7,9 @@ links:
 
 
 Hamid Bagheri has successfully defended his Masters of Science degree.
+Hamid's MS work has focused on creating a shared data science infrastructure 
+for Genomics data. 
+
 The thesis abstract:
 
 <EM>
