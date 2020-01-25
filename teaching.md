@@ -19,10 +19,10 @@ copyright notice. All other rights reserved.
 ### Software Design
 
 Com S 362: Object-Oriented Analysis and Design
-* [<a href="http://www.cs.iastate.edu/~hridesh/teaching/362/06/01/">Spring 2006</a>],
-* [<a href="http://www.cs.iastate.edu/~hridesh/teaching/362/06/02/">Fall 2006</a>],
-* [<a href="http://www.cs.iastate.edu/~hridesh/teaching/362/07/01/">Spring 2007</a>],
-* [<a href="http://www.cs.iastate.edu/~hridesh/teaching/362/07/02/">Fall 2007</a>].
+* [Spring 2006](http://www.cs.iastate.edu/~hridesh/teaching/362/06/01/)
+* [Fall 2006](http://www.cs.iastate.edu/~hridesh/teaching/362/06/02/)
+* [Spring 2007](http://www.cs.iastate.edu/~hridesh/teaching/362/07/01/)
+* [Fall 2007](http://www.cs.iastate.edu/~hridesh/teaching/362/07/02/)
 
 ### Other Courses on Programming Language Design, Semantics, and Implementation
 
@@ -32,19 +32,17 @@ Com S 610-HR: Advanced Topics Courses
 * Spring 2008: <a href="http://www.cs.iastate.edu/~hridesh/teaching/610/08/spring/">Advanced Topics in Program Analysis</a>.
 * Spring 2006: <a href="http://www.cs.iastate.edu/~hridesh/teaching/610/06/01/">Aspect-oriented Software Development</a>
 
-<p>
-CS-551/661 - Aspect-oriented Software Development <a href="http://www.cs.virginia.edu/~eos/cs651/">Fall 2004</a>,
+CS-551/661 - Aspect-oriented Software Development [Fall 2004](http://www.cs.virginia.edu/~eos/cs651/),
 co-developed and co-taught with Prof. Kevin Sullivan at University of Virginia
-</p>
 
 ### Software Security
 
 Com S 610-HR: Graduate Seminar on Security Properties of Software Systems
-* <a href="http://www.cs.iastate.edu/~hridesh/teaching/610/06/02/">Fall 2006</a>
+* [Fall 2006](http://www.cs.iastate.edu/~hridesh/teaching/610/06/02/)
 
 ### Other Courses
 
-<a href="http://www.cs.iastate.edu/~hridesh/teaching/pff/05/01">Preparing Graduate Students for Faculty Career</a>
+[Preparing Graduate Students for Faculty Career](http://www.cs.iastate.edu/~hridesh/teaching/pff/05/01)
 
 ### Teaching Related Resources
 
