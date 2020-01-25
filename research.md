@@ -167,7 +167,7 @@ My main research projects are:
  * [GPCE'13](https://lab-design.github.io/papers/GPCE-13)
 
 
-### [SpecGuru Project](https://specguru.github.io)
+### [SpecGuru](https://specguru.github.io)
 
  [SpecGuru Project](https://specguru.github.io) is developing techniques for inferring behavioral specifications
  that rely on both program analysis and data mining of data from open
@@ -188,11 +188,11 @@ My main research projects are:
 
  * [OOPSLA'17](https://lab-design.github.io/papers/OOPSLA-17/),
  * [ICSE'17 (NIER)](https://lab-design.github.io/papers/ICSE-NIER-17b/),
- * [ICSE'15 (NIER)](https://lab-design.github.io/papers/ICSE-15b/),
- * [FSE'14](https://lab-design.github.io/papers/FSE-14),
+ * [ICSE'15 (NIER)](https://lab-design.github.io/papers/ICSE-15b/), and
+ * [FSE'14](https://lab-design.github.io/papers/FSE-14).
 
 
-### [Panini Project](http://paninij.org)
+### [Panini](http://paninij.org)
 
  [Panini](http://paninij.org) project is developing the
  [Capsule-oriented Programming](https://lab-design.github.io/papers/TR-13-01) model.
@@ -276,8 +276,8 @@ My main research projects are:
   * [FOAL'10](https://lab-design.github.io/papers/FOAL-10),
   * [TOSEM'09](https://lab-design.github.io/papers/TOSEM-09),
   * [ECOOP'08](https://lab-design.github.io/papers/ECOOP-2008),
-  * [IEEE Software'06](https://lab-design.github.io/papers/Software-2006),
-  * [ESEC/FSE'05](https://lab-design.github.io/papers/ESEC-FSE-2005)
+  * [IEEE Software'06](https://lab-design.github.io/papers/Software-2006), and 
+  * [ESEC/FSE'05](https://lab-design.github.io/papers/ESEC-FSE-2005).
 
 
 * [More projects...](https://lab-design.github.io/projects)
