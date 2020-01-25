@@ -88,3 +88,6 @@ exclude:
 # Plugins
 plugins:
   - jekyll-gist
+  - jekyll-paginate
+
+paginate: 10
