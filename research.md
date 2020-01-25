@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-My research interest spans the following areas.
+My research interests span the following areas.
 
 * Software Engineering (SE), programming languages (PL), and data science
 * Data science, SE &amp; PL for data-intensive systems,
@@ -128,7 +128,7 @@ in both manual and automatic reasoning as well as verification processes.
 about concurrent programs?</EM> and (2) <EM>what are adequate programming abstractions for 
 data intensive programs (also popularly referred to as Big Data programs) that facilitate
 reasoning about such programs?</EM>-->
-My main research projects are:</p>
+My main research projects are:
 
 
 * [Boa](http://boa.cs.iastate.edu), a domain-specific
@@ -148,22 +148,22 @@ Total award amount: $1,559,806,
 Links: [ISU](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1513263), and
 [BGSU](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1512947).
 
-* US National Science Foundation, (http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1349153)
+* US National Science Foundation, 
 [EAGER: Boa: A Community Research Infrastructure for Mining Software Repositories](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1349153).
 PI: Hridesh Rajan and Co-I: Tien Nguyen (2013-2015).
 
 
 Following research papers document progress on this project:
 
-* [(https://lab-design.github.io/papers/FSE-18/)ESEC/FSE'18],
-* [(https://lab-design.github.io/papers/ICSE-18a/)ICSE'18 (1)],
-* [(https://lab-design.github.io/papers/ICSE-18b/)ICSE'18 (2)],
-* [(https://lab-design.github.io/papers/ICSE-NIER-17a/)ICSE'17 (NIER)],
-* [(https://lab-design.github.io/papers/MSR-17/)MSR'17],
-* [(https://lab-design.github.io/papers/ICSE-14)ICSE'14],
-* [(https://lab-design.github.io/papers/ICSE-13)ICSE'13],
-* [(https://lab-design.github.io/papers/ASE-13)ASE'13],
-* [(https://lab-design.github.io/papers/GPCE-13)GPCE'13]
+* [ESEC/FSE'18](https://lab-design.github.io/papers/FSE-18/),
+* [ICSE'18 (1)](https://lab-design.github.io/papers/ICSE-18a/),
+* [ICSE'18 (2)](https://lab-design.github.io/papers/ICSE-18b/),
+* [ICSE'17 (NIER)](https://lab-design.github.io/papers/ICSE-NIER-17a/),
+* [MSR'17](https://lab-design.github.io/papers/MSR-17/),
+* [ICSE'14](https://lab-design.github.io/papers/ICSE-14),
+* [ICSE'13](https://lab-design.github.io/papers/ICSE-13),
+* [ASE'13](https://lab-design.github.io/papers/ASE-13),
+* [GPCE'13](https://lab-design.github.io/papers/GPCE-13)
 
 
 * (https://specguru.github.io)<B>SpecGuru</B> project
