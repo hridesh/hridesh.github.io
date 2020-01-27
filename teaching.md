@@ -11,7 +11,6 @@ copyright &#169; Hridesh Rajan 2005 - 2020. Permission is granted to make
 copies for educational and scholarly purposes, but copies may not be used
 directly or indirectly for commercial purposes. All copies must retain this
 copyright notice. All other rights reserved.
-</p>
 
 ### Software Design
 
