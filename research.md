@@ -15,6 +15,13 @@ My research interests span the following areas.
 
 ### Select Recent Publications
 
+* Rangeet Pan and Hridesh Rajan, 
+"[On Decomposing a Deep Neural Network into Modules](https://lab-design.github.io/papers/ESEC-FSE-20b/)," ESEC/FSE’2020: The 28th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, November, 2020.
+
+
+* Sumon Biswas and Hridesh Rajan, 
+"[Do the Machine Learning Models on a Crowd Sourced Platform Exhibit Bias? An Empirical Study on Model Fairness](https://lab-design.github.io/papers/ESEC-FSE-20a/)," ESEC/FSE’2020: The 28th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, November, 2020.
+
 
 * Md Johirul Islam, Rangeet Pan, Giang Nguyen, and Hridesh Rajan,
 "[Repairing Deep Neural Networks: Fix Patterns and Challenges](https://lab-design.github.io/papers/ICSE-20a/),"
