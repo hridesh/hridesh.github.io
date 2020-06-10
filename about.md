@@ -4,10 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Hridesh Rajan is a Professor of [Computer Science](http://www.cs.iastate/edu)
-at [Iowa State University](http://www.iastate.edu), and 
+Hridesh Rajan is a Professor and Interim Chair
+of [Computer Science](http://www.cs.iastate/edu)
+at [Iowa State University](http://www.iastate.edu).
+From 2017-2019, he served as the founding 
 Professor-in-charge of [Data Science Programs](https://datascience.iastate.edu) at ISU. 
-His research interests are in Data Science, Software Engineering and Programming Languages 
+His research interests are in
+Data Science, Software Engineering and Programming Languages 
 where he is most known for his design of the 
 [Ptolemy programming language](http://ptolemy.cs.iastate.edu) that 
 showed how to modularly reason about crosscutting concerns and the 
@@ -33,7 +36,7 @@ and chairs the IT Subcommittee of the ISU Faculty Senate.
 Prof. Rajan is an [ABET](http://ABET.org/)
 program evaluator.
 
-Hridesh earned his doctorate from the 
+Prof. Rajan earned his doctorate from the 
 [University of Virginia](http://virginia.edu)
 in 2005, where he also got his masters in computer science. 
 He received his undergraduate degree from the 
@@ -46,7 +49,8 @@ an ACM Senior Membership in 2014,
 an exemplary mentor for Junior Faculty award in 2017, 
 a Kingland Endowed Professorship in 2017, 
 an ACM Distinguished Membership in 2017, 
-and a US-UK Fulbright Scholarship in 2018. 
+a US-UK Fulbright Scholarship in 2018,
+and a Facebook Probability and Programming Award in 2020. 
 He was a Member of Technical Staff at Bell Labs, 
 Lucent Technologies in Bangalore India from 2000 - 2001.
 
