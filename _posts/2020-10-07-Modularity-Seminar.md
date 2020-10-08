@@ -5,12 +5,12 @@ links:
 
 This Fall 2020 semester, I am teaching an advanced topics seminar on 
 the idea of Modularity in Software Engineering.
-The goal of this seminar to read some classic papers on modularity in 
-software engineering and programming languages research.  
+The goal of this seminar is to discuss some classic papers on modularity 
+in software engineering and programming languages.  
 
 We will be reading the following papers. 
 
-1. Early ideas: Separation of Concerns, information hiding
+1. Early ideas: Separation of Concerns, Information Hiding
  - E. Dijkstra, "[On the role of scientific thought](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD04xx/EWD447.html)", 
    From Edsger W. Dijkstra, Selected Writings on Computing: A Personal Perspective, Springer-Verlag, 1982. 
  - Parnas, D.L., "[On the Criteria To Be Used in Decomposing Systems Into Modules](https://dl.acm.org/doi/10.1145/361598.361623)" 
