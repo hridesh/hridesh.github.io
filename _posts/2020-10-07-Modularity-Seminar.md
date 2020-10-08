@@ -5,8 +5,8 @@ links:
 
 This Fall 2020 semester, I am teaching an advanced topics seminar on 
 the idea of Modularity in Software Engineering.
-The goal of this seminar is to discuss some classic papers on modularity 
-in software engineering and programming languages.  
+The goal of this seminar is to discuss some classic and recent papers 
+on modularity in software engineering and programming languages.  
 
 We will be reading the following papers. 
 
@@ -22,4 +22,13 @@ We will be reading the following papers.
    ICSE '99: Proceedings of the 21st international conference on Software engineering, Los Angeles, California, USA, 1999.
 3. Luca Cardelli. "[Program fragments, linking, and modularization](http://lucacardelli.name/Papers/Linking.A4.pdf)", In Proceedings of the 24th ACM SIGPLAN-SIGACT 
    symposium on Principles of programming languages (POPL '97). Association for Computing Machinery, New York, NY, USA, 266–277. DOI:https://doi.org/10.1145/263699.263735
-
+4.
+5. Matthew Flatt and Matthias Felleisen, "[Units: cool modules for HOT languages](https://dl.acm.org/doi/abs/10.1145/277650.277730)", 
+   In Proceedings of the ACM SIGPLAN 1998 conference on Programming language design and implementation (PLDI '98).
+   Association for Computing Machinery, New York, NY, USA, 236–248. DOI:https://doi.org/10.1145/277650.277730
+6.
+7. Hridesh Rajan and Gary Leavens, "[Ptolemy: A Language with Quantified, Typed Events](https://lab-design.github.io/papers/ECOOP-2008/)" 
+   ECOOP ’08: 22nd European Conference on Object-Oriented Programming (Jul. 2008).
+8. Mehdi Bagherzadeh and Hridesh Rajan, "[Panini: A Concurrent Programming Model 
+   for Solving Pervasive and Oblivious Interference](https://lab-design.github.io/papers/MODULARITY-15/)", 
+   Modularity’15: 14th International Conference on Modularity (Mar. 2015).
