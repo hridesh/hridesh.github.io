@@ -4,11 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Hridesh Rajan is a Professor and Interim Chair
+Hridesh Rajan is a Professor and Department Chair
 of [Computer Science](http://www.cs.iastate/edu)
 at [Iowa State University](http://www.iastate.edu).
 From 2017-2019, he served as the founding 
 Professor-in-charge of [Data Science Programs](https://datascience.iastate.edu) at ISU. 
+Rajan is a Fellow of the American Association for the Advancement of Science (AAAS)
+and a Fulbright Scholar.
 His research interests are in
 Data Science, Software Engineering and Programming Languages 
 where he is most known for his design of the 
@@ -21,8 +23,7 @@ a transdisciplinary research initiative of faculty and students in
 Computer Science, Statistics, Mathematics, Agriculture, and Engineering. 
 
 Prof. Rajan co-led (with Associate Deans Arne Hallam and Sriram Sundararajan) 
-the committees that designed the [Data Science Minor, 
-Certificate, and 
+the committees that designed the [Data Science Minor, Certificate, and 
 B.S. degree programs at ISU](https://datascience.iastate.edu). 
 He founded the [annual Midwest Big Data Summer School](http://mbds.cs.iastate.edu) 
 to deliver broadly accessible data science training, and 
@@ -33,8 +34,7 @@ for Computer Science (2014-2019) nearly doubling the number
 of graduate students, directs the 
 [Laboratory for Software Design](http://design.cs.iastate.edu), 
 and chairs the IT Subcommittee of the ISU Faculty Senate. 
-Prof. Rajan is an [ABET](http://ABET.org/)
-program evaluator.
+Prof. Rajan is an [ABET](http://ABET.org/) program evaluator.
 
 Prof. Rajan earned his doctorate from the 
 [University of Virginia](http://virginia.edu)
