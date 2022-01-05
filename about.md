@@ -56,18 +56,7 @@ Lucent Technologies in Bangalore India from 2000 - 2001.
 
 ### Short bio (for talks, etc.)
 
-Hridesh Rajan is the Kingland professor and interim department chair in 
-the Department of Computer Science at Iowa State University. 
-Prof. Rajan's research interests are in programming languages, software 
-engineering, and data science where he is most known for his design of 
-the Ptolemy programming language that showed how to modularly reason 
-about crosscutting concerns and the Boa programming language and its 
-infrastructure that decreases the barriers to data-driven software engineering.
-He has been recognized by the US National Science Foundation (NSF) with 
-a CAREER award, an Early Achievement in Research Award, a Big-12 Fellowship, 
-the Kingland Professorship, and an exemplary mentor for Junior Faculty award. 
-Prof. Rajan is a Fulbright scholar, distinguished member of the ACM, and 
-serves as an associate editor for the IEEE Transactions on Software Engineering.
+Hridesh Rajan is the Kingland Professor and Chair in the Department of Computer Science at Iowa State University. Prof. Rajan's research interests are in programming languages, software engineering, and data science where he is most known for his design of the Ptolemy programming language that showed how to modularly reason about crosscutting concerns and the Boa programming language and its infrastructure that decreases the barriers to data-driven software engineering. He has been recognized by the US National Science Foundation (NSF) with a CAREER award, an Early Achievement in Research Award, a Big-12 Fellowship, the Kingland Professorship, and an exemplary mentor for Junior Faculty award. Prof. Rajan is a AAAS Fellow, US-UK Fulbright scholar, distinguished member of the ACM, and serves as an associate editor for the IEEE Transactions on Software Engineering.
 
 ### Academic Geneology
 
