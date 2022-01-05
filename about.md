@@ -58,6 +58,40 @@ Lucent Technologies in Bangalore India from 2000 - 2001.
 
 Hridesh Rajan is the Kingland Professor and Chair in the Department of Computer Science at Iowa State University. Prof. Rajan's research interests are in programming languages, software engineering, and data science where he is most known for his design of the Ptolemy programming language that showed how to modularly reason about crosscutting concerns and the Boa programming language and its infrastructure that decreases the barriers to data-driven software engineering. He has been recognized by the US National Science Foundation (NSF) with a CAREER award, an Early Achievement in Research Award, a Big-12 Fellowship, the Kingland Professorship, and an exemplary mentor for Junior Faculty award. Prof. Rajan is a AAAS Fellow, US-UK Fulbright scholar, distinguished member of the ACM, and serves as an associate editor for the IEEE Transactions on Software Engineering.
 
+### Major Awards and Honors
+
+- 2009 Early CAREER Award, US National Science Foundation
+- 2010 Early Achievement in Research Award, College of Liberal Arts & Science, Iowa State University
+- 2012 Big-12 Fellowship
+- 2014 ACM Senior Member
+- 2016-17 Emerging Leaders Academy. See news here.
+- 2016 Kingland Professorship. See news here.
+- 2016-17 Exemplary Mentor of Junior Faculty, Iowa State University. See news here.
+- 2017 ACM Distinguished Member. See news here.
+- 2018 Fulbright US-UK Scholar. See news here.
+- 2020 Facebook Probability and Programming Award
+- 2020 ACM SIGSOFT Distinguished Paper Award at ESEC/FSE 2020
+- 2021 AAAS Fellow 
+
+### Former Graduate Students
+
+- Md. Johirul Islam (PhD Summer'20, MS Fall'19), Amazon R&D
+- Ganesha Upadhyaya (PhD Fall'17, MS Spring'15), Harmony.One R&D
+- Mehdi Bagherzadeh (PhD Summer'16, MS Fall'10), Assistant Professor at Oakland University
+- Yuheng Long (PhD Spring'16, MS Spring'10), Google
+- Robert Dyer (PhD Fall'13, MS Fall'08), Assistant Professor at the University of Nebraska, Lincoln
+- Tyler Sondag (PhD Fall'11, MS Fall'09), Intel R&D
+- Samantha Khairunnessa (MS Fall'17), ISU Ph.D. Program
+- Ramanathan Ramu (MS Fall'17), Microsoft
+- Nitin M. Tiwari (MS Spring'17), SAP
+- Sean L. Mooney (MS Summer'15), SourceAllies
+- Harish Narayanappa (MS Spring'10), eBay
+- Jaikishan Jalan (MS Fall'09), Squad
+- Youssef W. Hanna (MS Fall'08), Google
+- Rakesh Setty (MS Fall'08), eBay
+- Mahantesh Hosamani (MS Fall'07), Ericsson
+
+
 ### Academic Geneology
 
 My advisor at University of Virginia was Kevin Sullivan, 
