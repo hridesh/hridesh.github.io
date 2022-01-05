@@ -22,6 +22,8 @@ He leads TADS ([Theoretical and Applied Data Science](https://tads.research.iast
 a transdisciplinary research initiative of faculty and students in 
 Computer Science, Statistics, Mathematics, Agriculture, and Engineering. 
 
+Prof. Rajan led the design, approval, and implementation of the 
+[M.S. degree in Artificial Intelligence](https://www.cs.iastate.edu/ai) at ISU. 
 Prof. Rajan co-led (with Associate Deans Arne Hallam and Sriram Sundararajan) 
 the committees that designed the [Data Science Minor, Certificate, and 
 B.S. degree programs at ISU](https://datascience.iastate.edu). 
