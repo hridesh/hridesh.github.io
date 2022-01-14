@@ -77,11 +77,13 @@ Hridesh Rajan is the Kingland Professor and Chair in the Department of Computer 
 
 ### Former Graduate Students
 
-- Md. Johirul Islam (PhD Summer'20, MS Fall'19), Amazon R&D
-- Ganesha Upadhyaya (PhD Fall'17, MS Spring'15), Harmony.One R&D
-- Mehdi Bagherzadeh (PhD Summer'16, MS Fall'10), Assistant Professor at Oakland University
+- [Samantha Khairunnessa](https://www.linkedin.com/in/samantha-syeda/) (PhD Summer'21, MS Fall'17), Assistant Professor at Florida Gulf Coast University
+- [Hamid Bagheri](https://www.linkedin.com/in/hamidbagheri/) (PhD Summer'20, MS Fall'19), Data Scientist at John Deere
+- [Md. Johirul Islam](https://www.linkedin.com/in/johir/) (PhD Summer'20, MS Fall'19), Amazon R&D
+- [Ganesha Upadhyaya](https://www.linkedin.com/in/gupadhyaya/) (PhD Fall'17, MS Spring'15), Harmony.One R&D
+- [Mehdi Bagherzadeh](https://mbagherz.bitbucket.io) (PhD Summer'16, MS Fall'10), Assistant Professor at Oakland University
 - Yuheng Long (PhD Spring'16, MS Spring'10), Google
-- Robert Dyer (PhD Fall'13, MS Fall'08), Assistant Professor at the University of Nebraska, Lincoln
+- [Robert Dyer](https://cse.unl.edu/~rdyer/) (PhD Fall'13, MS Fall'08), Assistant Professor at the University of Nebraska, Lincoln
 - Tyler Sondag (PhD Fall'11, MS Fall'09), Intel R&D
 - Samantha Khairunnessa (MS Fall'17), ISU Ph.D. Program
 - Ramanathan Ramu (MS Fall'17), Microsoft
