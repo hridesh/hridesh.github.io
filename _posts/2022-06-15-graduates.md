@@ -1,5 +1,5 @@
 ---
-title: Graduates: Biswas (PhD), Pan (PhD), and Ma (BS)
+title: Congrats, graduates Biswas (PhD), Pan (PhD), and Ma (BS)
 links:
 - {title: Event Link, link: "https://www.cs.iastate.edu/phd-final-oral-exam-johirul-islam-virtual-10a" }
 ---
