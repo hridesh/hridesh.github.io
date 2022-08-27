@@ -77,6 +77,8 @@ Hridesh Rajan is the Kingland Professor and Chair in the Department of Computer 
 
 ### Former Graduate Students
 
+- [Sumon Biswas](https://sumonbis.github.io) (PhD Spring'22, MS Fall'20), Postdoctoral Researcher at Carnegie Mellon University
+- [Rangeet Pan](https://rangeetpan.github.io) (PhD Summer'22), Research Staff Member at IBM T.J. Watson Research Center
 - [Samantha Khairunnessa](https://www.linkedin.com/in/samantha-syeda/) (PhD Summer'21, MS Fall'17), Assistant Professor at Florida Gulf Coast University
 - [Hamid Bagheri](https://www.linkedin.com/in/hamidbagheri/) (PhD Summer'20, MS Fall'19), Data Scientist at John Deere
 - [Md. Johirul Islam](https://www.linkedin.com/in/johir/) (PhD Summer'20, MS Fall'19), Amazon R&D
