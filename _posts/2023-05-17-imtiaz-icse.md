@@ -1,5 +1,5 @@
 ---
-title: ICSE 2023 Paper Unveils an Approach for Module Decomposition for Recurrent Neural Networks
+title: ICSE 2023 Paper Unveils an Approach for Decomposing Recurrent Neural Networks into Reusable and Replaceable Modules
 links:
 - {title: Papers, link: "" }
 ---
