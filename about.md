@@ -4,11 +4,29 @@ title: About
 permalink: /about/
 ---
 
-Hridesh Rajan is a Professor and Department Chair
+Hridesh Rajan holds a Ph.D. and an MS from the [University of Virginia](http://virginia.edu)
+both in Computer Science. His B.Tech. in Computer Science and Engineering is from 
+the [Indian Institute of Technology, Varanasi](http://iitbhu.ac.in) (formerly IT-BHU).
+Dr. Rajan is the Kingland Professor 
 of [Computer Science](http://www.cs.iastate/edu)
-at [Iowa State University](http://www.iastate.edu).
-From 2017-2019, he served as the founding 
-Professor-in-charge of [Data Science Programs](https://datascience.iastate.edu) at ISU. 
+at [Iowa State University](http://www.iastate.edu),
+where he served three years (2017-2019) as the founding Professor-in-charge of 
+[Data Science Programs](https://datascience.iastate.edu).
+During this period, he founded the [annual Midwest Big Data Summer School](http://mbds.cs.iastate.edu) 
+to deliver broadly accessible data science training,
+served on the steering committee of the [Midwest Big Data Hub](http://midwestbigdatahub.org),
+and led TADS ([Theoretical and Applied Data Science](https://tads.research.iastate.edu)), 
+a cross-campus transdisciplinary research initiative of faculty and students interested 
+in foundations and applications of Data Science.
+After this, he served as the Department Chair of Computer Science from 2019-2023, 
+where he oversaw a significant growth period in both students, faculty, staff, and research funding.
+During his tenure as Department Chair, Dr. Rajan led the effort in diversity and inclusion
+leading to departmental broadening participation in computing plan and a 45% increase in female 
+enrollment.
+Dr. Rajan has led the creation of new majors, minors and certificates including 
+the [M.S. degree in Artificial Intelligence](https://www.cs.iastate.edu/ai), 
+the [Data Science Minor, Certificate, and B.S. degree programs](https://datascience.iastate.edu),
+the [B.A. degree in Computer Science](https://www.cs.iastate.edu/bachelor-arts-computer-science-approved-iowa-board-regents).
 Rajan is a Fellow of the American Association for the Advancement of Science (AAAS)
 and a Fulbright Scholar.
 His research interests are in
@@ -18,32 +36,6 @@ where he is most known for his design of the
 showed how to modularly reason about crosscutting concerns and the 
 [Boa programming language](http://boa.cs.iastate.edu) 
 and its infrastructure that decreases the barriers to data-driven software engineering. 
-He leads TADS ([Theoretical and Applied Data Science](https://tads.research.iastate.edu)), 
-a transdisciplinary research initiative of faculty and students in 
-Computer Science, Statistics, Mathematics, Agriculture, and Engineering. 
-
-Prof. Rajan led the design, approval, and implementation of the 
-[M.S. degree in Artificial Intelligence](https://www.cs.iastate.edu/ai) at ISU. 
-He also co-led (with Associate Deans Arne Hallam and Sriram Sundararajan) 
-the committees that designed the [Data Science Minor, Certificate, and 
-B.S. degree programs at ISU](https://datascience.iastate.edu). 
-He founded the [annual Midwest Big Data Summer School](http://mbds.cs.iastate.edu) 
-to deliver broadly accessible data science training, and 
-served on the steering committee of the [Midwest Big Data Hub](http://midwestbigdatahub.org).
-
-Prof. Rajan chaired the graduate admissions and recruitment 
-for Computer Science (2014-2019) nearly doubling the number 
-of graduate students, directs the 
-[Laboratory for Software Design](http://design.cs.iastate.edu), 
-and chairs the IT Subcommittee of the ISU Faculty Senate. 
-Prof. Rajan is an [ABET](http://ABET.org/) program evaluator.
-
-Prof. Rajan earned his doctorate from the 
-[University of Virginia](http://virginia.edu)
-in 2005, where he also got his masters in computer science. 
-He received his undergraduate degree from the 
-[Indian Institute of Technology, Varanasi](http://iitbhu.ac.in)
-(formerly IT-BHU) in 2000. 
 He has been recognized by an NSF CAREER award in 2009, 
 by the LAS Early Achievement in Research Award in 2010, 
 a Big-12 Fellowship in 2012, 
@@ -52,9 +44,13 @@ an exemplary mentor for Junior Faculty award in 2017,
 a Kingland Endowed Professorship in 2017, 
 an ACM Distinguished Membership in 2017, 
 a US-UK Fulbright Scholarship in 2018,
-and a Facebook Probability and Programming Award in 2020. 
-He was a Member of Technical Staff at Bell Labs, 
+a Facebook Probability and Programming Award in 2020, and 
+an Early Achievement in Departmental Leadership Award in 2022. 
+He was a Member of Technical Staff at Bell Labs,
 Lucent Technologies in Bangalore India from 2000 - 2001.
+Prof. Rajan is an [ABET](http://ABET.org/) program evaluator.
+
+
 
 ### Short bio (for talks, etc.)
 
@@ -74,6 +70,7 @@ Hridesh Rajan is the Kingland Professor and Chair in the Department of Computer 
 - 2020 Facebook Probability and Programming Award
 - 2020 ACM SIGSOFT Distinguished Paper Award at ESEC/FSE 2020
 - 2021 AAAS Fellow 
+- 2022 Early Achievement in Departmental Leadership Award
 
 ### Former Graduate Students
 
