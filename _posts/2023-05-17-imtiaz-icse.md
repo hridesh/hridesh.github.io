@@ -1,5 +1,5 @@
 ---
-title: ICSE 2023 Paper Unveils an Approach for Decomposing Recurrent Neural Networks into Reusable and Replaceable Modules
+title: RNN (Recurrent Neural Networks) Can be Decomposed too: Our ICSE 2023 Paper Shows
 links:
 - {title: Papers, link: "" }
 ---
