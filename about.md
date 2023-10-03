@@ -48,6 +48,9 @@ an ACM Distinguished Membership in 2017,
 a US-UK Fulbright Scholarship in 2018,
 a Facebook Probability and Programming Award in 2020, and 
 an Early Achievement in Departmental Leadership Award in 2022. 
+He served on the editorial board of IEEE Transactions on Software Engineering and 
+ACM SIGSOFT Software Engineering Notes, and currently serves on the advisory 
+board of Proceedings of the ACM on Programming Languages. 
 He was a Member of Technical Staff at Bell Labs,
 Lucent Technologies in Bangalore India from 2000 - 2001.
 Prof. Rajan is an [ABET](http://ABET.org/) program evaluator.
