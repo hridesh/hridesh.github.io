@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-![bookimage](images/eipopl.jpeg){: style="float: right" width="150"}
+[![bookimage](images/eipopl.jpeg){: style="float: right" width="250"}](https://mitpress.mit.edu/9780262045452/an-experiential-introduction-to-principles-of-programming-languages/)
 
 Hridesh Rajan holds a Ph.D. and an MS from the [University of Virginia](http://virginia.edu)
 both in Computer Science. His B.Tech. in Computer Science and Engineering is from 
