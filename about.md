@@ -71,6 +71,7 @@ Hridesh Rajan is the Kingland Professor and Chair in the Department of Computer 
 - 2020 ACM SIGSOFT Distinguished Paper Award at ESEC/FSE 2020
 - 2021 AAAS Fellow 
 - 2022 Early Achievement in Departmental Leadership Award
+- 2023 ACM SIGSOFT Distinguished Paper Award at ASE 2023
 
 ### Former Graduate Students
 
