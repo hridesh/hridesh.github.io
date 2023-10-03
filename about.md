@@ -5,6 +5,7 @@ permalink: /about/
 ---
 
 
+![bookimage](images/eipopl.jpeg){: style="float: right"}
 
 Hridesh Rajan holds a Ph.D. and an MS from the [University of Virginia](http://virginia.edu)
 both in Computer Science. His B.Tech. in Computer Science and Engineering is from 
@@ -67,11 +68,11 @@ Hridesh Rajan is the Kingland Professor and Chair in the Department of Computer 
 - 2010 Early Achievement in Research Award, College of Liberal Arts & Science, Iowa State University
 - 2012 Big-12 Fellowship
 - 2014 ACM Senior Member
-- 2016-17 Emerging Leaders Academy. See news here.
-- 2016 Kingland Professorship. See news here.
-- 2016-17 Exemplary Mentor of Junior Faculty, Iowa State University. See news here.
-- 2017 ACM Distinguished Member. See news here.
-- 2018 Fulbright US-UK Scholar. See news here.
+- 2016-17 Emerging Leaders Academy. 
+- 2016 Kingland Professorship. 
+- 2016-17 Exemplary Mentor of Junior Faculty, Iowa State University. 
+- 2017 ACM Distinguished Member.
+- 2018 Fulbright US-UK Scholar.
 - 2020 Facebook Probability and Programming Award
 - 2020 ACM SIGSOFT Distinguished Paper Award at ESEC/FSE 2020
 - 2021 AAAS Fellow 
