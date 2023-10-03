@@ -20,16 +20,30 @@ An updated list of publications is available from my [lab's webpages](https://la
 
 ### Research Projects
 
-My recent research has focussed on data science and concurrency.
-My overarching research program is aimed at improving programmer productivity, and correctness of software systems that
-they produce. In particular, I am interested in designing new programming abstractions that
-abstract away error-prone concerns, improve modularity, and improve modular reasoning.
-By abstracting away error-prone concerns, and having compilers and programming frameworks
-automatically provide adequate implementation of such concerns, my research aspires to reduce
-potential for errors in software, and improve productivity.
-By improving modularity and modular reasoning, my research strives for improved scalability
-in both manual and automatic reasoning as well as verification processes.
-For more details on my research projects visit my [lab's webpages](https://lab-design.github.io/projects)
+My recent scholarly endeavors have been concentrated on investigating the 
+modularity of AI-powered systems, with a special focus on deep learning 
+technologies. One of my primary concerns centers on the substantial financial 
+and environmental costs associated with training, updating, and repurposing 
+large-scale AI models like deep neural networks. To illustrate, it has been 
+reported that the training of ChatGPT alone cost approximately $100 million, 
+and updating its core algorithms involves significant expenses. Against this 
+backdrop, my research aims to introduce more sustainable and efficient 
+solutions by pioneering methods for the modular decomposition of these 
+expensive AI models. This would enable the isolated reuse or replacement of 
+specific modules, thereby optimizing resource utilization and potentially 
+driving down overall costs.
+
+My overarching research agenda is dedicated to enhancing programmer 
+productivity while elevating the reliability of the software systems they 
+create. Specifically, I focus on the development of innovative programming 
+abstractions that mitigate error-prone aspects, bolster modularity, and 
+facilitate modular reasoning. Through these abstractions, compilers and 
+frameworks can automatically implement complex concerns, thereby minimizing 
+the likelihood of errors and boosting productivity. Furthermore, by 
+advancing modularity and modular reasoning, my work aims to improve 
+scalability in both manual and automated reasoning, as well as in 
+verification procedures. For an in-depth look at my research endeavors, 
+please visit my [lab's webpages](https://lab-design.github.io/projects).
 
 
 ### Contact me
