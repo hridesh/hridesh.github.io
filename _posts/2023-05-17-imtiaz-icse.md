@@ -1,5 +1,5 @@
 ---
-title: RNN (Recurrent Neural Networks) Can be Decomposed too, our ICSE 2023 Paper Shows
+title: RNN (Recurrent Neural Networks) Can be Decomposed Too, Our ICSE 2023 Paper Shows
 links:
 - {title: Papers, link: "" }
 ---
