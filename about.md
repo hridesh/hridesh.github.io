@@ -4,10 +4,12 @@ title: About
 permalink: /about/
 ---
 
+
+
 Hridesh Rajan holds a Ph.D. and an MS from the [University of Virginia](http://virginia.edu)
 both in Computer Science. His B.Tech. in Computer Science and Engineering is from 
 the [Indian Institute of Technology, Varanasi](http://iitbhu.ac.in) (formerly IT-BHU).
-Dr. Rajan is the Kingland Professor 
+Dr. Rajan is the Kingland Professor and Chair
 of [Computer Science](http://www.cs.iastate/edu)
 at [Iowa State University](http://www.iastate.edu),
 where he served three years (2017-2019) as the founding Professor-in-charge of 
@@ -18,7 +20,7 @@ served on the steering committee of the [Midwest Big Data Hub](http://midwestbig
 and led TADS ([Theoretical and Applied Data Science](https://tads.research.iastate.edu)), 
 a cross-campus transdisciplinary research initiative of faculty and students interested 
 in foundations and applications of Data Science.
-After this, he served as the Department Chair of Computer Science from 2019-2023, 
+After this, he is serving as the Department Chair of Computer Science since 2019, 
 where he oversaw a significant growth period in both students, faculty, staff, and research funding.
 During his tenure as Department Chair, Dr. Rajan led the effort in diversity and inclusion
 leading to departmental broadening participation in computing plan and a 45% increase in female 
