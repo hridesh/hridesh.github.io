@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-![bookimage](images/eipopl.jpeg){: style="float: right"}
+![bookimage](images/eipopl.jpeg){: style="float: right" width="150"}
 
 Hridesh Rajan holds a Ph.D. and an MS from the [University of Virginia](http://virginia.edu)
 both in Computer Science. His B.Tech. in Computer Science and Engineering is from 
