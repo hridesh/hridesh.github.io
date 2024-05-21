@@ -37,7 +37,7 @@ Data Science, Software Engineering and Programming Languages
 where he is most known for his design of the 
 [Ptolemy programming language](http://ptolemy.cs.iastate.edu) that 
 showed how to modularly reason about crosscutting concerns and the 
-[Boa programming language](http://boa.cs.iastate.edu) 
+[Boa programming language](https://boa.cs.iastate.edu) 
 and its infrastructure that decreases the barriers to data-driven software engineering. 
 He has been recognized by an NSF CAREER award in 2009, 
 by the LAS Early Achievement in Research Award in 2010, 

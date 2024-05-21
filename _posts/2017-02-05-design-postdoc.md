@@ -1,7 +1,7 @@
 ---
 title: "Laboratory for Software Design Recruiting a Postdoctoral Fellow"
 links:
-  - { title: "Boa", link: "http://boa.cs.iastate.edu" }
+  - { title: "Boa", link: "https://boa.cs.iastate.edu" }
 ---
 
 The <a href="http://design.cs.iastate.edu">Laboratory for Software Design</a> in the
@@ -9,7 +9,7 @@ Department of Computer Science at Iowa State University is seeking a
 postdoctoral fellow to work on the Boa project. The Boa project is developing
 an infrastructure for big code mining and using the infrastructure for such
 software engineering goals as specification inference. For more details about
-the project please refer to http://boa.cs.iastate.edu. The initial position is
+the project please refer to https://boa.cs.iastate.edu. The initial position is
 for one year with the possibility of extensions up to three years. A qualified
 candidate has: (1) a Ph.D. in Computer Science, Software Engineering or a
 closely related field, and (2) outstanding ability to carry out research.
