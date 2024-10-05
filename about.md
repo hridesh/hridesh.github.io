@@ -14,7 +14,7 @@ Dr. Rajan currently serves as the Dean of the [School of Science and Engineering
 at [Tulane University](https://tulane.edu).
 Prior to this role, he was the Kingland Professor and Chair
 of [Computer Science](https://www.cs.iastate.edu)
-at [Iowa State University](https://www.iastate.edu) from 2019-2024.
+at [Iowa State University](https://www.iastate.edu) from 2019 to 2024.
 He also served as the founding Professor-in-charge of 
 [Data Science Programs](https://datascience.iastate.edu) from 2017 to 2019.
 During this period, he established the [annual Midwest Big Data Summer School](https://mbds.cs.iastate.edu) 
