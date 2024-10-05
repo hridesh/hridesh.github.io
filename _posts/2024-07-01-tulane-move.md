@@ -4,8 +4,8 @@ links:
 - {title: Papers, link: "" }
 ---
 
-After 19 amazing years at Iowa State University, I will be moving to 
-[Tulane University](https://iastate.edu)
+After 19 amazing years at [Iowa State University Dept. of Computer Science](https://www.cs.iastate.edu),I will be moving to 
+[Tulane University](https://tulane.edu)
 as the next Dean of the [School of Science and Engineering](https://sse.tulane.edu).
 My family are I are excited about our life in the vibrant city of 
 [New Orleans](https://en.wikipedia.org/wiki/New_Orleans).
