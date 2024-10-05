@@ -95,11 +95,10 @@ Hridesh Rajan currently serves as the Dean of the [School of Science and Enginee
 - [Hamid Bagheri](https://www.linkedin.com/in/hamidbagheri/) (PhD Summer'20, MS Fall'19), Data Scientist at John Deere
 - [Md. Johirul Islam](https://www.linkedin.com/in/johir/) (PhD Summer'20, MS Fall'19), Amazon R&D
 - [Ganesha Upadhyaya](https://www.linkedin.com/in/gupadhyaya/) (PhD Fall'17, MS Spring'15), Harmony.One R&D
-- [Mehdi Bagherzadeh](https://mbagherz.bitbucket.io) (PhD Summer'16, MS Fall'10), Assistant Professor at Oakland University
-- Yuheng Long (PhD Spring'16, MS Spring'10), Google
+- [Mehdi Bagherzadeh](https://mbagherz.bitbucket.io) (PhD Summer'16, MS Fall'10), Associate Professor at Oakland University
+- [Yuheng Long](https://www.linkedin.com/in/yuheng-long-073b4714/) (PhD Spring'16, MS Spring'10), Meta
 - [Robert Dyer](https://cse.unl.edu/~rdyer/) (PhD Fall'13, MS Fall'08), Assistant Professor at the University of Nebraska, Lincoln
-- Tyler Sondag (PhD Fall'11, MS Fall'09), Intel R&D
-- Samantha Khairunnessa (MS Fall'17), ISU Ph.D. Program
+- [Tyler Sondag](https://www.linkedin.com/in/tyler-sondag-92b757b/) (PhD Fall'11, MS Fall'09), Principal Architect - CPU, NVIDIA 
 - Ramanathan Ramu (MS Fall'17), Microsoft
 - Nitin M. Tiwari (MS Spring'17), SAP
 - Sean L. Mooney (MS Summer'15), SourceAllies
