@@ -7,19 +7,19 @@ permalink: /about/
 
 [![bookimage](images/eipopl.jpeg){: style="float: right" width="250"}](https://mitpress.mit.edu/9780262045452/an-experiential-introduction-to-principles-of-programming-languages/)
 
-Hridesh Rajan holds a Ph.D. and an MS in Computer Science from the [University of Virginia](http://virginia.edu).
+Hridesh Rajan holds a Ph.D. and an MS in Computer Science from the [University of Virginia](https://virginia.edu).
 He earned his B.Tech. in Computer Science and Engineering from 
-the [Indian Institute of Technology, Varanasi](http://iitbhu.ac.in) (formerly IT-BHU).
+the [Indian Institute of Technology, Varanasi](https://iitbhu.ac.in) (formerly IT-BHU).
 Dr. Rajan currently serves as the Dean of the [School of Science and Engineering](https://sse.tulane.edu)
 at [Tulane University](https://tulane.edu).
 Prior to this role, he was the Kingland Professor and Chair
-of [Computer Science](http://www.cs.iastate.edu)
-at [Iowa State University](http://www.iastate.edu) from 2019-2024.
+of [Computer Science](https://www.cs.iastate.edu)
+at [Iowa State University](https://www.iastate.edu) from 2019-2024.
 He also served as the founding Professor-in-charge of 
 [Data Science Programs](https://datascience.iastate.edu) from 2017 to 2019.
-During this period, he established the [annual Midwest Big Data Summer School](http://mbds.cs.iastate.edu) 
+During this period, he established the [annual Midwest Big Data Summer School](https://mbds.cs.iastate.edu) 
 to deliver broadly accessible data science training,
-served on the steering committee of the [Midwest Big Data Hub](http://midwestbigdatahub.org),
+served on the steering committee of the [Midwest Big Data Hub](https://midwestbigdatahub.org),
 and led TADS ([Theoretical and Applied Data Science](https://tads.research.iastate.edu)), 
 a cross-campus transdisciplinary research initiative of faculty and students interested 
 in foundations and applications of Data Science.
@@ -37,7 +37,7 @@ and a Fulbright Scholar.
 His research interests are in
 Data Science, Software Engineering and Programming Languages 
 where he is most known for his design of the 
-[Ptolemy programming language](http://ptolemy.cs.iastate.edu) that 
+[Ptolemy programming language](https://ptolemy.cs.iastate.edu) that 
 showed how to modularly reason about crosscutting concerns and the 
 [Boa programming language](https://boa.cs.iastate.edu) 
 and its infrastructure that decreases the barriers to data-driven software engineering. 
@@ -57,14 +57,14 @@ board of Proceedings of the ACM on Programming Languages and the steering commit
 the [ACM SIGPLAN International Conference on Systems, Programming, Languages and Applications: Software for Humanity (SPLASH)](https://2024.splashcon.org). 
 Earlier in his career, he worked as a Member of Technical Staff at Bell Labs,
 Lucent Technologies in Bangalore, India, from 2000 to 2001.
-Prof. Rajan was an [ABET](http://ABET.org/) program evaluator from 2018 to 2024 
+Prof. Rajan was an [ABET](https://ABET.org/) program evaluator from 2018 to 2024 
 and now serves as a commissioner for the [ABET Computing Accreditation Commission](https://www.abet.org/about-abet/governance/accreditation-commissions-2/).
 
 
 
 ### Short bio (for talks, etc.)
 
-Hridesh Rajan currently serves as the Dean of the [School of Science and Engineering](https://sse.tulane.edu) at [Tulane University](https://tulane.edu). Prior to this role, he was the Kingland Professor and Chair of [Computer Science](http://www.cs.iastate.edu) at [Iowa State University](http://www.iastate.edu) from 2019-2024.  He also served as the founding Professor-in-charge of [Data Science Programs](https://datascience.iastate.edu) from 2017 to 2019. Prof. Rajan's research interests are in programming languages, software engineering, and data science where he is most known for his design of the Ptolemy programming language that showed how to modularly reason about crosscutting concerns and the Boa programming language and its infrastructure that decreases the barriers to data-driven software engineering. He has been recognized by the US National Science Foundation (NSF) with a CAREER award, an Early Achievement in Research Award, a Big-12 Fellowship, the Kingland Professorship, and an exemplary mentor for Junior Faculty award. Prof. Rajan is a AAAS Fellow, US-UK Fulbright scholar, distinguished member of the ACM. He has served on the editorial boards of IEEE Transactions on Software Engineering and ACM SIGSOFT Software Engineering Notes, and currently serves on the advisory board of Proceedings of the ACM on Programming Languages and the steering committee of the [ACM SIGPLAN International Conference on Systems, Programming, Languages and Applications: Software for Humanity (SPLASH)](https://2024.splashcon.org).
+Hridesh Rajan currently serves as the Dean of the [School of Science and Engineering](https://sse.tulane.edu) at [Tulane University](https://tulane.edu). Prior to this role, he was the Kingland Professor and Chair of [Computer Science](https://www.cs.iastate.edu) at [Iowa State University](https://www.iastate.edu) from 2019-2024.  He also served as the founding Professor-in-charge of [Data Science Programs](https://datascience.iastate.edu) from 2017 to 2019. Prof. Rajan's research interests are in programming languages, software engineering, and data science where he is most known for his design of the Ptolemy programming language that showed how to modularly reason about crosscutting concerns and the Boa programming language and its infrastructure that decreases the barriers to data-driven software engineering. He has been recognized by the US National Science Foundation (NSF) with a CAREER award, an Early Achievement in Research Award, a Big-12 Fellowship, the Kingland Professorship, and an exemplary mentor for Junior Faculty award. Prof. Rajan is a AAAS Fellow, US-UK Fulbright scholar, distinguished member of the ACM. He has served on the editorial boards of IEEE Transactions on Software Engineering and ACM SIGSOFT Software Engineering Notes, and currently serves on the advisory board of Proceedings of the ACM on Programming Languages and the steering committee of the [ACM SIGPLAN International Conference on Systems, Programming, Languages and Applications: Software for Humanity (SPLASH)](https://2024.splashcon.org).
 
 ### Major Awards and Honors
 
