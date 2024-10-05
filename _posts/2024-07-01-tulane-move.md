@@ -26,6 +26,6 @@ On a personal note, my family and I are absolutely ecstatic about moving to NOLA
 
 Warm regards,
 
-Hridesh Rajan, PhD
-Dean, School of Science and Engineering
+Hridesh Rajan, PhD  
+Dean, School of Science and Engineering  
 Tulane University
