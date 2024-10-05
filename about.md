@@ -7,28 +7,28 @@ permalink: /about/
 
 [![bookimage](images/eipopl.jpeg){: style="float: right" width="250"}](https://mitpress.mit.edu/9780262045452/an-experiential-introduction-to-principles-of-programming-languages/)
 
-Hridesh Rajan holds a Ph.D. and an MS from the [University of Virginia](http://virginia.edu)
-both in Computer Science. His B.Tech. in Computer Science and Engineering is from 
+Hridesh Rajan holds a Ph.D. and an MS in Computer Science from the [University of Virginia](http://virginia.edu)
+He earned his B.Tech. in Computer Science and Engineering from 
 the [Indian Institute of Technology, Varanasi](http://iitbhu.ac.in) (formerly IT-BHU).
-Dr. Rajan is the Dean of the [School of Science and Engineering](https://sse.tulane.edu)
+Dr. Rajan currently serves as the Dean of the [School of Science and Engineering](https://sse.tulane.edu)
 at [Tulane University](https://tulane.edu).
-Prior to this position, he was the Kingland Professor and Chair
+Prior to this role, he was the Kingland Professor and Chair
 of [Computer Science](http://www.cs.iastate.edu)
 at [Iowa State University](http://www.iastate.edu) from 2019-2024.
-He also served three years (2017-2019) as the founding Professor-in-charge of 
-[Data Science Programs](https://datascience.iastate.edu).
-During this period, he founded the [annual Midwest Big Data Summer School](http://mbds.cs.iastate.edu) 
+He also served as the founding Professor-in-charge of 
+[Data Science Programs](https://datascience.iastate.edu) from 2017 to 2019.
+During this period, he established the [annual Midwest Big Data Summer School](http://mbds.cs.iastate.edu) 
 to deliver broadly accessible data science training,
 served on the steering committee of the [Midwest Big Data Hub](http://midwestbigdatahub.org),
 and led TADS ([Theoretical and Applied Data Science](https://tads.research.iastate.edu)), 
 a cross-campus transdisciplinary research initiative of faculty and students interested 
 in foundations and applications of Data Science.
-After this, he served as the Department Chair of Computer Science from 2019-2024, 
-where he oversaw a significant growth period in students, faculty, staff, and research funding.
-During his tenure as Department Chair, Dr. Rajan led the efforts in equity, diversity and inclusion
-including creating a departmental broadening participation in computing plan and 
-leading a 45% increase in female enrollment.
-Dr. Rajan led the creation of new majors, minors and certificates including 
+From 2019 to 2024, Dr. Rajan was the Department Chair of Computer Science from 2019-2024, 
+during which he oversaw significant growth in students, faculty, staff, and research funding.
+His leadership in equity, diversity and inclusion led to the creation of a 
+departmental broadening participation in computing plan and resulted
+in a 45% increase in female enrollment.
+Dr. Rajan also spearheaded the development of new academic programs including 
 the [M.S. degree in Artificial Intelligence](https://www.cs.iastate.edu/ai), 
 the [Data Science Minor, Certificate, and B.S. degree programs](https://datascience.iastate.edu),
 the [B.A. degree in Computer Science](https://www.cs.iastate.edu/bachelor-arts-computer-science-approved-iowa-board-regents).
@@ -41,23 +41,24 @@ where he is most known for his design of the
 showed how to modularly reason about crosscutting concerns and the 
 [Boa programming language](https://boa.cs.iastate.edu) 
 and its infrastructure that decreases the barriers to data-driven software engineering. 
-He has been recognized by an NSF CAREER award in 2009, 
-by the LAS Early Achievement in Research Award in 2010, 
-a Big-12 Fellowship in 2012, 
-an ACM Senior Membership in 2014, 
-an exemplary mentor for Junior Faculty award in 2017, 
-a Kingland Endowed Professorship in 2017, 
-an ACM Distinguished Membership in 2017, 
-a US-UK Fulbright Scholarship in 2018,
-a Facebook Probability and Programming Award in 2020, and 
-an Early Achievement in Departmental Leadership Award in 2022. 
-He served on the editorial board of IEEE Transactions on Software Engineering and 
+He has been recognized by an NSF CAREER award (2009), 
+by the LAS Early Achievement in Research Award (2010), 
+a Big-12 Fellowship (2012), 
+an ACM Senior Membership (2014), 
+an exemplary mentor for Junior Faculty award (2017), 
+a Kingland Endowed Professorship (2017), 
+an ACM Distinguished Membership (2017), 
+a US-UK Fulbright Scholarship (2018),
+a Facebook Probability and Programming Award (2020), and 
+an Early Achievement in Departmental Leadership Award (2022). 
+He has served on the editorial boards of IEEE Transactions on Software Engineering and 
 ACM SIGSOFT Software Engineering Notes, and currently serves on the advisory 
-board of Proceedings of the ACM on Programming Languages. 
-He was a Member of Technical Staff at Bell Labs,
-Lucent Technologies in Bangalore India from 2000 - 2001.
-Prof. Rajan was an [ABET](http://ABET.org/) program evaluator from 2018-2024 
-and currently serves as a commissioner for the [ABET Computing Accreditation Commission](https://www.abet.org/about-abet/governance/accreditation-commissions-2/).
+board of Proceedings of the ACM on Programming Languages and the steering committee of 
+the [ACM SIGPLAN International Conference on Systems, Programming, Languages and Applications: Software for Humanity (SPLASH)](https://2024.splashcon.org). 
+Earlier in his career, he worked as a Member of Technical Staff at Bell Labs,
+Lucent Technologies in Bangalore, India, from 2000 to 2001.
+Prof. Rajan was an [ABET](http://ABET.org/) program evaluator from 2018 to 2024 
+and now serves as a commissioner for the [ABET Computing Accreditation Commission](https://www.abet.org/about-abet/governance/accreditation-commissions-2/).
 
 
 
