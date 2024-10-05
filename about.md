@@ -10,10 +10,12 @@ permalink: /about/
 Hridesh Rajan holds a Ph.D. and an MS from the [University of Virginia](http://virginia.edu)
 both in Computer Science. His B.Tech. in Computer Science and Engineering is from 
 the [Indian Institute of Technology, Varanasi](http://iitbhu.ac.in) (formerly IT-BHU).
-Dr. Rajan is the Kingland Professor and Chair
-of [Computer Science](http://www.cs.iastate/edu)
-at [Iowa State University](http://www.iastate.edu),
-where he served three years (2017-2019) as the founding Professor-in-charge of 
+Dr. Rajan is the Dean of the [School of Science and Engineering](https://sse.tulane.edu)
+at [Tulane University](https://tulane.edu).
+Prior to this position, he was the Kingland Professor and Chair
+of [Computer Science](http://www.cs.iastate.edu)
+at [Iowa State University](http://www.iastate.edu) from 2019-2024.
+He also served three years (2017-2019) as the founding Professor-in-charge of 
 [Data Science Programs](https://datascience.iastate.edu).
 During this period, he founded the [annual Midwest Big Data Summer School](http://mbds.cs.iastate.edu) 
 to deliver broadly accessible data science training,
@@ -21,12 +23,12 @@ served on the steering committee of the [Midwest Big Data Hub](http://midwestbig
 and led TADS ([Theoretical and Applied Data Science](https://tads.research.iastate.edu)), 
 a cross-campus transdisciplinary research initiative of faculty and students interested 
 in foundations and applications of Data Science.
-After this, he is serving as the Department Chair of Computer Science since 2019, 
-where he oversaw a significant growth period in both students, faculty, staff, and research funding.
-During his tenure as Department Chair, Dr. Rajan led the effort in diversity and inclusion
-leading to departmental broadening participation in computing plan and a 45% increase in female 
-enrollment.
-Dr. Rajan has led the creation of new majors, minors and certificates including 
+After this, he served as the Department Chair of Computer Science from 2019-2024, 
+where he oversaw a significant growth period in students, faculty, staff, and research funding.
+During his tenure as Department Chair, Dr. Rajan led the efforts in equity, diversity and inclusion
+including creating a departmental broadening participation in computing plan and 
+leading a 45% increase in female enrollment.
+Dr. Rajan led the creation of new majors, minors and certificates including 
 the [M.S. degree in Artificial Intelligence](https://www.cs.iastate.edu/ai), 
 the [Data Science Minor, Certificate, and B.S. degree programs](https://datascience.iastate.edu),
 the [B.A. degree in Computer Science](https://www.cs.iastate.edu/bachelor-arts-computer-science-approved-iowa-board-regents).
@@ -54,7 +56,8 @@ ACM SIGSOFT Software Engineering Notes, and currently serves on the advisory
 board of Proceedings of the ACM on Programming Languages. 
 He was a Member of Technical Staff at Bell Labs,
 Lucent Technologies in Bangalore India from 2000 - 2001.
-Prof. Rajan is an [ABET](http://ABET.org/) program evaluator.
+Prof. Rajan was an [ABET](http://ABET.org/) program evaluator from 2018-2024 
+and currently serves as a commissioner for the [ABET Computing Accreditation Commission](https://www.abet.org/about-abet/governance/accreditation-commissions-2/).
 
 
 
