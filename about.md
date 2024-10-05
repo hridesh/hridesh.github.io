@@ -7,7 +7,7 @@ permalink: /about/
 
 [![bookimage](images/eipopl.jpeg){: style="float: right" width="250"}](https://mitpress.mit.edu/9780262045452/an-experiential-introduction-to-principles-of-programming-languages/)
 
-Hridesh Rajan holds a Ph.D. and an MS in Computer Science from the [University of Virginia](http://virginia.edu)
+Hridesh Rajan holds a Ph.D. and an MS in Computer Science from the [University of Virginia](http://virginia.edu).
 He earned his B.Tech. in Computer Science and Engineering from 
 the [Indian Institute of Technology, Varanasi](http://iitbhu.ac.in) (formerly IT-BHU).
 Dr. Rajan currently serves as the Dean of the [School of Science and Engineering](https://sse.tulane.edu)
