@@ -5,7 +5,7 @@ permalink: /prospective/
 ---
 (Shamelessly borrowed from [David Evans](http://www.cs.virginia.edu/~evans/) at [the University of Virginia](http://virginia.edu))
 
-Like most professors, I get several hundred emails a year from prospective students interested in coming to Iowa State for graduate school and joining my research group. I try to reply to all messages that are not obviously spam, but find most messages I receive make me less likely to want to accept the students sending them. This page provides some advice for prospective grad school applicants considering emailing me, but most of it probably applies to any other professor you want to contact also.
+Like most professors, I get several hundred emails a year from prospective students interested in coming to [Tulane University Department of Computer Science](https://sse.tulane.edu/cs) for graduate school and joining my research group. I try to reply to all messages that are not obviously spam, but find most messages I receive make me less likely to want to accept the students sending them. This page provides some advice for prospective grad school applicants considering emailing me, but most of it probably applies to any other professor you want to contact also.
 
 ### Who To Contact
 

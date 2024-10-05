@@ -51,6 +51,6 @@ please visit my [lab's webpages](https://lab-design.github.io/projects).
 You can contact me using either of the e-mail addresses below. 
 When writing, please substitute firstname with hridesh.
 
-* Work: [firstname@iastate.edu](mailto:firstname@iastate.edu)
+* Work: [h followed by lastname@tulane.edu](mailto:h followed by lastname@tulane.edu)
 * Personal: [firstname@gmail.com](mailto:firstname@gmail.com)
 

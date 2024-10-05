@@ -12,6 +12,7 @@ He earned his B.Tech. in Computer Science and Engineering from
 the [Indian Institute of Technology, Varanasi](https://iitbhu.ac.in) (formerly IT-BHU).
 Dr. Rajan currently serves as the Dean of the [School of Science and Engineering](https://sse.tulane.edu)
 at [Tulane University](https://tulane.edu).
+He is also a Professor in the [Tulane University Department of Computer Science](https://sse.tulane.edu/cs).
 Prior to this role, he was the Kingland Professor and Chair
 of [Computer Science](https://www.cs.iastate.edu)
 at [Iowa State University](https://www.iastate.edu) from 2019 to 2024.
