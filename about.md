@@ -1,9 +1,8 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /
 ---
-
 
 [![bookimage](images/eipopl.jpeg){: style="float: right" width="250"}](https://mitpress.mit.edu/9780262045452/an-experiential-introduction-to-principles-of-programming-languages/)
 
