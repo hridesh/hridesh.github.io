@@ -4,8 +4,6 @@ title: International and National Service Roles
 permalink: /service/
 ---
 
-## International and National Service Roles
-
 ### Conference leadership roles
 
 - [American Society For Engineering Education (ASEE) Engineering Deans Institute (EDI) 2026](Journal of Systems and Software Special Issue on Software Engineering Technology and Applications) Planning Committee 
@@ -38,4 +36,17 @@ permalink: /service/
 - Workshop on [Virtual Machine and Intermediate Languages](https://conf.researchr.org/series/vmil) (VMIL 2017 - 2019); and
 - Steering Committee Member, [the Midwest Big Data Hub](https://midwestbigdatahub.org) (2016-2018).
 
-
+### Conference program committee member
+- The International Conference in Software Engineering (ICSE 2026, also in 2025 and 2024); 
+- The Innovation in Software Engineering Conference (ISEC 2021, also in 2020); 
+- The Automated Software Engineering (ASE) Conference (Area chair in 2024, PC member in 2019, 2022, and 2023);
+- The ACM Conference on Object-Oriented Programming Systems, Languages, and Applications (OOPSLA 2009, 2013);
+- The 13th International Conference on Modularity (Modularity 2014 - 2016);
+- International Conference on Aspect-Oriented Software Development (AOSD 2009 - 2011, 2013);
+- The 2010 Onward! Conference, the new ideas, new paradigms track at SPLASH/OOPSLA 2010;
+- International Conference on Generative Programming: Concepts \& Experiences (GPCE 2010, 2015);
+- Blue Sky and Position Papers Track of the 14th International Conference on Modularity (Modularity 2015);
+- Demonstration Track of the International Conference on Software Engineering (ICSE 2016);
+- Posters subcomittee of the International Conference on Software Engineering (ICSE 2014);
+- Research Demonstrations Track, the 32nd International Conference on Software Engineering (ICSE 2010); and
+- International Conference on Next Generation Web Services Practices (NWeSP 2009).
