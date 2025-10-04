@@ -1,6 +1,6 @@
 ---
 layout: page
-title: International, National, and University Service Roles
+title: International and National Service Roles
 permalink: /service/
 ---
 
@@ -8,6 +8,7 @@ permalink: /service/
 
 ### Conference leadership roles
 
+- [American Society For Engineering Education (ASEE) Engineering Deans Institute (EDI) 2026](Journal of Systems and Software Special Issue on Software Engineering Technology and Applications) Planning Committee 
 - General Chair, [SPLASH 2021, the ACM SIGPLAN conference on Systems, Programming, Languages, and Applications: Software for Humanity](https://2021.splashcon.org/). SPLASH 2021 included five co-hosted conferences, several sub-conferences such as OOPSLA (Object-oriented Programming, Systems, Languages, and Applications) and Onward!, and nine workshops. SPLASH 2021 was the first major hybrid conference organized by the Association for Computing Machinery (ACM).
 - General Chair, [SPLASH 2020, the ACM SIGPLAN conference on Systems, Programming, Languages, and Applications: Software for Humanity](https://2020.splashcon.org/). SPLASH 2020 was the first virtual SPLASH and incorporated 
     several innovations to improve accessibility and global inclusivity. 
