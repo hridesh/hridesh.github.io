@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hridesh Rajan - Training, Teaching, and Curriculum Development
+title: Training, Teaching, and Curriculum Development
 permalink: /teaching/
 ---
 
@@ -21,7 +21,7 @@ permalink: /teaching/
   Hridesh Rajan, ``An Experiential Introduction to Principles of Programming Languages,'' 
   MIT Press, Cambridge, MA, pp. 304, May 2022.
 
-- Contributed (or currently contributing) to the research-based training 
+- Contributed (or currently contributing) to the [research-based training](/students/) 
   of a broad body of 31 graduate and postdoc students and 
   over 45 undergraduate students between 2005-present.
 
