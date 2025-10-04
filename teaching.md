@@ -1,10 +1,34 @@
 ---
 layout: page
-title: Teaching
+title: Hridesh Rajan - Training, Teaching, and Curriculum Development
 permalink: /teaching/
 ---
 
-*
+### Key Accomplishments in Training, Teaching, and Curriculum Development
+
+- Led development, and approval of five new degree programs at Iowa State University: MS in Artificial Intelligence, B.A. in Computer Science, 
+  a Data Science (DS) Minor, a DS Certificate, and a DS B.S. Degree. 
+  Responsibilities included: developing consensus; organizing
+  obtaining and acting on university-wide feedback; developing the 
+  program proposals with early and frequent feedback; presenting the 
+  program to university bodies; and helping negotiate program governance. 
+  Also, co-designed and co-developed four new core courses for these programs. 
+
+- Developed and revised a new pedagogy and a textbook draft 
+  to teach programming languages and functional programming to students who start in Computer Science programs 
+  that teach an imperative language such as Java
+  that led to 20% improvement in the student success rate. The textbook appeared as:
+  Hridesh Rajan, ``An Experiential Introduction to Principles of Programming Languages,'' 
+  MIT Press, Cambridge, MA, pp. 304, May 2022.
+
+- Contributed (or currently contributing) to the research-based training 
+  of a broad body of 31 graduate and postdoc students and 
+  over 45 undergraduate students between 2005-present.
+
+
+
+### Courses Taught
+
 On this page, you will find description of the courses taught by Hridesh Rajan
 at Iowa State University and elsewhere. All the material made available here is
 copyright &#169; Hridesh Rajan 2005 - 2020. Permission is granted to make
@@ -12,7 +36,7 @@ copies for educational and scholarly purposes, but copies may not be used
 directly or indirectly for commercial purposes. All copies must retain this
 copyright notice. All other rights reserved.
 
-### Software Design
+#### Software Design
 
 Com S 362: Object-Oriented Analysis and Design
 * [Spring 2006](http://www.cs.iastate.edu/~hridesh/teaching/362/06/01/)
@@ -20,7 +44,7 @@ Com S 362: Object-Oriented Analysis and Design
 * [Spring 2007](http://www.cs.iastate.edu/~hridesh/teaching/362/07/01/)
 * [Fall 2007](http://www.cs.iastate.edu/~hridesh/teaching/362/07/02/)
 
-### COMS 342: An Undergraduate Course on Programming Language Design, Semantics and Implementation
+#### COMS 342: An Undergraduate Course on Programming Language Design, Semantics and Implementation
 
 I have taught (or currently teaching) the following editions of Com S 342.
 
@@ -83,7 +107,7 @@ This edition used the book <EM>Essentials of Programming Languages, 2nd Edition
 by Friedman, Wand and Haynes</EM>. Most of this edition was adopted from a
 previously taught course by (http://www.eecs.ucf.edu/~leavens)Prof. Gary T. Leavens.
 
-### Com S 541: A Graduate Course on Programming Language Design and Semantics
+#### Com S 541: A Graduate Course on Programming Language Design and Semantics
 
 Below you will find description of the course
 Com S 541 as taught by Hridesh Rajan
