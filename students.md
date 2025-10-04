@@ -46,3 +46,13 @@ students at all levels. See [my advice](https://hridesh.github.io/prospective) o
 - Youssef W. Hanna (MS Fall'08), Google
 - Rakesh Setty (MS Fall'08), eBay
 - Mahantesh Hosamani (MS Fall'07), Ericsson
+
+### Academic Geneology
+
+My advisor at University of Virginia was Kevin Sullivan,
+whose advisor was David Notkin. 
+My academic genealogy goes all the way to [Edsger Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra), 
+who won the Turing award in 1972.
+
+In prior life, I worked at Bell Labs India, the R&D organization of Lucent Technologies. At the time, I was interested in bandwidth and power optimization issues in mobile ad hoc & sensor networks as they scale up. I still keep up with these topics.
+
