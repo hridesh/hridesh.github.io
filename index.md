@@ -85,12 +85,10 @@ Hridesh Rajan currently serves as the Dean of the [School of Science and Enginee
 
 ### Recent Service Roles
 
+- [American Society For Engineering Education (ASEE) Engineering Deans Institute (EDI) 2026](Journal of Systems and Software Special Issue on Software Engineering Technology and Applications) Planning Committee
 - General Chair, [SPLASH 2021, the ACM SIGPLAN conference on Systems, Programming, Languages, and Applications: Software for Humanity](https://2021.splashcon.org/)
 - General Chair, [SPLASH 2020, the ACM SIGPLAN conference on Systems, Programming, Languages, and Applications: Software for Humanity](https://2020.splashcon.org/)
 - Program Committee, [48th International Conference on Software Engineering (ICSE 2026)](https://conf.researchr.org/track/icse-2026/icse-2026-research-track)
-- Program Committee, [47th International Conference on Software Engineering (ICSE 2025)](https://conf.researchr.org/track/icse-2025/icse-2025-research-track)
-- Program Committee, [46th International Conference on Software Engineering (ICSE 2024)](https://conf.researchr.org/track/icse-2024/icse-2024-technical-track)
-- Program Committee, [39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024)](https://conf.researchr.org/track/ase-2024/ase-2024-research)
 - [Other service roles](/service/) 
 
 ### Contact me
