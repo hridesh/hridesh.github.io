@@ -1,8 +1,18 @@
 ---
 layout: page
-title: Students
+title: Contributions to Research-based Training
 permalink: /students/
 ---
+
+Contributed (or currently contributing) to the research-based training 
+of a diverse body of 29 graduate students and 
+over 45 undergraduate students between 2005-present.
+
+### Current Graduate Students and Postdocs
+- [Fraol Batole](https://fraolbatole.github.io), PhD Student, Reliable Agentic Output
+- [Ruchira Manke](https://www.linkedin.com/in/ruchira-manke/), PhD Student, Separate development of Data and Artifial Intelligence Models
+- [Deepak George Thomas](https://deepakgthomas.github.io), PhD Student, Verifying Reinforcement Learning Algorithms
+- [Sayma Sultana](https://sayma23.github.io), Postdoctoral Fellow, Software Engineering of AI-enabled Systems
 
 ### Former Graduate Students
 
