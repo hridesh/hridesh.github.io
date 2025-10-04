@@ -21,20 +21,20 @@ permalink: /service/
 
 ### Journal editorial board membership
 
-- Advisory Board, Proceedings of the ACM on Programming Languages (2023 - Present);
-- Editorial Board, Automated Software Engineering Journal (2024 - Present);
-- Editorial Board, IEEE Transactions on Software Engineering (2017 - 2022);
-- Associate Editor, Software Engineering Notes (2015 - 2019); and
-- Guest Editor, Journal of Systems and Software Special Issue on Software Engineering Technology and Applications (2016).
+- Advisory Board, [Proceedings of the ACM on Programming Languages](https://dl.acm.org/journal/pacmpl/editorial-board) (2023 - Present);
+- Editorial Board, [Automated Software Engineering Journal](https://link.springer.com/journal/10515/editorial-board) (2024 - Present);
+- Editorial Board, [IEEE Transactions on Software Engineering](https://www.computer.org/csdl/journal/ts) (2017 - 2022);
+- Associate Editor, [Software Engineering Notes](https://www.sigsoft.org/SEN/) (2015 - 2019); and
+- Guest Editor, [Journal of Systems and Software Special Issue on Software Engineering Technology and Applications](https://dblp.org/rec/journals/jss/ChanLR18.html) (2016).
 
 ### Workshop organization 
-- Founder and Co-organizer of Workshop on Virtual Machine and Intermediate Languages
-  (VMIL 2007-2013, 2016); and
+- Founder and Co-organizer of Workshop on [Virtual Machine and Intermediate Languages](https://conf.researchr.org/series/vmil)
+  (VMIL 2007-2013, 2016). I founded this workshop series in 2007. It was first organized with AOSD and later co-located with the SPLASH conference.
 - Co-organizer Workshop on Foundations of Aspect-oriented Languages (FOAL 2013, 2015, 2016).
 
 ### Steering committee member
 - Steering Committee Member, SPLASH Conference (2019 - Present); 
-- Workshop on Virtual Machine and Intermediate Languages (VMIL 2017 - 2019); and
-- Steering Committee Member, the Midwest Big Data Hub (2016-2018).
+- Workshop on [Virtual Machine and Intermediate Languages](https://conf.researchr.org/series/vmil) (VMIL 2017 - 2019); and
+- Steering Committee Member, [the Midwest Big Data Hub](https://midwestbigdatahub.org) (2016-2018).
 
 
