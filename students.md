@@ -4,15 +4,20 @@ title: Contributions to Research-based Training
 permalink: /students/
 ---
 
-Contributed (or currently contributing) to the research-based training 
-of a diverse body of 29 graduate students and 
-over 45 undergraduate students between 2005-present.
+Contributed (or currently contributing) to the research-based training of a broad body of 29 graduate students and 
+over 45 undergraduate students between 2005-present. 6 faculty, eight industrial researchers.
 
 ### Current Graduate Students and Postdocs
 - [Fraol Batole](https://fraolbatole.github.io), PhD Student, Reliable Agentic Output
 - [Ruchira Manke](https://www.linkedin.com/in/ruchira-manke/), PhD Student, Separate development of Data and Artifial Intelligence Models
 - [Deepak George Thomas](https://deepakgthomas.github.io), PhD Student, Verifying Reinforcement Learning Algorithms
 - [Sayma Sultana](https://sayma23.github.io), Postdoctoral Fellow, Software Engineering of AI-enabled Systems
+
+### Former Postdoctoral Fellows
+- [Breno Dantas Cruz](https://brenodan.github.io), Research Scientist at Samsung Research
+- [Ali Ghanbari](https://ali-ghanbari.github.io), Assistant Professor at Auburn University
+- [Hoan A. Nguyen](https://www.linkedin.com/in/hoan-nguyen-anh-6997ba4/), Applied Scientist at Amazon
+- [Zhen Yu](https://www.researchgate.net/profile/Zhen-Yu-21), Associate Professor at Guizhou Education University
 
 ### Former Graduate Students
 
