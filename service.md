@@ -4,6 +4,19 @@ title: International and National Service Roles
 permalink: /service/
 ---
 
+I have served the international and national communities through several roles.
+One of my most satisfying role was to lead the design and execution of the 
+first Association of Computing Machinery (ACM) hybrid conference, [SPLASH 2021](https://2021.splashcon.org/).
+This conference was organized both as a physical event in Chicago, IL and virtually. 
+The hybrid conference was attended by over 800 participants.
+The conference combined virtual in-person Q&A sessions and introduced innovative 
+features such as hybrid coffee breaks, a mirrored schedule for geographic 
+inclusion, and time bands in the program.
+As a steering committee member for the NSF Midwest Big Data Hub (MBDH),
+I worked on advising the hub on sustainability and governance, and on providing 
+program guidance.
+
+
 ### Conference leadership roles
 
 - [American Society For Engineering Education (ASEE) Engineering Deans Institute (EDI) 2026](Journal of Systems and Software Special Issue on Software Engineering Technology and Applications) Planning Committee 
