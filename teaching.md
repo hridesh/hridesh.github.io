@@ -14,6 +14,8 @@ permalink: /teaching/
   program to university bodies; and helping negotiate program governance. 
   Also, co-designed and co-developed four new core courses for these programs. 
 
+[![bookimage](images/eipopl.jpeg){: style="float: right" width="250"}](https://mitpress.mit.edu/9780262045452/an-experiential-introduction-to-principles-of-programming-languages/)
+
 - Developed and revised a new pedagogy and a textbook draft 
   to teach programming languages and functional programming to students who start in Computer Science programs 
   that teach an imperative language such as Java
