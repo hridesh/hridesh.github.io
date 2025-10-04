@@ -8,8 +8,8 @@ permalink: /service/
 
 ### Conference leadership roles
 
-- General Chair, SPLASH (ACM SIGPLAN conference on Systems, Programming, Languages, and Applications: Software for Humanity) 2021. SPLASH 2021 included five co-hosted conferences, several sub-conferences such as OOPSLA (Object-oriented Programming, Systems, Languages, and Applications) and Onward!, and nine workshops. SPLASH 2021 was the first major hybrid conference organized by the Association for Computing Machinery (ACM).
-- General Chair, SPLASH 2020. SPLASH 2020 was the first virtual SPLASH and incorporated 
+- General Chair, [SPLASH 2021, the ACM SIGPLAN conference on Systems, Programming, Languages, and Applications: Software for Humanity](https://2021.splashcon.org/). SPLASH 2021 included five co-hosted conferences, several sub-conferences such as OOPSLA (Object-oriented Programming, Systems, Languages, and Applications) and Onward!, and nine workshops. SPLASH 2021 was the first major hybrid conference organized by the Association for Computing Machinery (ACM).
+- General Chair, [SPLASH 2020, the ACM SIGPLAN conference on Systems, Programming, Languages, and Applications: Software for Humanity](https://2020.splashcon.org/). SPLASH 2020 was the first virtual SPLASH and incorporated 
     several innovations to improve accessibility and global inclusivity. 
 - Founder and General Chair, the Midwest Big Data Summer School (MBDS 2016 - 2019).
 - Program Committee Co-chair, IEEE COMPSAC SETA Symposium (SETA 2016, 2017).
