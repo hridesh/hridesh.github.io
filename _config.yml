@@ -89,6 +89,8 @@ exclude:
 plugins:
   - jekyll-gist
   - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 paginate: 10
 
