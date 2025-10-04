@@ -4,8 +4,10 @@ title: Contributions to Research-based Training
 permalink: /students/
 ---
 
-Contributed (or currently contributing) to the research-based training of a broad body of 29 graduate students and 
-over 45 undergraduate students between 2005-present. 6 faculty, eight industrial researchers.
+I have contributed (or currently contributing) to the research-based training of a broad body of 31 graduate and postdoc 
+students and over 45 undergraduate students between 2005-present. Eight of my former PhD students and postdoctoral 
+fellows are faculty and ten are industrial researchers. <b>We are currently recruiting postdoctoral fellows and 
+students at all levels. See [my advice](https://hridesh.github.io/prospective) on this matter.
 
 ### Current Graduate Students and Postdocs
 - [Fraol Batole](https://fraolbatole.github.io), PhD Student, Reliable Agentic Output
@@ -35,6 +37,7 @@ over 45 undergraduate students between 2005-present. 6 faculty, eight industrial
 - [Yuheng Long](https://www.linkedin.com/in/yuheng-long-073b4714/) (PhD Spring'16, MS Spring'10), Meta
 - [Robert Dyer](https://cse.unl.edu/~rdyer/) (PhD Fall'13, MS Fall'08), Assistant Professor at the University of Nebraska, Lincoln
 - [Tyler Sondag](https://www.linkedin.com/in/tyler-sondag-92b757b/) (PhD Fall'11, MS Fall'09), Principal Architect - CPU, NVIDIA
+- Astha Singh (MS Spring'24), PhD Program at Iowa State University
 - Ramanathan Ramu (MS Fall'17), Microsoft 
 - Nitin M. Tiwari (MS Spring'17), SAP
 - Sean L. Mooney (MS Summer'15), SourceAllies
