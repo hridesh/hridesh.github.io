@@ -4,7 +4,9 @@ title:
 permalink: /
 ---
 
+Professor Hridesh Rajan  
 Dean, [School of Science and Engineering](https://sse.tulane.edu), [Tulane University](https://tulane.edu)   
+Professor, [Department of Computer Science](https://sse.tulane.edu/cs)  
 201 Lindy Claiborne Boggs Center  
 6823 St. Charles Avenue  
 New Orleans, LA 70118-5698  
