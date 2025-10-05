@@ -13,8 +13,6 @@ My research interests span the following areas.
 * Advanced modularity and separation of concerns mechanisms
   and modular reasoning about such mechanisms.
 
-### Recent Publications
-
 ### Selected Books and Publications
 
 [![bookimage](images/eipopl.jpeg){: style="float: right" width="150"}](https://mitpress.mit.edu/9780262045452/an-experiential-introduction-to-principles-of-programming-languages/)
