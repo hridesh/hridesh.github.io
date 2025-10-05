@@ -13,30 +13,6 @@ My research interests span the following areas.
 * Advanced modularity and separation of concerns mechanisms
   and modular reasoning about such mechanisms.
 
-### Current Research Agenda 
-
-I study the modularity of AI-enabled systems, with a particular focus 
-on deep learning. Training, updating, and repurposing large models 
-often consumes substantial financial and environmental resources. 
-My approach is to *decompose deep neural networks into well-defined 
-modules* so that specific components can be isolated, reused, or 
-replaced without retraining the entire model. 
-The goal is sustainable, cost-aware AI development where improvement 
-and adaptation are local, not global.
-
-My broader agenda is to enhance programmer productivity and improve 
-the reliability of the systems we build. I design programming 
-abstractions that reduce error-prone tasks, strengthen modular 
-structure, and support *modular reasoning*. With these abstractions 
-in place, compilers and frameworks can implement complex concerns 
-automatically, lowering defect rates and accelerating development. 
-By improving modularity and the structure of reasoning, we can 
-increase the scalability of analysis and verification for both human 
-review and automated tooling.
-
-More details are available on my [lab’s project pages](https://lab-design.github.io/projects).
-
-
 ### Selected Books and Publications
 
 [![bookimage](images/eipopl.jpeg){: style="float: right" width="150"}](https://mitpress.mit.edu/9780262045452/an-experiential-introduction-to-principles-of-programming-languages/)
@@ -60,7 +36,26 @@ More details are available on my [lab’s project pages](https://lab-design.gith
 [More ...](https://lab-design.github.io/papers/).
 
 
-### Current Research Projects
+### Current Research Agenda
+
+I study the modularity of AI-enabled systems, with a particular focus
+on deep learning. Training, updating, and repurposing large models
+often consumes substantial financial and environmental resources.
+My approach is to *decompose deep neural networks into well-defined
+modules* so that specific components can be isolated, reused, or
+replaced without retraining the entire model.
+The goal is sustainable, cost-aware AI development where improvement
+and adaptation are local, not global.
+
+My broader agenda is to enhance programmer productivity and improve
+the reliability of the systems we build. I design programming
+abstractions that reduce error-prone tasks, strengthen modular
+structure, and support *modular reasoning*. With these abstractions
+in place, compilers and frameworks can implement complex concerns
+automatically, lowering defect rates and accelerating development.
+By improving modularity and the structure of reasoning, we can
+increase the scalability of analysis and verification for both human
+review and automated tooling.
 
 We are recruiting undergraduate students, graduate students, postdoctoral 
 fellows, and in some cases research scientists for the following projects.
