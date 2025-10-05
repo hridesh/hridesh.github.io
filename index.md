@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hridesh Rajan 
+title:
 permalink: /
 ---
 
