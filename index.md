@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Hridesh Rajan, Dean [Tulane School of Science and Engineering](https://sse.tulane.edu)
+title: Hridesh Rajan 
 permalink: /
 ---
 
-Dean, School of Science and Engineering, Tulane University (TU)   
+Dean, [School of Science and Engineering](https://sse.tulane.edu), [Tulane University](https://tulane.edu)   
 201 Lindy Claiborne Boggs Center  
 6823 St. Charles Avenue  
 New Orleans, LA 70118-5698  
 Phone: (504) 865-5764 (work)  
-Email: hrajan@tulane.edu (work)  
+Email: hrajan @ tulane . edu (work)  
 
 ### Overview
 
@@ -55,7 +55,7 @@ Guided by a collaborative, outcomes-oriented leadership style, he focuses on bui
 
 [More...](/about/)
 
-### Recent Service Roles
+### Selected Service Roles
 
 - [American Society For Engineering Education (ASEE) Engineering Deans Institute (EDI) 2026](Journal of Systems and Software Special Issue on Software Engineering Technology and Applications) Planning Committee
 - General Chair, [SPLASH 2021, the ACM SIGPLAN conference on Systems, Programming, Languages, and Applications: Software for Humanity](https://2021.splashcon.org/)
