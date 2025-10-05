@@ -11,7 +11,7 @@ Professor, [Department of Computer Science](https://sse.tulane.edu/cs)
 6823 St. Charles Avenue  
 New Orleans, LA 70118-5698  
 Phone: (504) 865-5764 (work)  
-Email: hrajan @ tulane . edu (work)  
+Email: [hrajan@tulane.edu](mailto:hrajan@tulane.edu) (work)  
 
 ### Overview
 
