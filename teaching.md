@@ -28,6 +28,25 @@ permalink: /teaching/
   over 45 undergraduate students between 2005-present.
 
 
+### Curriculum and Program Development at Iowa State University
+
+- **MS in AI Program**: Along with Prof. Jin Tian, I led the development of the MS in AI program at ISU. This program is designed to provide students with a comprehensive understanding of artificial intelligence concepts, methodologies, and applications. It includes courses covering artificial intelligence, machine learning, natural language processing, and more. The program emphasizes both theoretical foundations and practical skills, preparing students for a wide range of careers in the rapidly growing field of AI.
+
+- **BA in Computer Science Program**: Spearheaded by Professor Soma Chaudhuri, Professor Jack Lutz and me, ISU's BA in Computer Science program was approved by the Iowa Board of Regents and began in spring 2023. This program aims to lead to more diverse student enrollment by accommodating those who wish to major in computer science but desire a wider variety of courses. It offers a rigorous yet flexible curriculum with 32 computer science credits, allowing students to double major and enjoy more career choices. The BA program maintains a close relationship with the existing BS program, offering students an opportunity to study computer science as part of a broader liberal education. This effort aligns with the increasing demand for computing professionals and ISU's strong position to respond to commercial and academic needs for interdisciplinary computer scientists.
+
+- **Data Science Program**: In collaboration with Associate Deans Dr. Arne Hallam and Dr. Sriram Sundararajan, I co-led the development of three *Data Science degrees* at ISU. I chaired two university-level committees. The first committee designed a Data Science B.S. degree, and the second committee designed Data Science Minor and Certificate programs.
+  - *Data Science B.S. degree*: A comprehensive undergraduate program in data science.
+  - *Data Science minor*: Intended for undergraduate students of any discipline at Iowa State University, this minor aims to equip them with the skills needed for data science roles. It consists of nine credit hours of data science core courses and six credit hours in data science electives.
+  - *Data Science certificate*: Designed for students who have completed a baccalaureate degree or are currently pursuing one at ISU, this certificate includes nine credit hours of data science core courses, nine credit hours of data science electives, and a three-credit data science capstone. The capstone provides hands-on experience, allowing students to apply data science concepts in a multi-disciplinary team setting.
+
+These courses within the data science programs are crafted to provide students with the background necessary for jobs that require substantial data science expertise, such as establishing and operating data analysis pipelines.
+
+- I also led the creation of four new courses for the data science curriculum:
+    - DS 201: Introduction to Data Science (with Dr. Adisak Sukul): A foundational course covering data science concepts, domain case studies, data analysis pipelines, computing concepts, hands-on experience, and ethical considerations.
+    - DS 202: Data Acquisition and Exploratory Data Analysis (with Dr. Heike Hofmann): This course focuses on data acquisition, data displays, numerical and visual summaries, pipelines for data analysis, data visualization, and reproducibility, and includes programming exercises.
+    - DS 301: Applied Data Modeling and Predictive Analysis (with Drs. Kris De Brabanter and Dr. Jin Tian): A course that explores predictive analysis elements, machine learning techniques, data modeling, assessment, communication of findings, and ethical considerations. Team projects are a vital component.
+    - DS 401: Data Science Capstone: A course where students work in individual and team settings to plan, design, and implement significant multi-disciplinary projects in data science, with oral and written reports expected.
+
 
 ### Courses Taught
 

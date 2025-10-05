@@ -11,7 +11,7 @@ students at all levels. See [my advice](https://hridesh.github.io/prospective) o
 
 ### Current Graduate Students and Postdocs
 - [Fraol Batole](https://fraolbatole.github.io), PhD Student, Reliable Agentic Output
-- [Ruchira Manke](https://www.linkedin.com/in/ruchira-manke/), PhD Student, Separate development of Data and Artifial Intelligence Models
+- [Ruchira Manke](https://www.linkedin.com/in/ruchira-manke/), PhD Student, Separate development of Data and Artificial Intelligence Models
 - [Deepak George Thomas](https://deepakgthomas.github.io), PhD Student, Verifying Reinforcement Learning Algorithms
 - [Sayma Sultana](https://sayma23.github.io), Postdoctoral Fellow, Software Engineering of AI-enabled Systems
 
