@@ -4,8 +4,6 @@ title: About
 permalink: /
 ---
 
-[![bookimage](images/eipopl.jpeg){: style="float: right" width="150"}](https://mitpress.mit.edu/9780262045452/an-experiential-introduction-to-principles-of-programming-languages/)
-
 Hridesh Rajan serves as the Dean of the [School of Science and Engineering](https://sse.tulane.edu) at [Tulane University](https://tulane.edu) and as a Professor in the [Tulane University Department of Computer Science](https://sse.tulane.edu/cs). Before Tulane, he was the Kingland Professor and Chair of [Computer Science](https://www.cs.iastate.edu) at [Iowa State University](https://www.iastate.edu) (2019–2024) and the founding Professor-in-Charge of [Data Science Programs](https://datascience.iastate.edu) (2017–2019).
 
 Rajan’s research spans programming languages, software engineering, and data science. He is known for the design of the [Ptolemy programming language](https://link.springer.com/chapter/10.1007/978-3-540-70592-5_8), which advanced modular reasoning about crosscutting concerns, and for the [Boa language and its infrastructure](https://github.com/boalang), which lowered barriers to data-driven software engineering at ultra-large scale.
@@ -17,6 +15,16 @@ Rajan has served on the editorial boards of *IEEE Transactions on Software Engin
 Guided by a collaborative, outcomes-oriented leadership style, he focuses on building high-performing teams, launching programs that meet national needs, and creating partnerships that translate research into societal impact. At Tulane, he is building an interdisciplinary-first, translational, School of Science and Engineering focused on Better Lives.
 
 [More...](/about/)
+
+### Textbooks 
+
+[![bookimage](images/eipopl.jpeg){: style="float: right" width="150"}](https://mitpress.mit.edu/9780262045452/an-experiential-introduction-to-principles-of-programming-languages/)
+
+- One of my long-term project has been to develop a new pedagogy and a textbook draft
+  to teach programming languages and functional programming to students who start in Computer Science programs
+  that teach an imperative language such as Java.
+  This textbook appeared as:
+  Hridesh Rajan, [*An Experiential Introduction to Principles of Programming Languages*](https://mitpress.mit.edu/9780262045452/an-experiential-introduction-to-principles-of-programming-languages/), MIT Press, Cambridge, MA, pp. 304, May 2022.
 
 
 ### Major Awards and Honors
