@@ -13,6 +13,30 @@ My research interests span the following areas.
 * Advanced modularity and separation of concerns mechanisms
   and modular reasoning about such mechanisms.
 
+### Current Research Agenda 
+
+I study the modularity of AI-enabled systems, with a particular focus 
+on deep learning. Training, updating, and repurposing large models 
+often consumes substantial financial and environmental resources. 
+My approach is to *decompose deep neural networks into well-defined 
+modules* so that specific components can be isolated, reused, or 
+replaced without retraining the entire model. 
+The goal is sustainable, cost-aware AI development where improvement 
+and adaptation are local, not global.
+
+My broader agenda is to enhance programmer productivity and improve 
+the reliability of the systems we build. I design programming 
+abstractions that reduce error-prone tasks, strengthen modular 
+structure, and support *modular reasoning*. With these abstractions 
+in place, compilers and frameworks can implement complex concerns 
+automatically, lowering defect rates and accelerating development. 
+By improving modularity and the structure of reasoning, we can 
+increase the scalability of analysis and verification for both human 
+review and automated tooling.
+
+More details are available on my [lab’s project pages](https://lab-design.github.io/projects).
+
+
 ### Selected Books and Publications
 
 [![bookimage](images/eipopl.jpeg){: style="float: right" width="150"}](https://mitpress.mit.edu/9780262045452/an-experiential-introduction-to-principles-of-programming-languages/)
@@ -36,32 +60,36 @@ My research interests span the following areas.
 [More ...](https://lab-design.github.io/papers/).
 
 
-### Research Projects
+### Current Research Projects
 
-My recent scholarly endeavors have been concentrated on investigating the 
-modularity of AI-powered systems, with a special focus on deep learning 
-technologies. One of my primary concerns centers on the substantial financial 
-and environmental costs associated with training, updating, and repurposing 
-large-scale AI models like deep neural networks. To illustrate, it has been 
-reported that the training of ChatGPT alone cost approximately $100 million, 
-and updating its core algorithms involves significant expenses. Against this 
-backdrop, my research aims to introduce more sustainable and efficient 
-solutions by pioneering methods for the modular decomposition of these 
-expensive AI models. This would enable the isolated reuse or replacement of 
-specific modules, thereby optimizing resource utilization and potentially 
-driving down overall costs.
+We are recruiting undergraduate students, graduate students, postdoctoral 
+fellows, and in some cases research scientists for the following projects.
 
-My overarching research agenda is dedicated to enhancing programmer 
-productivity while elevating the reliability of the software systems they 
-create. Specifically, I focus on the development of innovative programming 
-abstractions that mitigate error-prone aspects, bolster modularity, and 
-facilitate modular reasoning. Through these abstractions, compilers and 
-frameworks can automatically implement complex concerns, thereby minimizing 
-the likelihood of errors and boosting productivity. Furthermore, by 
-advancing modularity and modular reasoning, my work aims to improve 
-scalability in both manual and automated reasoning, as well as in 
-verification procedures. For an in-depth look at my research endeavors, 
-please visit my [lab's webpages](https://lab-design.github.io/projects).
+- Boa Infrastructure: Starting with our ICSE 2023 paper, entitled 
+  [Boa: A Language and Infrastructure for Analyzing Ultra-Large-Scale Software Repositories](https://ieeexplore.ieee.org/document/6606588)
+  that introduced Boa the first cyberinfrastructure for big data-driven 
+  discovery in software engineering, we have led democratization of big 
+  science in this area. We are looking into expanding the infrastructure,
+  connecting Boa more explicitly with LLM, automating generation of Boa-like
+  infrastructure for other domains, and reducing the cost of running Boa 
+  queries so that they can be executed on smaller clusters. 
+
+- Separate and Independent Testing of Data and AI Models: Our ICSE 2025 
+  paper, entitled [Mock Deep Testing: Toward Separate Development of Data and Models for Deep Learning](https://dl.acm.org/doi/10.1109/ICSE55347.2025.00220),
+  has introduced our methodology of mock deep testing for unit testing 
+  of Deep Learning applications. We are looking into expanding the applicability
+  of this work for more kinds of deep learning models as well as different 
+  kinds of data.
+
+- Design by Contract for AI Systems: Our ICSE 2024 paper, 
+  [Inferring Data Preconditions from Deep Learning Models for Trustworthy Prediction in Deployment](https://dl.acm.org/doi/10.1145/3597503.3623333), 
+  showed an approach for inferring data preconditions. More work is needed 
+  on expanding this approach to other models, and other properties. 
+
+- While the three areas (discussed above) are being worked on, we are 
+  always happy to have a conversation about follow-up work building on 
+  our paper. For a complete list of our papers, 
+  please visit my [lab's webpages](https://lab-design.github.io/papers).
 
 
 ### Contact me
