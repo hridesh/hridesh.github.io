@@ -20,7 +20,7 @@ permalink: /teaching/
   to teach programming languages and functional programming to students who start in Computer Science programs 
   that teach an imperative language such as Java
   that led to 20% improvement in the student success rate. The textbook appeared as:
-  Hridesh Rajan, ``An Experiential Introduction to Principles of Programming Languages,'' 
+  Hridesh Rajan, [*An Experiential Introduction to Principles of Programming Languages*](https://mitpress.mit.edu/9780262045452/an-experiential-introduction-to-principles-of-programming-languages/), 
   MIT Press, Cambridge, MA, pp. 304, May 2022.
 
 - Contributed (or currently contributing) to the [research-based training](/students/) 
