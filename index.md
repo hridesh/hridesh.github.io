@@ -4,9 +4,7 @@ title: About
 permalink: /
 ---
 
-[![bookimage](images/eipopl.jpeg){: style="float: right" width="250"}](https://mitpress.mit.edu/9780262045452/an-experiential-introduction-to-principles-of-programming-languages/)
-
-### About Hridesh Rajan
+[![bookimage](images/eipopl.jpeg){: style="float: right" width="150"}](https://mitpress.mit.edu/9780262045452/an-experiential-introduction-to-principles-of-programming-languages/)
 
 Hridesh Rajan currently serves as the Dean of the [School of Science and Engineering](https://sse.tulane.edu) at [Tulane University](https://tulane.edu). Prior to this role, he was the Kingland Professor and Chair of [Computer Science](https://www.cs.iastate.edu) at [Iowa State University](https://www.iastate.edu) from 2019 to 2024.  He also served as the founding Professor-in-charge of [Data Science Programs](https://datascience.iastate.edu) from 2017 to 2019. Prof. Rajan's research interests are in programming languages, software engineering, and data science where he is most known for his design of the Ptolemy programming language that showed how to modularly reason about crosscutting concerns and the Boa programming language and its infrastructure that decreases the barriers to data-driven software engineering. He has been recognized by the US National Science Foundation (NSF) with a CAREER award, an Early Achievement in Research Award, a Big-12 Fellowship, the Kingland Professorship, and an exemplary mentor for Junior Faculty award. Prof. Rajan is a fellow of the AAAS, US-UK Fulbright scholar, distinguished member of the ACM, and Commissioner for the ABET Computing Accreditation Commission. He has served on the editorial boards of IEEE Transactions on Software Engineering and ACM SIGSOFT Software Engineering Notes, and currently serves on the advisory board of Proceedings of the ACM on Programming Languages and the steering committee of the [ACM SIGPLAN International Conference on Systems, Programming, Languages and Applications: Software for Humanity (SPLASH)](https://2024.splashcon.org). [More...](/about/)
 
