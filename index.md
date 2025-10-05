@@ -1,8 +1,17 @@
 ---
 layout: page
-title: About
+title: Hridesh Rajan, Dean [Tulane School of Science and Engineering](https://sse.tulane.edu)
 permalink: /
 ---
+
+Dean, School of Science and Engineering, Tulane University (TU)   
+201 Lindy Claiborne Boggs Center  
+6823 St. Charles Avenue  
+New Orleans, LA 70118-5698  
+Phone: (504) 865-5764 (work)  
+Email: hrajan@tulane.edu (work)  
+
+### Overview
 
 Hridesh Rajan serves as the Dean of the [School of Science and Engineering](https://sse.tulane.edu) at [Tulane University](https://tulane.edu) and as a Professor in the [Tulane University Department of Computer Science](https://sse.tulane.edu/cs). Before Tulane, he was the Kingland Professor and Chair of [Computer Science](https://www.cs.iastate.edu) at [Iowa State University](https://www.iastate.edu) (2019–2024) and the founding Professor-in-Charge of [Data Science Programs](https://datascience.iastate.edu) (2017–2019).
 
@@ -30,7 +39,7 @@ Guided by a collaborative, outcomes-oriented leadership style, he focuses on bui
   
 - Robert Dyer, Hoan Anh Nguyen, Hridesh Rajan, and Tien N. Nguyen, "[Boa: A Language and Infrastructure for Analyzing Ultra-Large-Scale Software Repositories](https://ieeexplore.ieee.org/document/6606588)," 35th International Conference on Software Engineering, May, 2013. Boa was the first cyberinfrastructure for big data-driven discovery in software engineering.   
 
-- Md Johirul Islam, Giang Nguyen, Rangeet Pan, and Hridesh Rajan, "[A Comprehensive Study on Deep Learning Bug Characteristics](https://dl.acm.org/doi/10.1145/3338906.3338955)," ESEC/FSE’19: The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), August, 2019. This work provided the first rigorous taxonomies of defects and repairs in neural-network code.
+- Md Johirul Islam, Giang Nguyen, Rangeet Pan, and Hridesh Rajan, "[A Comprehensive Study on Deep Learning Bug Characteristics](https://dl.acm.org/doi/10.1145/3338906.3338955)," ESEC/FSE’19: The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), August, 2019. This work provided the first rigorous taxonomy of defects and repairs in neural-network code.
 
 - Mohammad Wardat, Wei Le, and Hridesh Rajan, "[DeepLocalize: Fault Localization for Deep Neural Networks](https://dl.acm.org/doi/10.1109/ICSE43902.2021.00034)," ICSE’21: The 43nd International Conference on Software Engineering, May, 2021. DeepLocalize was the first approach for bug localization in deep learning models.
 
@@ -42,7 +51,7 @@ Guided by a collaborative, outcomes-oriented leadership style, he focuses on bui
 - 2009 Early CAREER Award, US National Science Foundation
 - 2017 ACM Distinguished Member.
 - 2018 Fulbright US-UK Scholar.
-- 2021 AAAS Fellow 
+- 2020 AAAS Fellow 
 
 [More...](/about/)
 
