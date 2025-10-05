@@ -47,6 +47,17 @@ These courses within the data science programs are crafted to provide students w
     - DS 301: Applied Data Modeling and Predictive Analysis (with Drs. Kris De Brabanter and Dr. Jin Tian): A course that explores predictive analysis elements, machine learning techniques, data modeling, assessment, communication of findings, and ethical considerations. Team projects are a vital component.
     - DS 401: Data Science Capstone: A course where students work in individual and team settings to plan, design, and implement significant multi-disciplinary projects in data science, with oral and written reports expected.
 
+### Summer School Curriculum Development}
+
+ - *Annual Midwest Big Data Summer School* (2016-2019, [Website](https://tads.research.iastate.edu/midwest-big-data-summer-school).
+   This summer school, which I founded in 2016, is designed as a one-week, intensive curriculum aimed at early career researchers to introduce them to data science.
+   The school includes full-day lectures on various topics, ranging from data acquisition, data preprocessing, and exploratory data analysis to descriptive data analysis, data analysis tools and techniques, visualization and communication, ethical issues in data science, reproducibility and repeatability, and understanding domain/context.
+   The first summer school was attended by 144 participants from several universities within the Midwest, as well as a few outside of it, including but not limited to Iowa State University, Indiana University, University of Wisconsin, University of South Dakota, California State University East Bay, University of Maryland, and Oregon State University.
+   We also had participants from various organizations such as American Express, Ames Lab, Danforth Plant Science Center, and others.
+   In response to a post-event survey, 43.75% of participants reported being very satisfied, 43.75% were satisfied, 6.25% were neutral, 3.13% were dissatisfied, and 3.13% were very dissatisfied.
+   Each successive edition was attended by a similarly broad audience.
+   The 2019 edition was attended by 175+ participants. In total, 600+ attendees benefited from this initiative between 2016-2019.
+
 
 ### Courses Taught
 
