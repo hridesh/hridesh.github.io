@@ -51,8 +51,8 @@ Guided by a collaborative, outcomes-oriented leadership style, he focuses on bui
 ### Selected Awards and Honors
 
 - 2009 Early CAREER Award, US National Science Foundation
-- 2017 ACM Distinguished Member.
-- 2018 Fulbright US-UK Scholar.
+- 2017 ACM Distinguished Member
+- 2018 Fulbright US-UK Scholar
 - 2020 AAAS Fellow 
 
 [More...](/about/)
