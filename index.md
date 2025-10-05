@@ -16,7 +16,7 @@ Guided by a collaborative, outcomes-oriented leadership style, he focuses on bui
 
 [More...](/about/)
 
-### Textbooks 
+### Selected Books and Publications 
 
 [![bookimage](images/eipopl.jpeg){: style="float: right" width="150"}](https://mitpress.mit.edu/9780262045452/an-experiential-introduction-to-principles-of-programming-languages/)
 
@@ -26,23 +26,21 @@ Guided by a collaborative, outcomes-oriented leadership style, he focuses on bui
   This textbook appeared as:
   Hridesh Rajan, [*An Experiential Introduction to Principles of Programming Languages*](https://mitpress.mit.edu/9780262045452/an-experiential-introduction-to-principles-of-programming-languages/), MIT Press, Cambridge, MA, pp. 304, May 2022.
 
+- Hridesh Rajan and Gary T. Leavens, "[Ptolemy: A Language with Quantified, Typed Events](https://link.springer.com/chapter/10.1007/978-3-540-70592-5_8)," ECOOP ’08: 22nd European Conference on Object-Oriented Programming, July, 2008. This work addressed the debate on separating crosscutting concerns while preserving modular reasoning.
+  
+- Robert Dyer, Hoan Anh Nguyen, Hridesh Rajan, and Tien N. Nguyen, "[Boa: A Language and Infrastructure for Analyzing Ultra-Large-Scale Software Repositories](https://ieeexplore.ieee.org/document/6606588)," 35th International Conference on Software Engineering, May, 2013.
 
-### Major Awards and Honors
+- Md Johirul Islam, Giang Nguyen, Rangeet Pan, and Hridesh Rajan, "[A Comprehensive Study on Deep Learning Bug Characteristics](https://dl.acm.org/doi/10.1145/3338906.3338955)," ESEC/FSE’19: The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), August, 2019. 
+
+
+### Selected Awards and Honors
 
 - 2009 Early CAREER Award, US National Science Foundation
-- 2010 Early Achievement in Research Award, College of Liberal Arts & Science, Iowa State University
-- 2012 Big-12 Fellowship
-- 2014 ACM Senior Member
-- 2016-17 Emerging Leaders Academy. 
-- 2016 Kingland Professorship. 
-- 2016-17 Exemplary Mentor of Junior Faculty, Iowa State University. 
 - 2017 ACM Distinguished Member.
 - 2018 Fulbright US-UK Scholar.
-- 2020 Facebook Probability and Programming Award
-- 2020 ACM SIGSOFT Distinguished Paper Award at ESEC/FSE 2020
 - 2021 AAAS Fellow 
-- 2022 Early Achievement in Departmental Leadership Award
-- 2023 ACM SIGSOFT Distinguished Paper Award at ASE 2023
+
+[More...](/about/)
 
 ### Recent Service Roles
 
