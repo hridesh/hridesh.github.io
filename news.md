@@ -6,7 +6,6 @@ permalink: /news/
 
 For the most up-to-date news, please see my [LinkedIn profile](https://www.linkedin.com/in/hrideshrajan/). I post frequent updates there and invite you to follow.
 
-<!---
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
@@ -20,7 +19,7 @@ For the most up-to-date news, please see my [LinkedIn profile](https://www.linke
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
-</div> -->
+</div> 
 
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
