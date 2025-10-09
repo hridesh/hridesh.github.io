@@ -1,6 +1,10 @@
 ---
-layout: default
+layout: page
+title: Major News
+permalink: /news/
 ---
+
+For the most up-to-date news, please see my [LinkedIn profile](https://www.linkedin.com/in/hrideshrajan/). I post frequent updates there and invite you to follow.
 
 <!---
 <div class="posts">
