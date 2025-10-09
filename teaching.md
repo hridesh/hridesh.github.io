@@ -47,7 +47,7 @@ These courses within the data science programs are crafted to provide students w
     - DS 301: Applied Data Modeling and Predictive Analysis (with Drs. Kris De Brabanter and Dr. Jin Tian): A course that explores predictive analysis elements, machine learning techniques, data modeling, assessment, communication of findings, and ethical considerations. Team projects are a vital component.
     - DS 401: Data Science Capstone: A course where students work in individual and team settings to plan, design, and implement significant multi-disciplinary projects in data science, with oral and written reports expected.
 
-### Summer School Curriculum Development}
+### Summer School Curriculum Development
 
  - *Annual Midwest Big Data Summer School* (2016-2019, [Website](https://tads.research.iastate.edu/midwest-big-data-summer-school).
    This summer school, which I founded in 2016, is designed as a one-week, intensive curriculum aimed at early career researchers to introduce them to data science.
