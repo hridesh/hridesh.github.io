@@ -60,7 +60,8 @@ Guided by a collaborative, outcomes-oriented leadership style, he focuses on bui
 ### Selected Service Roles
 
 - Commissioner, [ABET’s Computing Accreditation Commission](https://www.abet.org/about-abet/governance/accreditation-commissions/)
-- [American Society For Engineering Education (ASEE) Engineering Deans Institute (EDI) 2026](Journal of Systems and Software Special Issue on Software Engineering Technology and Applications) Planning Committee
+- [American Society For Engineering Education (ASEE) Engineering Deans Institute (EDI) 2027](American Society For Engineering Education (ASEE) Engineering Deans Institute (EDI) 2027) Co-chair, Planning Committee
+- [American Society For Engineering Education (ASEE) Engineering Deans Institute (EDI) 2026](American Society For Engineering Education (ASEE) Engineering Deans Institute (EDI) 2026) Planning Committee
 - General Chair, [SPLASH 2021, the ACM SIGPLAN conference on Systems, Programming, Languages, and Applications: Software for Humanity](https://2021.splashcon.org/)
 - General Chair, [SPLASH 2020, the ACM SIGPLAN conference on Systems, Programming, Languages, and Applications: Software for Humanity](https://2020.splashcon.org/)
 - Program Committee, [48th International Conference on Software Engineering (ICSE 2026)](https://conf.researchr.org/track/icse-2026/icse-2026-research-track)
