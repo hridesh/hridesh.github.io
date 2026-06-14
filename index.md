@@ -2,7 +2,7 @@
 layout: home
 title:
 permalink: /
-eyebrow: Tulane University
+eyebrow: Computer Scientist · Academic Leader
 headline: Hridesh Rajan
 role: Dean, School of Science &amp; Engineering
 lede: Computer scientist and academic leader working across programming languages, software engineering, and data science. At Tulane, I am building an interdisciplinary-first, translational School of Science and Engineering focused on Better Lives.
@@ -26,6 +26,7 @@ lede: Computer scientist and academic leader working across programming language
         New Orleans, LA 70118-5698, USA<br>
         Phone: (504) 865-5764
       </p>
+      <p class="muted" style="margin-bottom:.6rem">Open to select advisory work, talks, and collaborations.</p>
       <p><a href="mailto:hrajan@tulane.edu">hrajan@tulane.edu</a></p>
       <p style="margin-bottom:0">
         <a href="https://www.linkedin.com/in/hrideshrajan/">LinkedIn</a> &middot;
@@ -39,7 +40,7 @@ lede: Computer scientist and academic leader working across programming language
 <section class="section">
   <div class="section-head">
     <h2>Selected work</h2>
-    <a class="more" href="{{ site.baseurl }}/publications/">All publications &#8594;</a>
+    <a class="more" href="{{ site.baseurl }}/research/">More in research &#8594;</a>
   </div>
   <div class="cards">
     <a class="card" href="https://mitpress.mit.edu/9780262045452/an-experiential-introduction-to-principles-of-programming-languages/">

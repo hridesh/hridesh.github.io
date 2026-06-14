@@ -22,7 +22,7 @@
           <img class="brand-avatar" src="{{ site.avatar }}" alt="Portrait of Hridesh Rajan" />
           <span class="brand-text">
             <span class="brand-name">Hridesh Rajan</span>
-            <span class="brand-sub">Dean, Tulane SSE</span>
+            <span class="brand-sub">Computer Scientist &middot; Academic Leader</span>
           </span>
         </a>
 
@@ -34,14 +34,11 @@
         <nav class="nav-links" aria-label="Primary">
           <a href="{{ site.baseurl }}/"{% if page.url == '/' %} aria-current="page"{% endif %}>About</a>
           <a href="{{ site.baseurl }}/research/"{% if page.url contains '/research' %} aria-current="page"{% endif %}>Research</a>
-          <a href="{{ site.baseurl }}/publications/"{% if page.url contains '/publications' %} aria-current="page"{% endif %}>Publications</a>
           <a href="{{ site.baseurl }}/students/"{% if page.url contains '/students' %} aria-current="page"{% endif %}>Students</a>
           <a href="{{ site.baseurl }}/teaching/"{% if page.url contains '/teaching' %} aria-current="page"{% endif %}>Teaching</a>
-          <a href="{{ site.baseurl }}/talks/"{% if page.url contains '/talks' %} aria-current="page"{% endif %}>Talks</a>
           <a href="{{ site.baseurl }}/service/"{% if page.url contains '/service' %} aria-current="page"{% endif %}>Service</a>
           <a href="{{ site.baseurl }}/news/"{% if page.url contains '/news' or page.layout == 'post' %} aria-current="page"{% endif %}>News</a>
           <a class="nav-ext" href="https://lab-design.github.io/" target="_blank" rel="noopener">Lab &#8599;</a>
-          <a class="nav-cv" href="{{ site.baseurl }}/cv/"{% if page.url contains '/cv' %} aria-current="page"{% endif %}>CV</a>
         </nav>
       </div>
     </header>
@@ -55,7 +52,7 @@
         <div class="site-footer">
           <div class="footer-about">
             <div class="footer-name">Hridesh Rajan</div>
-            <p>Dean, School of Science and Engineering, Tulane University. Building an interdisciplinary-first, translational school focused on Better Lives.</p>
+            <p>Computer scientist and academic leader working across programming languages, software engineering, and trustworthy AI. Dean of the School of Science and Engineering at Tulane University.</p>
           </div>
           <div class="footer-links-col">
             <h5>Connect</h5>
@@ -66,7 +63,7 @@
         </div>
         <div class="footer-bottom">
           <span>&copy; {{ site.time | date: '%Y' }} Hridesh Rajan.</span>
-          <span><a href="https://sse.tulane.edu">Tulane School of Science &amp; Engineering</a></span>
+          <span>New Orleans, Louisiana</span>
         </div>
       </div>
     </div>

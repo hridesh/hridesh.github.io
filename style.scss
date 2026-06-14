@@ -69,7 +69,7 @@ hr {
   margin: 2.5rem 0;
 }
 
-::selection { background: rgba($tulane-blue, .35); color: $text; }
+::selection { background: rgba($accent, .22); color: $text; }
 
 code, pre { font-family: $mono; font-size: .9em; }
 code { background: $bg-soft-2; padding: .1em .4em; border-radius: 5px; }
@@ -79,7 +79,7 @@ pre code { background: none; padding: 0; }
 blockquote {
   margin: 1.6em 0;
   padding: .4em 1.2em;
-  border-left: 4px solid $tulane-blue;
+  border-left: 4px solid $accent;
   color: $text-muted;
   font-style: italic;
 }
@@ -133,7 +133,7 @@ blockquote {
   width: 40px; height: 40px;
   border-radius: 50%;
   object-fit: cover;
-  border: 2px solid $pale-green;
+  border: 2px solid $border-strong;
 }
 .brand-text { display: flex; flex-direction: column; line-height: 1.1; }
 .brand-name {
@@ -242,7 +242,7 @@ blockquote {
    ============================================================ */
 .hero {
   background:
-    radial-gradient(1100px 460px at 88% -8%, rgba($tulane-blue,.20), transparent 60%),
+    radial-gradient(1100px 460px at 88% -8%, rgba($accent,.16), transparent 60%),
     linear-gradient(180deg, $bg-soft 0%, #fff 100%);
   border-bottom: 1px solid $border;
 }
@@ -260,8 +260,8 @@ blockquote {
   font-weight: 700;
   letter-spacing: .08em;
   text-transform: uppercase;
-  color: $brand;
-  background: rgba($mardi-gras, .14);
+  color: $accent;
+  background: rgba($accent, .10);
   padding: .35rem .75rem;
   border-radius: 999px;
   margin-bottom: 1.1rem;
@@ -274,7 +274,7 @@ blockquote {
 }
 .hero-role {
   font-size: 1.2rem;
-  color: $brand;
+  color: $accent;
   font-weight: 600;
   margin-bottom: 1rem;
 }
@@ -339,7 +339,7 @@ a.card:hover { transform: translateY(-3px); box-shadow: $shadow; border-color: $
   font-weight: 700;
   letter-spacing: .05em;
   text-transform: uppercase;
-  color: $storm;
+  color: $link;
   margin-bottom: .5rem;
 }
 
@@ -467,8 +467,8 @@ a.card:hover { transform: translateY(-3px); box-shadow: $shadow; border-color: $
 }
 
 .callout {
-  background: $bg-tint-blue;
-  border: 1px solid $delta-blue;
+  background: $surface;
+  border: 1px solid $border-strong;
   border-radius: $radius;
   padding: 1.1rem 1.3rem;
   margin: 1.5rem 0;
@@ -480,7 +480,7 @@ a.card:hover { transform: translateY(-3px); box-shadow: $shadow; border-color: $
    ============================================================ */
 .wrapper-footer {
   margin-top: 4rem;
-  background: $tulane-green-darker;
+  background: $footer-bg;
   color: rgba(255,255,255,.85);
 }
 .site-footer {
