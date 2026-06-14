@@ -87,11 +87,7 @@ fellows, and in some cases research scientists for the following projects.
   please visit my [lab's webpages](https://lab-design.github.io/papers).
 
 
-### Contact me
+### Contact
 
-You can contact me using either of the e-mail addresses below. 
-When writing, please substitute firstname with hridesh.
-
-* Work: [h followed by lastname@tulane.edu](mailto:h followed by lastname@tulane.edu)
-* Personal: [firstname@gmail.com](mailto:firstname@gmail.com)
+Interested in collaborating, or in joining the lab as a student or postdoc? Reach me at [hrajan@tulane.edu](mailto:hrajan@tulane.edu), and see my [advice for prospective members](/prospective/).
 
