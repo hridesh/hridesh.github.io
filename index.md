@@ -1,77 +1,101 @@
 ---
-layout: page
+layout: home
 title:
 permalink: /
+eyebrow: Tulane University
+headline: Hridesh Rajan
+role: Dean, School of Science &amp; Engineering
+lede: Computer scientist and academic leader working across programming languages, software engineering, and data science. At Tulane, I am building an interdisciplinary-first, translational School of Science and Engineering focused on Better Lives.
 ---
 
-Professor Hridesh Rajan  
-Dean, [School of Science and Engineering](https://sse.tulane.edu), [Tulane University](https://tulane.edu)   
-Professor, [Department of Computer Science](https://sse.tulane.edu/cs)  
-201 Lindy Claiborne Boggs Center  
-6823 St. Charles Avenue  
-New Orleans, LA 70118-5698, USA  
-Phone: (504) 865-5764 (work)  
-Email: [hrajan@tulane.edu](mailto:hrajan@tulane.edu) (work)  
+<section class="section">
+  <div class="split">
+    <div>
+      <h2>Overview</h2>
+      <p>I serve as the Dean of the <a href="https://sse.tulane.edu">School of Science and Engineering</a> at <a href="https://tulane.edu">Tulane University</a> and as a Professor in the <a href="https://sse.tulane.edu/cs">Department of Computer Science</a>. Before Tulane, I was the Kingland Professor and Chair of <a href="https://www.cs.iastate.edu">Computer Science</a> at <a href="https://www.iastate.edu">Iowa State University</a> (2019–2024) and the founding Professor-in-Charge of <a href="https://datascience.iastate.edu">Data Science Programs</a> (2017–2019).</p>
+      <p>My research spans programming languages, software engineering, and data science. I am known for the design of the <a href="https://link.springer.com/chapter/10.1007/978-3-540-70592-5_8">Ptolemy programming language</a>, which advanced modular reasoning about crosscutting concerns, and for <a href="https://github.com/boalang">Boa and its infrastructure</a>, which lowered the barriers to data-driven software engineering at ultra-large scale.</p>
+      <p>I lead with a collaborative, outcomes-oriented style: building high-performing teams, launching programs that meet national needs, and creating partnerships that translate research into societal impact.</p>
+      <p><a href="{{ site.baseurl }}/about/">Read the full biography &#8594;</a></p>
+    </div>
+    <aside class="contact-card">
+      <h3>Contact</h3>
+      <p class="addr">
+        Office of the Dean<br>
+        201 Lindy Claiborne Boggs Center<br>
+        6823 St. Charles Avenue<br>
+        New Orleans, LA 70118-5698, USA<br>
+        Phone: (504) 865-5764
+      </p>
+      <p><a href="mailto:hrajan@tulane.edu">hrajan@tulane.edu</a></p>
+      <p style="margin-bottom:0">
+        <a href="https://www.linkedin.com/in/hrideshrajan/">LinkedIn</a> &middot;
+        <a href="https://github.com/hridesh">GitHub</a> &middot;
+        <a href="https://lab-design.github.io/">Lab</a>
+      </p>
+    </aside>
+  </div>
+</section>
 
-### Overview
+<section class="section">
+  <div class="section-head">
+    <h2>Selected work</h2>
+    <a class="more" href="{{ site.baseurl }}/publications/">All publications &#8594;</a>
+  </div>
+  <div class="cards">
+    <a class="card" href="https://mitpress.mit.edu/9780262045452/an-experiential-introduction-to-principles-of-programming-languages/">
+      <span class="card-tag">Book &middot; MIT Press, 2022</span>
+      <h3>An Experiential Introduction to Principles of Programming Languages</h3>
+      <p>A new pedagogy for teaching programming languages and functional programming to students who begin in imperative languages such as Java.</p>
+    </a>
+    <a class="card" href="https://ieeexplore.ieee.org/document/6606588">
+      <span class="card-tag">Infrastructure &middot; Boa</span>
+      <h3>Mining ultra-large-scale software repositories</h3>
+      <p>Boa was the first cyberinfrastructure for big-data-driven discovery in software engineering, democratizing large-scale analysis.</p>
+    </a>
+    <a class="card" href="https://dl.acm.org/doi/10.1145/3368089.3409668">
+      <span class="card-tag">Trustworthy AI</span>
+      <h3>Decomposing deep neural networks into modules</h3>
+      <p>The first work on decomposition and modularity of deep neural networks, opening a new sub-field toward sustainable, reusable AI.</p>
+    </a>
+  </div>
+</section>
 
-Hridesh Rajan serves as the Dean of the [School of Science and Engineering](https://sse.tulane.edu) at [Tulane University](https://tulane.edu) and as a Professor in the [Tulane University Department of Computer Science](https://sse.tulane.edu/cs). Before Tulane, he was the Kingland Professor and Chair of [Computer Science](https://www.cs.iastate.edu) at [Iowa State University](https://www.iastate.edu) (2019–2024) and the founding Professor-in-Charge of [Data Science Programs](https://datascience.iastate.edu) (2017–2019).
+<section class="section">
+  <div class="section-head">
+    <h2>Recent news</h2>
+    <a class="more" href="{{ site.baseurl }}/news/">All news &#8594;</a>
+  </div>
+  <div class="cards">
+    {% for post in site.posts limit:3 %}
+    <a class="card" href="{{ site.baseurl }}{{ post.url }}">
+      <span class="card-tag">{{ post.date | date: "%b %Y" }}</span>
+      <h3>{{ post.title }}</h3>
+    </a>
+    {% endfor %}
+  </div>
+</section>
 
-Rajan’s research spans programming languages, software engineering, and data science. He is known for the design of the [Ptolemy programming language](https://link.springer.com/chapter/10.1007/978-3-540-70592-5_8), which advanced modular reasoning about crosscutting concerns, and for the [Boa language and its infrastructure](https://github.com/boalang), which lowered barriers to data-driven software engineering at ultra-large scale.
-
-His work has been recognized by the U.S. National Science Foundation with a *CAREER* award, by an Early Achievement in Research Award, by a Big-12 Fellowship and the Kingland Professorship, and by an Exemplary Mentor for Junior Faculty award. He is a [Fellow of the AAAS](https://www.aaas.org/news/aaas-announces-leading-scientists-elected-2020-fellows), a [US–UK Fulbright Scholar](https://fulbrightscholars.org/grantee/hridesh-rajan), and a [Distinguished Member of the ACM](https://awards.acm.org/award_winners/rajan_6359301). He also serves as a Commissioner on [ABET’s Computing Accreditation Commission](https://www.abet.org/about-abet/governance/accreditation-commissions/).
-
-Rajan has served on the editorial boards of *IEEE Transactions on Software Engineering* and *ACM SIGSOFT Software Engineering Notes*, and currently serves on the advisory board of *Proceedings of the ACM on Programming Languages (PACMPL)* and on the steering committee of the [ACM SIGPLAN International Conference on Systems, Programming, Languages and Applications: Software for Humanity (SPLASH)](https://2024.splashcon.org).
-
-Guided by a collaborative, outcomes-oriented leadership style, he focuses on building high-performing teams, launching programs that meet national needs, and creating partnerships that translate research into societal impact. At Tulane, he is building an interdisciplinary-first, translational, School of Science and Engineering focused on Better Lives.
-
-[More...](/about/)
-
-### Selected Books and Publications 
-
-[![bookimage](images/eipopl.jpeg){: style="float: right" width="150"}](https://mitpress.mit.edu/9780262045452/an-experiential-introduction-to-principles-of-programming-languages/)
-
-- One of my long-term project has been to develop a new pedagogy and a textbook draft
-  to teach programming languages and functional programming to students who start in Computer Science programs
-  that teach an imperative language such as Java.
-  This textbook appeared as:
-  Hridesh Rajan, [*An Experiential Introduction to Principles of Programming Languages*](https://mitpress.mit.edu/9780262045452/an-experiential-introduction-to-principles-of-programming-languages/), MIT Press, Cambridge, MA, pp. 304, May 2022.
-
-- Hridesh Rajan and Gary T. Leavens, "[Ptolemy: A Language with Quantified, Typed Events](https://link.springer.com/chapter/10.1007/978-3-540-70592-5_8)," ECOOP ’08: 22nd European Conference on Object-Oriented Programming, July, 2008. This work addressed the debate on separating crosscutting concerns while preserving modular reasoning.
-  
-- Robert Dyer, Hoan Anh Nguyen, Hridesh Rajan, and Tien N. Nguyen, "[Boa: A Language and Infrastructure for Analyzing Ultra-Large-Scale Software Repositories](https://ieeexplore.ieee.org/document/6606588)," 35th International Conference on Software Engineering, May, 2013. Boa was the first cyberinfrastructure for big data-driven discovery in software engineering.   
-
-- Md Johirul Islam, Giang Nguyen, Rangeet Pan, and Hridesh Rajan, "[A Comprehensive Study on Deep Learning Bug Characteristics](https://dl.acm.org/doi/10.1145/3338906.3338955)," ESEC/FSE’19: The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), August, 2019. This work provided the first rigorous taxonomy of defects and repairs in neural-network code.
-
-- Mohammad Wardat, Wei Le, and Hridesh Rajan, "[DeepLocalize: Fault Localization for Deep Neural Networks](https://dl.acm.org/doi/10.1109/ICSE43902.2021.00034)," ICSE’21: The 43nd International Conference on Software Engineering, May, 2021. DeepLocalize was the first approach for bug localization in deep learning models.
-
-- Rangeet Pan and Hridesh Rajan, "[On Decomposing a Deep Neural Network into Modules](https://dl.acm.org/doi/10.1145/3368089.3409668)," ESEC/FSE’2020: The 28th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, November, 2020. This was the first work on decomposition and modularity of deep neural networks, and started the sub-field.
-
-
-### Selected Awards and Honors
-
-- 2009 Early CAREER Award, US National Science Foundation
-- 2017 ACM Distinguished Member
-- 2018 Fulbright US-UK Scholar
-- 2020 AAAS Fellow 
-
-[More...](/about/)
-
-### Selected Service Roles
-
-- Commissioner, [ABET’s Computing Accreditation Commission](https://www.abet.org/about-abet/governance/accreditation-commissions/)
-- [American Society For Engineering Education (ASEE) Engineering Deans Institute (EDI) 2027](American Society For Engineering Education (ASEE) Engineering Deans Institute (EDI) 2027) Co-chair, Planning Committee
-- [American Society For Engineering Education (ASEE) Engineering Deans Institute (EDI) 2026](American Society For Engineering Education (ASEE) Engineering Deans Institute (EDI) 2026) Planning Committee
-- General Chair, [SPLASH 2021, the ACM SIGPLAN conference on Systems, Programming, Languages, and Applications: Software for Humanity](https://2021.splashcon.org/)
-- General Chair, [SPLASH 2020, the ACM SIGPLAN conference on Systems, Programming, Languages, and Applications: Software for Humanity](https://2020.splashcon.org/)
-- Program Committee, [48th International Conference on Software Engineering (ICSE 2026)](https://conf.researchr.org/track/icse-2026/icse-2026-research-track)
-- [Other service roles](/service/) 
-
-### Contact me
-
-You can contact me using either of the e-mail addresses below. 
-When writing, please substitute firstname with hridesh.
-
-* Work: [h followed by lastname@tulane.edu](mailto:h followed by lastname@tulane.edu)
-* Personal: [firstname@gmail.com](mailto:firstname@gmail.com)
-
+<section class="section">
+  <div class="split">
+    <div>
+      <h2>Honors</h2>
+      <ul class="pill-row">
+        <li>AAAS Fellow</li>
+        <li>US–UK Fulbright Scholar</li>
+        <li>ACM Distinguished Member</li>
+        <li>NSF CAREER Award</li>
+      </ul>
+      <p><a href="{{ site.baseurl }}/about/#major-awards-and-honors">See all awards and honors &#8594;</a></p>
+    </div>
+    <div>
+      <h2>Selected service</h2>
+      <ul class="tight-list">
+        <li>Commissioner, <a href="https://www.abet.org/about-abet/governance/accreditation-commissions/">ABET Computing Accreditation Commission</a></li>
+        <li>Co-chair, ASEE Engineering Deans Institute (EDI) 2027 Planning Committee</li>
+        <li>General Chair, <a href="https://2021.splashcon.org/">SPLASH 2021</a> &amp; <a href="https://2020.splashcon.org/">2020</a></li>
+        <li>Advisory Board, <a href="https://dl.acm.org/journal/pacmpl/editorial-board">PACMPL</a></li>
+      </ul>
+      <p><a href="{{ site.baseurl }}/service/">All service roles &#8594;</a></p>
+    </div>
+  </div>
+</section>

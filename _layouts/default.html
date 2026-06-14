@@ -1,53 +1,73 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
-
     {% include meta.html %}
 
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+    {% seo %}
 
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.baseurl }}/feed.xml" />
   </head>
 
   <body>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+    <a href="#main" class="skip-link">Skip to content</a>
 
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
-          </div>
+    <header class="site-nav">
+      <div class="container nav-inner">
+        <a href="{{ site.baseurl }}/" class="brand">
+          <img class="brand-avatar" src="{{ site.avatar }}" alt="Portrait of Hridesh Rajan" />
+          <span class="brand-text">
+            <span class="brand-name">Hridesh Rajan</span>
+            <span class="brand-sub">Dean, Tulane SSE</span>
+          </span>
+        </a>
 
-          <nav>
-            <a href="{{ site.baseurl }}/">About</a>
-            <a href="{{ site.baseurl }}/research">Research</a>
-            <a href="{{ site.baseurl }}/students/">Students</a>
-            <a href="https://lab-design.github.io/">Lab</a>
-            <a href="{{ site.baseurl }}/teaching">Teaching</a>
-            <a href="{{ site.baseurl }}/service/">Service</a>
-            <a href="{{ site.baseurl }}/news/">News</a>
-          </nav>
-        </header>
+        <input type="checkbox" id="nav-toggle" class="nav-toggle" />
+        <label for="nav-toggle" class="nav-burger" aria-label="Toggle navigation">
+          <span></span><span></span><span></span>
+        </label>
+
+        <nav class="nav-links" aria-label="Primary">
+          <a href="{{ site.baseurl }}/"{% if page.url == '/' %} aria-current="page"{% endif %}>About</a>
+          <a href="{{ site.baseurl }}/research/"{% if page.url contains '/research' %} aria-current="page"{% endif %}>Research</a>
+          <a href="{{ site.baseurl }}/publications/"{% if page.url contains '/publications' %} aria-current="page"{% endif %}>Publications</a>
+          <a href="{{ site.baseurl }}/students/"{% if page.url contains '/students' %} aria-current="page"{% endif %}>Students</a>
+          <a href="{{ site.baseurl }}/teaching/"{% if page.url contains '/teaching' %} aria-current="page"{% endif %}>Teaching</a>
+          <a href="{{ site.baseurl }}/talks/"{% if page.url contains '/talks' %} aria-current="page"{% endif %}>Talks</a>
+          <a href="{{ site.baseurl }}/service/"{% if page.url contains '/service' %} aria-current="page"{% endif %}>Service</a>
+          <a href="{{ site.baseurl }}/news/"{% if page.url contains '/news' or page.layout == 'post' %} aria-current="page"{% endif %}>News</a>
+          <a class="nav-ext" href="https://lab-design.github.io/" target="_blank" rel="noopener">Lab &#8599;</a>
+          <a class="nav-cv" href="{{ site.baseurl }}/cv/"{% if page.url contains '/cv' %} aria-current="page"{% endif %}>CV</a>
+        </nav>
       </div>
-    </div>
+    </header>
 
-    <div id="main" role="main" class="container">
+    <main id="main" role="main">
       {{ content }}
-    </div>
+    </main>
 
     <div class="wrapper-footer">
       <div class="container">
-        <footer class="footer">
-          {% include svg-icons.html %}
-        </footer>
+        <div class="site-footer">
+          <div class="footer-about">
+            <div class="footer-name">Hridesh Rajan</div>
+            <p>Dean, School of Science and Engineering, Tulane University. Building an interdisciplinary-first, translational school focused on Better Lives.</p>
+          </div>
+          <div class="footer-links-col">
+            <h5>Connect</h5>
+            <div class="footer-social">
+              {% include svg-icons.html %}
+            </div>
+          </div>
+        </div>
+        <div class="footer-bottom">
+          <span>&copy; {{ site.time | date: '%Y' }} Hridesh Rajan.</span>
+          <span><a href="https://sse.tulane.edu">Tulane School of Science &amp; Engineering</a></span>
+        </div>
       </div>
     </div>
 

@@ -1,27 +1,69 @@
-
 //
-// VARIABLES
+// VARIABLES — Tulane-inspired design system
+// Palette sourced from Tulane Brand (communications.tulane.edu/brand/color)
 //
 
-// Colors
-$blue: #4183C4;
+// ----- Brand palette -----
+$tulane-green:        #285C4D; // primary
+$tulane-green-dark:   #1f4a3e;
+$tulane-green-darker: #163328;
+$tulane-blue:         #71C5E8; // sky blue
+$avenue-blue:         #00558C; // deep blue
+$storm:               #00778B; // teal
+$mardi-gras:          #78BE20; // lime
+$olive:               #658D1B;
+$gold:                #CC9900;
+$delta-blue:          #B9D9EB;
+$pale-green:          #D0DEBB;
+$spanish-moss:        #54585A;
+$warm-gray:           #796E65;
+$accent-red:          #CC0033;
 
-// Grays
+// ----- Semantic tokens -----
+$brand:          $tulane-green;
+$brand-dark:     $tulane-green-dark;
+$on-brand:       #ffffff;
+$link:           $avenue-blue;
+$link-hover:     $tulane-green;
+$text:           #1b2420; // near-black, faint green undertone
+$text-muted:     $spanish-moss;
+$bg:             #ffffff;
+$bg-soft:        #f5f8f4; // light green-tinted surface
+$bg-soft-2:      #eaf1ea;
+$bg-tint-blue:   #eef6fb;
+$border:         #e2e8e1;
+$border-strong:  #cdd6cc;
+
+// ----- Legacy aliases (kept so old partials/markup never break) -----
+$blue: $link;
 $black: #000;
-$darkerGray: #222;
+$darkerGray: #1b2420;
 $darkGray: #333;
 $gray: #666;
 $lightGray: #eee;
 $white: #fff;
 
-// Font stacks
-$helvetica: Helvetica, Arial, sans-serif;
-$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$georgia: Georgia, serif;
+// ----- Type -----
+$serif: 'Fraunces', Georgia, 'Times New Roman', serif;
+$sans:  'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+$mono:  'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+// legacy aliases
+$helvetica: $sans;
+$helveticaNeue: $sans;
+$georgia: $serif;
 
-// Mobile breakpoints
+// ----- Layout -----
+$maxw:   1120px;  // page container
+$readw:  760px;   // comfortable reading column
+$radius: 14px;
+$radius-sm: 9px;
+$shadow:    0 1px 2px rgba(20,40,30,.05), 0 10px 30px rgba(20,40,30,.07);
+$shadow-sm: 0 1px 2px rgba(20,40,30,.06), 0 4px 14px rgba(20,40,30,.05);
+
+// ----- Breakpoints -----
 @mixin mobile {
-  @media screen and (max-width: 640px) {
-    @content;
-  }
+  @media screen and (max-width: 640px) { @content; }
+}
+@mixin tablet {
+  @media screen and (max-width: 920px) { @content; }
 }

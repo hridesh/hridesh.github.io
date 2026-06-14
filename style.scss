@@ -4,286 +4,531 @@
 //
 // IMPORTS
 //
-
 @import "reset";
 @import "variables";
-// Syntax highlighting @import is at the bottom of this file
+// Syntax highlighting + social icons are imported at the bottom.
 
-/**************/
-/* BASE RULES */
-/**************/
+/* ============================================================
+   BASE
+   ============================================================ */
+* { box-sizing: border-box; }
 
-html {
-  font-size: 100%;
-}
+html { font-size: 100%; scroll-behavior: smooth; }
 
 body {
-	background: $white;
-  font: 18px/1.4 $helvetica;
-  color: $darkGray;
-}
-
-.container {
-  margin: 0 auto;
-  max-width: 740px;
-  padding: 0 10px;
-  width: 100%;
+  background: $bg;
+  font-family: $sans;
+  font-size: 18px;
+  line-height: 1.65;
+  color: $text;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
-  color: $darkerGray;
-  font-weight: bold;
+  font-family: $serif;
+  color: $text;
+  font-weight: 600;
+  line-height: 1.2;
+  margin: 0 0 .5em;
+  letter-spacing: -0.01em;
+}
+h1 { font-size: 2.4rem; }
+h2 { font-size: 1.8rem; }
+h3 { font-size: 1.3rem; }
+h4 { font-size: 1.05rem; font-family: $sans; font-weight: 700; color: $text-muted; text-transform: uppercase; letter-spacing: .06em; }
 
-  line-height: 1.7;
-  margin: 1em 0 15px;
-  padding: 0;
-
-  @include mobile {
-    line-height: 1.4;
-  }
+@include mobile {
+  body { font-size: 17px; }
+  h1 { font-size: 1.95rem; }
+  h2 { font-size: 1.5rem; }
 }
 
-h1 {
-  font-size: 30px;
-  a {
-    color: inherit;
-  }
-}
-
-h2 {
-  font-size: 24px;
-}
-
-h3 {
-  font-size: 20px;
-}
-
-h4 {
-  font-size: 18px;
-  color: $gray;
-}
-
-p {
-  margin: 15px 0;
-}
+p { margin: 0 0 1.1em; }
 
 a {
-  color: $blue;
+  color: $link;
   text-decoration: none;
-	cursor: pointer;
-  &:hover, &:active {
-    color: $blue;
-  }
+  border-bottom: 1px solid rgba($link, .28);
+  transition: color .15s ease, border-color .15s ease, background-color .15s ease;
+  &:hover { color: $link-hover; border-color: rgba($link-hover, .55); }
 }
 
-ul, ol {
-  margin: 15px 0;
-  padding-left: 30px;
+strong, b { font-weight: 700; }
+em, i { font-style: italic; }
+
+ul, ol { margin: 0 0 1.1em; padding-left: 1.3em; }
+li { margin: .3em 0; }
+
+img { max-width: 100%; height: auto; }
+.gmnoprint img { max-width: none; }
+
+hr {
+  border: 0;
+  border-top: 1px solid $border;
+  margin: 2.5rem 0;
 }
 
-ul {
-  list-style-type: disc;
-}
+::selection { background: rgba($tulane-blue, .35); color: $text; }
 
-ol {
-  list-style-type: decimal;
-}
+code, pre { font-family: $mono; font-size: .9em; }
+code { background: $bg-soft-2; padding: .1em .4em; border-radius: 5px; }
+pre { background: $bg-soft-2; padding: 1rem 1.2rem; border-radius: $radius-sm; overflow-x: auto; }
+pre code { background: none; padding: 0; }
 
-ol ul, ul ol, ul ul, ol ol {
-  margin: 0;
-}
-
-ul ul, ol ul {
-  list-style-type: circle;
-}
-
-em, i {
+blockquote {
+  margin: 1.6em 0;
+  padding: .4em 1.2em;
+  border-left: 4px solid $tulane-blue;
+  color: $text-muted;
   font-style: italic;
 }
 
-strong, b {
-  font-weight: bold;
+/* ============================================================
+   LAYOUT
+   ============================================================ */
+.container {
+  max-width: $maxw;
+  margin: 0 auto;
+  padding: 0 24px;
+  width: 100%;
+  @include mobile { padding: 0 18px; }
 }
 
-img {
-  max-width: 100%;
+#main { min-height: 50vh; }
+
+// Reading column for long-form page/post content
+.entry {
+  font-size: 1.05rem;
+  > *:first-child { margin-top: 0; }
 }
 
-// Fixes images in popup boxes from Google Translate
-.gmnoprint img {
-  max-width: none;
+/* ============================================================
+   NAVBAR
+   ============================================================ */
+.site-nav {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: saturate(140%) blur(10px);
+  border-bottom: 1px solid $border;
 }
-
-.date {
-  font-style: italic;
-  color: $gray;
+.nav-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  min-height: 68px;
 }
-
-// Specify the color of the selection
-::-moz-selection {
-  color: $black;
-  background: $lightGray;
+.brand {
+  display: flex;
+  align-items: center;
+  gap: .65rem;
+  border: 0;
+  flex-shrink: 0;
+  &:hover { color: inherit; }
 }
-::selection {
-  color: $black;
-  background: $lightGray;
+.brand-avatar {
+  width: 40px; height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid $pale-green;
 }
-
-// Nicolas Gallagher's micro clearfix hack
-// http://nicolasgallagher.com/micro-clearfix-hack/
-.clearfix:before,
-.clearfix:after {
-    content: " ";
-    display: table;
+.brand-text { display: flex; flex-direction: column; line-height: 1.1; }
+.brand-name {
+  font-family: $serif;
+  font-weight: 600;
+  font-size: 1.12rem;
+  color: $text;
 }
-
-.clearfix:after {
-    clear: both;
+.brand-sub {
+  font-size: .72rem;
+  letter-spacing: .04em;
+  text-transform: uppercase;
+  color: $brand;
+  font-weight: 600;
 }
-
-/*********************/
-/* LAYOUT / SECTIONS */
-/*********************/
-
-//
-// .masthead
-//
-
-.wrapper-masthead {
-  margin-bottom: 50px;
-}
-
-.masthead {
-  padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
-
-  @include mobile {
-    text-align: center;
-  }
-}
-
-.site-avatar {
-  float: left;
-  width: 70px;
-  height: 70px;
-  margin-right: 15px;
-
-  @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
-  }
-
-  img {
-    border-radius: 5px;
-  }
-}
-
-.site-info {
-  float: left;
-
-  @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
-  }
-}
-
-.site-name {
-  margin: 0;
-  color: $darkGray;
-  cursor: pointer;
-  font-family: $helveticaNeue;
-  font-weight: 300;
-  font-size: 28px;
-  letter-spacing: 1px;
-}
-
-.site-description {
-  margin: -5px 0 0 0;
-  color: $gray;
-  font-size: 16px;
-
-  @include mobile {
-    margin: 3px 0;
-  }
-}
-
-nav {
-  float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
-  font-size: 18px;
-
-  @include mobile {
-    float: none;
-    margin-top: 9px;
-    display: block;
-    font-size: 16px;
-  }
-
+.nav-links {
+  display: flex;
+  align-items: center;
+  gap: .15rem;
+  flex-wrap: wrap;
+  justify-content: flex-end;
   a {
-    margin-left: 20px;
-    color: $darkGray;
-    text-align: right;
-    font-weight: 300;
-    letter-spacing: 1px;
-
-    @include mobile {
-      margin: 0 10px;
-      color: $blue;
-    }
+    border: 0;
+    color: $text;
+    font-size: .92rem;
+    font-weight: 500;
+    padding: .45rem .6rem;
+    border-radius: 8px;
+    white-space: nowrap;
+    &:hover { color: $brand; background: $bg-soft; }
+    &[aria-current="page"] { color: $brand; background: $bg-soft-2; }
+  }
+  .nav-ext { color: $text-muted; }
+  .nav-cv {
+    color: $brand;
+    border: 1px solid $border-strong;
+    margin-left: .35rem;
+    &:hover { background: $brand; color: #fff; border-color: $brand; }
   }
 }
 
-//
-// .main
-//
-
-.posts > .post {
-  padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+// Mobile hamburger (CSS-only via checkbox)
+.nav-toggle { display: none; }
+.nav-burger {
+  display: none;
+  flex-direction: column;
+  justify-content: center;
+  gap: 5px;
+  width: 44px; height: 44px;
+  cursor: pointer;
+  border-radius: 9px;
+  span { display: block; height: 2px; width: 22px; background: $text; border-radius: 2px; transition: .2s; }
 }
 
-.posts > .post:last-child {
-  padding-bottom: 1em;
-  border-bottom: none;
-}
-
-.post {
-  blockquote {
-    margin: 1.8em .8em;
-    border-left: 2px solid $gray;
-    padding: 0.1em 1em;
-    color: $gray;
-    font-size: 22px;
-    font-style: italic;
+@include tablet {
+  .nav-burger { display: flex; }
+  .nav-links {
+    display: none;
+    position: absolute;
+    left: 0; right: 0;
+    top: 100%;
+    flex-direction: column;
+    align-items: stretch;
+    background: #fff;
+    border-bottom: 1px solid $border;
+    padding: .5rem 24px 1rem;
+    box-shadow: $shadow;
+    a { padding: .7rem .4rem; font-size: 1rem; border-radius: 8px; }
+    .nav-cv { margin-left: 0; text-align: center; margin-top: .4rem; }
   }
-
-  .comments {
-    margin-top: 10px;
-  }
-
-  .read-more {
-    text-transform: uppercase;
-    font-size: 15px;
-  }
+  .nav-toggle:checked ~ .nav-links { display: flex; }
+  .site-nav .container { position: relative; }
 }
 
-.wrapper-footer {
-  margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+/* ============================================================
+   BUTTONS
+   ============================================================ */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: .5rem;
+  font-family: $sans;
+  font-weight: 600;
+  font-size: .98rem;
+  padding: .7rem 1.25rem;
+  border-radius: 999px;
+  border: 1px solid transparent;
+  cursor: pointer;
+  transition: .15s ease;
+}
+.btn-primary {
+  background: $brand;
+  color: #fff;
+  border-color: $brand;
+  &:hover { background: $brand-dark; color: #fff; border-color: $brand-dark; }
+}
+.btn-ghost {
+  background: transparent;
+  color: $brand;
+  border-color: $border-strong;
+  &:hover { background: $bg-soft; color: $brand-dark; border-color: $brand; }
 }
 
-footer {
-  padding: 20px 0;
+/* ============================================================
+   HERO (homepage)
+   ============================================================ */
+.hero {
+  background:
+    radial-gradient(1100px 460px at 88% -8%, rgba($tulane-blue,.20), transparent 60%),
+    linear-gradient(180deg, $bg-soft 0%, #fff 100%);
+  border-bottom: 1px solid $border;
+}
+.hero-inner {
+  display: grid;
+  grid-template-columns: 1.5fr 1fr;
+  gap: 3rem;
+  align-items: center;
+  padding: 4.2rem 0 3.6rem;
+  @include tablet { grid-template-columns: 1fr; gap: 2rem; padding: 2.8rem 0; }
+}
+.hero-eyebrow {
+  display: inline-block;
+  font-size: .8rem;
+  font-weight: 700;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: $brand;
+  background: rgba($mardi-gras, .14);
+  padding: .35rem .75rem;
+  border-radius: 999px;
+  margin-bottom: 1.1rem;
+}
+.hero h1 {
+  font-size: 3rem;
+  line-height: 1.08;
+  margin-bottom: .5rem;
+  @include mobile { font-size: 2.2rem; }
+}
+.hero-role {
+  font-size: 1.2rem;
+  color: $brand;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+.hero-lede {
+  font-size: 1.15rem;
+  color: $text-muted;
+  max-width: 36em;
+  margin-bottom: 1.6rem;
+}
+.hero-actions { display: flex; flex-wrap: wrap; gap: .7rem; }
+.hero-portrait {
+  justify-self: center;
+  img {
+    width: 100%;
+    max-width: 320px;
+    border-radius: $radius;
+    box-shadow: $shadow;
+    border: 6px solid #fff;
+  }
+  @include tablet { order: -1; img { max-width: 220px; } }
+}
+
+/* ============================================================
+   SECTIONS & CARDS
+   ============================================================ */
+.section { padding: 3rem 0; }
+.section + .section { border-top: 1px solid $border; }
+.section-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 1.6rem;
+  flex-wrap: wrap;
+}
+.section-head h2 { margin: 0; }
+.section-head .more { font-size: .95rem; font-weight: 600; }
+.lead { font-size: 1.15rem; color: $text-muted; max-width: 46em; }
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.2rem;
+  @include tablet { grid-template-columns: repeat(2, 1fr); }
+  @include mobile { grid-template-columns: 1fr; }
+}
+.card {
+  background: #fff;
+  border: 1px solid $border;
+  border-radius: $radius;
+  padding: 1.4rem;
+  box-shadow: $shadow-sm;
+  transition: transform .15s ease, box-shadow .15s ease, border-color .15s ease;
+  h3 { margin-top: 0; }
+  p { color: $text-muted; margin-bottom: 0; font-size: .98rem; }
+}
+a.card { border-bottom: 1px solid $border; color: inherit; display: block; }
+a.card:hover { transform: translateY(-3px); box-shadow: $shadow; border-color: $border-strong; }
+.card-tag {
+  display: inline-block;
+  font-size: .72rem;
+  font-weight: 700;
+  letter-spacing: .05em;
+  text-transform: uppercase;
+  color: $storm;
+  margin-bottom: .5rem;
+}
+
+// Stat / highlight strip
+.facts {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+  @include tablet { grid-template-columns: repeat(2, 1fr); }
+}
+.fact {
   text-align: center;
+  padding: 1.2rem .8rem;
+  background: $bg-soft;
+  border-radius: $radius;
+  border: 1px solid $border;
+}
+.fact-num { font-family: $serif; font-size: 2rem; font-weight: 600; color: $brand; display: block; line-height: 1; }
+.fact-label { font-size: .85rem; color: $text-muted; margin-top: .4rem; display: block; }
+
+// Two-column split (intro + contact, etc.)
+.split {
+  display: grid;
+  grid-template-columns: 1.7fr 1fr;
+  gap: 2.6rem;
+  align-items: start;
+  @include tablet { grid-template-columns: 1fr; gap: 1.6rem; }
+}
+.contact-card {
+  background: $bg-soft;
+  border: 1px solid $border;
+  border-radius: $radius;
+  padding: 1.5rem 1.6rem;
+  font-size: .97rem;
+  h3 { margin-top: 0; }
+  .addr { color: $text-muted; line-height: 1.55; margin-bottom: 1rem; }
+}
+.pill-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .6rem;
+  list-style: none;
+  padding: 0;
+  margin: 0 0 1rem;
+  li {
+    background: $bg-soft-2;
+    border: 1px solid $border;
+    border-radius: 999px;
+    padding: .5rem 1rem;
+    font-size: .9rem;
+    font-weight: 600;
+    color: $brand;
+    margin: 0;
+  }
+}
+.tight-list { margin: 0; padding-left: 1.2em; li { margin: .45em 0; } }
+
+/* ============================================================
+   PUBLICATION / LIST STYLING
+   ============================================================ */
+.pub-list { list-style: none; padding: 0; }
+.pub-list > li {
+  padding: 1rem 0;
+  border-bottom: 1px solid $border;
+  font-size: 1rem;
+}
+.pub-list .venue { color: $text-muted; font-size: .92rem; }
+.pub-year {
+  font-family: $serif;
+  color: $brand;
+  font-weight: 600;
 }
 
-// Settled on moving the import of syntax highlighting to the bottom of the CSS
-// ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
+/* ============================================================
+   PAGE HEADER (inner pages)
+   ============================================================ */
+.page-head {
+  background: linear-gradient(180deg, $bg-soft 0%, #fff 100%);
+  border-bottom: 1px solid $border;
+  padding: 2.6rem 0 2rem;
+  margin-bottom: 2.2rem;
+  h1 { margin: 0; }
+  .page-sub { color: $text-muted; font-size: 1.1rem; margin: .5rem 0 0; max-width: 46em; }
+}
+// Constrain long-form reading content for legibility
+.page .entry, .post .entry { max-width: $readw; }
+
+/* ============================================================
+   POSTS / NEWS
+   ============================================================ */
+.post-list { display: grid; gap: 1.1rem; }
+.post-card {
+  background: #fff;
+  border: 1px solid $border;
+  border-radius: $radius;
+  padding: 1.4rem 1.6rem;
+  box-shadow: $shadow-sm;
+  transition: transform .15s ease, box-shadow .15s ease;
+  &:hover { transform: translateY(-2px); box-shadow: $shadow; }
+  h2, h1 { font-size: 1.3rem; margin: 0 0 .35rem; }
+  h2 a, h1 a { border: 0; color: $text; &:hover { color: $brand; } }
+  .entry { color: $text-muted; font-size: .98rem; }
+  .read-more {
+    display: inline-block;
+    margin-top: .6rem;
+    font-size: .8rem;
+    font-weight: 700;
+    letter-spacing: .04em;
+    text-transform: uppercase;
+    border: 0;
+  }
+}
+.post-meta, .date { color: $text-muted; font-size: .85rem; font-style: normal; }
+.post-meta { margin-bottom: .4rem; text-transform: uppercase; letter-spacing: .04em; font-weight: 600; }
+
+.pagination {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 2.5rem 0 1rem;
+  font-size: .95rem;
+  .previous, .next { font-weight: 600; }
+  span.previous, span.next { color: $border-strong; }
+  .page_number { color: $text-muted; }
+}
+
+.callout {
+  background: $bg-tint-blue;
+  border: 1px solid $delta-blue;
+  border-radius: $radius;
+  padding: 1.1rem 1.3rem;
+  margin: 1.5rem 0;
+  font-size: 1rem;
+}
+
+/* ============================================================
+   FOOTER
+   ============================================================ */
+.wrapper-footer {
+  margin-top: 4rem;
+  background: $tulane-green-darker;
+  color: rgba(255,255,255,.85);
+}
+.site-footer {
+  padding: 2.6rem 0;
+  display: grid;
+  grid-template-columns: 1.4fr 1fr;
+  gap: 2rem;
+  align-items: start;
+  @include mobile { grid-template-columns: 1fr; gap: 1.4rem; }
+}
+.footer-about .footer-name { font-family: $serif; font-size: 1.2rem; color: #fff; margin-bottom: .3rem; }
+.footer-about p { color: rgba(255,255,255,.7); font-size: .95rem; margin: 0; }
+.footer-links-col { justify-self: end; @include mobile { justify-self: start; } }
+.footer-links-col h5 { color: rgba(255,255,255,.6); text-transform: uppercase; letter-spacing: .06em; font-size: .75rem; font-family: $sans; margin: 0 0 .6rem; }
+.footer-social { display: flex; gap: .4rem; flex-wrap: wrap; }
+.footer-social a { border: 0; }
+.footer-bottom {
+  border-top: 1px solid rgba(255,255,255,.12);
+  padding: 1.2rem 0;
+  font-size: .85rem;
+  color: rgba(255,255,255,.6);
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: .5rem;
+  a { color: rgba(255,255,255,.85); border: 0; &:hover { color: #fff; } }
+}
+
+// Footer social icons: render the dark monochrome SVGs as white on the green footer
+.footer-social .svg-icon {
+  width: 30px; height: 30px;
+  filter: brightness(0) invert(1);
+  opacity: .82;
+  transition: opacity .15s ease, transform .15s ease;
+}
+.footer-social a:hover .svg-icon { opacity: 1; transform: translateY(-2px); }
+
+/* ============================================================
+   UTILITIES
+   ============================================================ */
+.text-center { text-align: center; }
+.muted { color: $text-muted; }
+.float-right { float: right; margin: 0 0 1rem 1.5rem; }
+.skip-link {
+  position: absolute; left: -999px;
+  &:focus { left: 1rem; top: .6rem; background: #fff; padding: .5rem .8rem; border-radius: 8px; z-index: 100; }
+}
+
+// Settled on moving syntax highlighting + icons to the bottom
 @import "highlights";
 @import "svg-icons";

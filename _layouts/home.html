@@ -1,0 +1,24 @@
+---
+layout: default
+---
+<section class="hero">
+  <div class="container hero-inner">
+    <div class="hero-copy">
+      {% if page.eyebrow %}<span class="hero-eyebrow">{{ page.eyebrow }}</span>{% endif %}
+      <h1>{{ page.headline | default: site.name }}</h1>
+      {% if page.role %}<div class="hero-role">{{ page.role }}</div>{% endif %}
+      {% if page.lede %}<p class="hero-lede">{{ page.lede }}</p>{% endif %}
+      <div class="hero-actions">
+        <a class="btn btn-primary" href="{{ site.baseurl }}/research/">Explore research</a>
+        <a class="btn btn-ghost" href="{{ site.baseurl }}/prospective/">For prospective students</a>
+      </div>
+    </div>
+    <div class="hero-portrait">
+      <img src="{{ site.avatar }}" alt="Portrait of Hridesh Rajan" />
+    </div>
+  </div>
+</section>
+
+<div class="container">
+  {{ content }}
+</div>
