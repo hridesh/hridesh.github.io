@@ -1,214 +1,97 @@
 ---
-layout: page
+layout: page-wide
 title: Training, Teaching, and Curriculum Development
+subtitle: New degree programs, a published pedagogy for programming languages, and two decades of teaching.
 permalink: /teaching/
 ---
 
-### Key Accomplishments in Training, Teaching, and Curriculum Development
+<section class="section">
+  <div class="section-head"><h2>Highlights</h2></div>
+  <div class="cards">
+    <div class="card"><span class="card-tag">Programs</span><h3>Five new degree programs</h3><p>Led the development and approval of five new degrees at Iowa State: an M.S. in Artificial Intelligence, a B.A. in Computer Science, and Data Science B.S., Minor, and Certificate programs. Also co-designed four new core courses.</p></div>
+    <a class="card" href="https://mitpress.mit.edu/9780262045452/an-experiential-introduction-to-principles-of-programming-languages/"><span class="card-tag">Textbook</span><h3>A new pedagogy for PL</h3><p>Authored <em>An Experiential Introduction to Principles of Programming Languages</em> (MIT Press, 2022). The approach led to a 20% improvement in the student success rate.</p></a>
+    <a class="card" href="{{ site.baseurl }}/students/"><span class="card-tag">Mentoring</span><h3>Research-based training</h3><p>Trained 31 graduate students and postdoctoral fellows and more than 45 undergraduates between 2005 and the present.</p></a>
+  </div>
+</section>
 
-- Led development, and approval of five new degree programs at Iowa State University: MS in Artificial Intelligence, B.A. in Computer Science, 
-  a Data Science (DS) Minor, a DS Certificate, and a DS B.S. Degree. 
-  Responsibilities included: developing consensus; organizing
-  obtaining and acting on university-wide feedback; developing the 
-  program proposals with early and frequent feedback; presenting the 
-  program to university bodies; and helping negotiate program governance. 
-  Also, co-designed and co-developed four new core courses for these programs. 
+<section class="section">
+  <div class="section-head"><h2>Programs developed at Iowa State</h2></div>
+  <div class="cards">
+    <div class="card"><span class="card-tag">Graduate</span><h3>M.S. in Artificial Intelligence</h3><p>Led the development with Prof. Jin Tian. A comprehensive program spanning AI, machine learning, and natural language processing, emphasizing both theoretical foundations and practical skills.</p></div>
+    <div class="card"><span class="card-tag">Undergraduate</span><h3>B.A. in Computer Science</h3><p>Spearheaded with Profs. Soma Chaudhuri and Jack Lutz; approved by the Iowa Board of Regents and launched in spring 2023. A flexible 32-credit curriculum that supports double majors and broadens participation.</p></div>
+    <div class="card"><span class="card-tag">Data Science</span><h3>Data Science B.S., Minor &amp; Certificate</h3><p>Co-led with Associate Deans Arne Hallam and Sriram Sundararajan; chaired two university-level committees that designed the B.S. degree and the Minor and Certificate programs.</p></div>
+  </div>
+  <div class="prose" markdown="1">
 
-[![Cover of An Experiential Introduction to Principles of Programming Languages](images/eipopl.jpeg){: style="float: right" width="250"}](https://mitpress.mit.edu/9780262045452/an-experiential-introduction-to-principles-of-programming-languages/)
+The Data Science programs include:
 
-- Developed and revised a new pedagogy and a textbook draft 
-  to teach programming languages and functional programming to students who start in Computer Science programs 
-  that teach an imperative language such as Java
-  that led to 20% improvement in the student success rate. The textbook appeared as:
-  Hridesh Rajan, [*An Experiential Introduction to Principles of Programming Languages*](https://mitpress.mit.edu/9780262045452/an-experiential-introduction-to-principles-of-programming-languages/), 
-  MIT Press, Cambridge, MA, pp. 304, May 2022.
+- **Data Science B.S. degree**: a comprehensive undergraduate program in data science.
+- **Data Science minor**: for undergraduates in any discipline; nine credit hours of core courses and six of electives.
+- **Data Science certificate**: for students who hold or are pursuing a bachelor's degree; nine core credit hours, nine elective credit hours, and a three-credit capstone with hands-on, multi-disciplinary team experience.
 
-- Contributed (or currently contributing) to the [research-based training](/students/) 
-  of a broad body of 31 graduate and postdoc students and 
-  over 45 undergraduate students between 2005-present.
+I also led the creation of four new courses for the data science curriculum:
 
+- **DS 201: Introduction to Data Science** (with Dr. Adisak Sukul): data science concepts, domain case studies, analysis pipelines, computing concepts, hands-on experience, and ethics.
+- **DS 202: Data Acquisition and Exploratory Data Analysis** (with Dr. Heike Hofmann): data acquisition, displays, numerical and visual summaries, pipelines, visualization, and reproducibility.
+- **DS 301: Applied Data Modeling and Predictive Analysis** (with Drs. Kris De Brabanter and Jin Tian): predictive analysis, machine learning, data modeling, assessment, and communication, with team projects.
+- **DS 401: Data Science Capstone**: individual and team projects to plan, design, and implement significant multi-disciplinary work, with oral and written reports.
 
-### Curriculum and Program Development at Iowa State University
+  </div>
+</section>
 
-- **MS in AI Program**: Along with Prof. Jin Tian, I led the development of the MS in AI program at ISU. This program is designed to provide students with a comprehensive understanding of artificial intelligence concepts, methodologies, and applications. It includes courses covering artificial intelligence, machine learning, natural language processing, and more. The program emphasizes both theoretical foundations and practical skills, preparing students for a wide range of careers in the rapidly growing field of AI.
+<section class="section">
+  <div class="section-head"><h2>Summer school</h2></div>
+  <div class="prose" markdown="1">
 
-- **BA in Computer Science Program**: Spearheaded by Professor Soma Chaudhuri, Professor Jack Lutz and me, ISU's BA in Computer Science program was approved by the Iowa Board of Regents and began in spring 2023. This program aims to lead to more diverse student enrollment by accommodating those who wish to major in computer science but desire a wider variety of courses. It offers a rigorous yet flexible curriculum with 32 computer science credits, allowing students to double major and enjoy more career choices. The BA program maintains a close relationship with the existing BS program, offering students an opportunity to study computer science as part of a broader liberal education. This effort aligns with the increasing demand for computing professionals and ISU's strong position to respond to commercial and academic needs for interdisciplinary computer scientists.
+**Annual Midwest Big Data Summer School (2016–2019).** I founded this one-week intensive in 2016 to introduce early-career researchers to data science, with full-day lectures spanning data acquisition, preprocessing, exploratory and descriptive analysis, tools and techniques, visualization and communication, ethics, reproducibility, and domain context. The first edition drew 144 participants from universities across the Midwest and beyond, along with participants from organizations such as American Express, Ames Lab, and the Danforth Plant Science Center. The 2019 edition was attended by more than 175 participants, and in total over 600 attendees benefited between 2016 and 2019. ([Website](https://tads.research.iastate.edu/midwest-big-data-summer-school))
 
-- **Data Science Program**: In collaboration with Associate Deans Dr. Arne Hallam and Dr. Sriram Sundararajan, I co-led the development of three *Data Science degrees* at ISU. I chaired two university-level committees. The first committee designed a Data Science B.S. degree, and the second committee designed Data Science Minor and Certificate programs.
-  - *Data Science B.S. degree*: A comprehensive undergraduate program in data science.
-  - *Data Science minor*: Intended for undergraduate students of any discipline at Iowa State University, this minor aims to equip them with the skills needed for data science roles. It consists of nine credit hours of data science core courses and six credit hours in data science electives.
-  - *Data Science certificate*: Designed for students who have completed a baccalaureate degree or are currently pursuing one at ISU, this certificate includes nine credit hours of data science core courses, nine credit hours of data science electives, and a three-credit data science capstone. The capstone provides hands-on experience, allowing students to apply data science concepts in a multi-disciplinary team setting.
+  </div>
+</section>
 
-These courses within the data science programs are crafted to provide students with the background necessary for jobs that require substantial data science expertise, such as establishing and operating data analysis pipelines.
+<section class="section">
+  <div class="section-head"><h2>Courses taught</h2></div>
+  <div class="prose-wide" markdown="1">
 
-- I also led the creation of four new courses for the data science curriculum:
-    - DS 201: Introduction to Data Science (with Dr. Adisak Sukul): A foundational course covering data science concepts, domain case studies, data analysis pipelines, computing concepts, hands-on experience, and ethical considerations.
-    - DS 202: Data Acquisition and Exploratory Data Analysis (with Dr. Heike Hofmann): This course focuses on data acquisition, data displays, numerical and visual summaries, pipelines for data analysis, data visualization, and reproducibility, and includes programming exercises.
-    - DS 301: Applied Data Modeling and Predictive Analysis (with Drs. Kris De Brabanter and Dr. Jin Tian): A course that explores predictive analysis elements, machine learning techniques, data modeling, assessment, communication of findings, and ethical considerations. Team projects are a vital component.
-    - DS 401: Data Science Capstone: A course where students work in individual and team settings to plan, design, and implement significant multi-disciplinary projects in data science, with oral and written reports expected.
+Descriptions of courses taught by Hridesh Rajan at Iowa State University and elsewhere. All material here is copyright &copy; Hridesh Rajan, 2005–2020. Permission is granted to make copies for educational and scholarly purposes, but not for commercial use; all copies must retain this notice.
 
-### Summer School Curriculum Development
+#### Com S 362: Object-Oriented Analysis and Design
 
- - *Annual Midwest Big Data Summer School* (2016-2019, [Website](https://tads.research.iastate.edu/midwest-big-data-summer-school).
-   This summer school, which I founded in 2016, is designed as a one-week, intensive curriculum aimed at early career researchers to introduce them to data science.
-   The school includes full-day lectures on various topics, ranging from data acquisition, data preprocessing, and exploratory data analysis to descriptive data analysis, data analysis tools and techniques, visualization and communication, ethical issues in data science, reproducibility and repeatability, and understanding domain/context.
-   The first summer school was attended by 144 participants from several universities within the Midwest, as well as a few outside of it, including but not limited to Iowa State University, Indiana University, University of Wisconsin, University of South Dakota, California State University East Bay, University of Maryland, and Oregon State University.
-   We also had participants from various organizations such as American Express, Ames Lab, Danforth Plant Science Center, and others.
-   In response to a post-event survey, 43.75% of participants reported being very satisfied, 43.75% were satisfied, 6.25% were neutral, 3.13% were dissatisfied, and 3.13% were very dissatisfied.
-   Each successive edition was attended by a similarly broad audience.
-   The 2019 edition was attended by 175+ participants. In total, 600+ attendees benefited from this initiative between 2016-2019.
+- [Spring 2006](http://www.cs.iastate.edu/~hridesh/teaching/362/06/01/), [Fall 2006](http://www.cs.iastate.edu/~hridesh/teaching/362/06/02/), [Spring 2007](http://www.cs.iastate.edu/~hridesh/teaching/362/07/01/), [Fall 2007](http://www.cs.iastate.edu/~hridesh/teaching/362/07/02/)
 
+#### Com S 342: Programming Language Design, Semantics, and Implementation (undergraduate)
 
-### Courses Taught
+- **Fall 2015**: used the book draft *Programming Languages: Design, Semantics, and Implementation* (Java as the defining language). Significant overhaul of the interpreter framework and semantics, more coverage of inductive specifications, and ideas behind a module system.
+- **Spring 2015**: used the same book draft; refined and clarified the draft and exercises.
+- **Fall 2014**: introduced the new book; added topics such as concurrency, event-based programming, and reactive programming.
+- **Fall 2011, Spring 2012, Fall 2012, Spring 2013**: used *Essentials of Programming Languages, 3rd Edition* (Friedman and Wand), with added topics such as garbage collection.
+- **Spring 2011**: used *Essentials of Programming Languages, 3rd Edition*; extended semantics to continuations, exceptions, and threads, and added a module on types and type checking.
+- **Spring 2010**: used *Essentials of Programming Languages, 3rd Edition*; similar extensions to the Spring 2011 edition.
+- **Spring 2009**: adopted the 3rd edition of the textbook, with significant updates to lectures, homework, and exams.
+- **Fall 2007**: used *Essentials of Programming Languages, 2nd Edition* (Friedman, Wand, and Haynes); adapted from a course by Prof. Gary T. Leavens.
 
-On this page, you will find description of the courses taught by Hridesh Rajan
-at Iowa State University and elsewhere. All the material made available here is
-copyright &#169; Hridesh Rajan 2005 - 2020. Permission is granted to make
-copies for educational and scholarly purposes, but copies may not be used
-directly or indirectly for commercial purposes. All copies must retain this
-copyright notice. All other rights reserved.
+#### Com S 541: Programming Language Design and Semantics (graduate)
 
-#### Software Design
+- **Fall 2015**: used the *Software Foundations* notes (Benjamin C. Pierce et al.) and *Types and Programming Languages* (Pierce); homework and exams as the primary evaluation.
+- **Fall 2010**: used the same materials; minor changes from Fall 2009.
+- **Fall 2009**: used the *Software Foundations* notes and *Types and Programming Languages*; introduced the Coq proof assistant for semantics, type systems, and proofs.
+- **Fall 2008**: used *Types and Programming Languages* (Pierce) and *The Formal Semantics of Programming Languages* (Winskel).
 
-Com S 362: Object-Oriented Analysis and Design
-* [Spring 2006](http://www.cs.iastate.edu/~hridesh/teaching/362/06/01/)
-* [Fall 2006](http://www.cs.iastate.edu/~hridesh/teaching/362/06/02/)
-* [Spring 2007](http://www.cs.iastate.edu/~hridesh/teaching/362/07/01/)
-* [Fall 2007](http://www.cs.iastate.edu/~hridesh/teaching/362/07/02/)
+#### Other courses on programming languages
 
-#### COMS 342: An Undergraduate Course on Programming Language Design, Semantics and Implementation
+- Com S 610-HR Advanced Topics: [Advanced Topics in Type Systems](http://www.cs.iastate.edu/~hridesh/teaching/610/09/fall/) (Fall 2009), [Advanced Topics in Program Analysis](http://www.cs.iastate.edu/~hridesh/teaching/610/08/spring/) (Spring 2008), [Aspect-Oriented Software Development](http://www.cs.iastate.edu/~hridesh/teaching/610/06/01/) (Spring 2006).
+- CS-551/661 Aspect-Oriented Software Development ([Fall 2004](http://www.cs.virginia.edu/~eos/cs651/)), co-developed and co-taught with Prof. Kevin Sullivan at the University of Virginia.
 
-I have taught (or currently teaching) the following editions of Com S 342.
+#### Software security
 
-* [Fall 2015](http://bb.its.iastate.edu):
-This edition is also using the book draft <EM>Programming Languages: Design, Semantics, 
-and Implementation</EM> that uses the Java programming language as the defining language.
-In this edition of the course, the interpreter framework used by the course saw significant
-overhaul. We also overhauled the semantics descriptions, and provided more coverage of
-inductive specifications, and additionally covered ideas behind a module system.
-The book draft and exercises were also refined and subsequently clarified.
+- Com S 610-HR Graduate Seminar on Security Properties of Software Systems: [Fall 2006](http://www.cs.iastate.edu/~hridesh/teaching/610/06/02/)
 
+#### Other
 
-* [Spring 2015](http://bb.its.iastate.edu):
-This edition is also using the book draft <EM>Programming Languages: Design, Semantics, and Implementation</EM>
-that uses the Java programming language as the defining language. In this edition of the course,
-the book draft and exercises were refined and clarified.
+- [Preparing Graduate Students for a Faculty Career](http://www.cs.iastate.edu/~hridesh/teaching/pff/05/01)
 
+  </div>
+</section>
 
-* [Fall 2014](http://bb.its.iastate.edu):
-These editions are using a new book <EM>Programming Languages: Design, Semantics, and Implementation</EM>
-that uses the Java programming language as the defining language. In these editions of the course,
-we also covered several additional topics not covered in previous editions, e.g. concurrency,
-event-based programming, reactive programming, etc...
-
-
-* [Fall 2011, Spring 2012, Fall 2012, and Spring 2013](http://bb.its.iastate.edu):
-These editions are also using the book <EM>Essentials of Programming Languages, 3rd Edition 
-by Friedman and Wand</EM>. In these editions of the course, we covered additional topics
-not included in the textbook, e.g. garbage collection.
-
-
-* [Spring 2011](http://www.cs.iastate.edu/~hridesh/teaching/342/11/01):
-This edition is also using the book <EM>Essentials of Programming Languages, 3rd Edition 
-by Friedman and Wand</EM>. In this edition of the course, we covered more
-topics compared to the Spring 2009 edition. In particular, lectures on semantics
-were extended to cover continuations, exceptions, and threads. I also added a module
-on types and type checking for this edition.
-
-
-
-* [Spring 2010](http://www.cs.iastate.edu/~hridesh/teaching/342/10/01):
-This edition also used the book <EM>Essentials of Programming Languages, 3rd Edition 
-by Friedman and Wand</EM>. In this edition of the course, we covered more
-topics compared to the Spring 2009 edition. In particular, lectures on semantics
-were extended to cover continuations, exceptions, and threads. I also added a module
-on types and type checking for this edition.
-
-
-
-* [Spring 2009](http://www.cs.iastate.edu/~hridesh/teaching/342/09/01):
-This edition used the book <EM>Essentials of Programming Languages, 3rd Edition 
-by Friedman and Wand</EM>. Main change in this edition was to adopt the
-3rd edition of textbook, which required significant modifications in lecture notes,
-homework styles and exam styles.
-
-
-
-* [Fall 2007](http://www.cs.iastate.edu/~hridesh/teaching/342/07/02):
-This edition used the book <EM>Essentials of Programming Languages, 2nd Edition 
-by Friedman, Wand and Haynes</EM>. Most of this edition was adopted from a
-previously taught course by (http://www.eecs.ucf.edu/~leavens)Prof. Gary T. Leavens.
-
-#### Com S 541: A Graduate Course on Programming Language Design and Semantics
-
-Below you will find description of the course
-Com S 541 as taught by Hridesh Rajan
-at Iowa State University and elsewhere.
-
-
-* [Fall 2015](http://www.cs.iastate.edu/~hridesh/teaching/541/):
-This edition used the lecture notes on Software Foundations developed by
-Benjamin C. Pierce <EM>et al.</EM> and the textbook
-<EM>&quot;Types and Programming Languages&quot;</EM> by Benjamin C. Pierce.
-Compared to previous editions that integrated projects, this edition used
-homework and exams as the primary evaluation medium.
-The course utilized ISU blackboard system for distributing material to students.
-
-
-
-<!--*
-(http://www.cs.iastate.edu/~hridesh/teaching/541/2011/fall/)Fall 2011:
-This edition is currently under construction. It will use the textbook
-<EM>&quot;Types and Programming Languages&quot;</EM> by Benjamin C. Pierce.
--->
-
-* [Fall 2010](http://www.cs.iastate.edu/~hridesh/teaching/541/2010/fall/):
-This edition also used the lecture notes on Software Foundations developed by
-Benjamin C. Pierce <EM>et al.</EM> and the textbook
-<EM>&quot;Types and Programming Languages&quot;</EM> by Benjamin C. Pierce.
-Besides minor changes this edition was similar to the Fall 2009 edition.
-
-
-* [Fall 2009](http://www.cs.iastate.edu/~hridesh/teaching/541/2009/fall/)
-This edition used the lecture notes on Software Foundations developed by
-Benjamin C. Pierce <EM>et al.</EM> and the textbook
-<EM>&quot;Types and Programming Languages&quot;</EM> by Benjamin C. Pierce.
-A major change from last edition of this course was to use
-the (http://www.lix.polytechnique.fr/coq/)Coq proof assistant
-throughout this course for expressing language semantics, type systems, and
-for proving properties about them.
-
-
-* [Fall 2008](http://www.cs.iastate.edu/~hridesh/teaching/541/2008/fall/)
-This edition used the textbooks
-<EM>&quot;Types and Programming Languages&quot;</EM> by Benjamin C. Pierce
-and
-<EM>&quot;the Formal Semantics of Programming Languages&quot;</EM> by Glynn Winskel.
-
-### Other Courses on Programming Language Design, Semantics, and Implementation
-
-Com S 610-HR: Advanced Topics Courses
-
-* Fall 2009: [Advanced Topics in Type Systems](http://www.cs.iastate.edu/~hridesh/teaching/610/09/fall/)
-* Spring 2008: [Advanced Topics in Program Analysis](http://www.cs.iastate.edu/~hridesh/teaching/610/08/spring/)
-* Spring 2006: [Aspect-oriented Software Development](http://www.cs.iastate.edu/~hridesh/teaching/610/06/01/)
-
-CS-551/661 - Aspect-oriented Software Development [Fall 2004](http://www.cs.virginia.edu/~eos/cs651/),
-co-developed and co-taught with Prof. Kevin Sullivan at University of Virginia
-
-### Software Security
-
-Com S 610-HR: Graduate Seminar on Security Properties of Software Systems
-* [Fall 2006](http://www.cs.iastate.edu/~hridesh/teaching/610/06/02/)
-
-### Other Courses
-
-[Preparing Graduate Students for Faculty Career](http://www.cs.iastate.edu/~hridesh/teaching/pff/05/01)
-
-### Teaching Related Resources
-
-[exam.class]({{ site.baseurl }}/resources/examClass.tar.gz): 
-A LaTeX class file and example for typesetting exams and quizzes.
-
-
-
+<section class="section">
+  <p class="callout">Teaching resource: <a href="{{ site.baseurl }}/resources/examClass.tar.gz">exam.class</a>, a LaTeX class file and example for typesetting exams and quizzes.</p>
+</section>
