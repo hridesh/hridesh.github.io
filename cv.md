@@ -5,7 +5,9 @@ subtitle: A short-form CV. Highlights are summarized here; a full CV is availabl
 permalink: /cv/
 ---
 
-<p class="callout">Looking for the full record? See <a href="{{ site.baseurl }}/publications/">Publications</a>, <a href="{{ site.baseurl }}/service/">Service</a>, and <a href="{{ site.baseurl }}/students/">Mentoring</a>, or email <a href="mailto:hrajan@tulane.edu">hrajan@tulane.edu</a> for a complete PDF.</p>
+<p><a class="btn btn-primary" href="{{ site.baseurl }}/Hridesh-Rajan-CV.pdf">Download CV (PDF)</a></p>
+
+<p class="callout">Looking for the full record? See <a href="{{ site.baseurl }}/publications/">Publications</a>, <a href="{{ site.baseurl }}/service/">Service</a>, and <a href="{{ site.baseurl }}/students/">Mentoring</a>, or email <a href="mailto:hrajan@tulane.edu">hrajan@tulane.edu</a> for a full academic CV.</p>
 
 ### Summary
 

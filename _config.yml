@@ -5,7 +5,9 @@
 # Name of your site (displayed in the header)
 name: Hridesh Rajan
 title: Hridesh Rajan
-author: Hridesh Rajan
+author:
+  name: Hridesh Rajan
+  twitter: hridesh
 twitter:
   username: hridesh
   card: summary_large_image
@@ -93,3 +95,10 @@ plugins:
   - jekyll-sitemap
 
 paginate: 10
+
+# Default Open Graph / Twitter preview image for all pages (used by jekyll-seo-tag)
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /images/og-image.png

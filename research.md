@@ -15,7 +15,7 @@ My research interests span the following areas.
 
 ### Selected Books and Publications
 
-[![bookimage](images/eipopl.jpeg){: style="float: right" width="150"}](https://mitpress.mit.edu/9780262045452/an-experiential-introduction-to-principles-of-programming-languages/)
+[![Cover of An Experiential Introduction to Principles of Programming Languages](images/eipopl.jpeg){: style="float: right" width="150"}](https://mitpress.mit.edu/9780262045452/an-experiential-introduction-to-principles-of-programming-languages/)
 
 - One of my long-term project has been to develop a new pedagogy and a textbook draft
   to teach programming languages and functional programming to students who start in Computer Science programs
