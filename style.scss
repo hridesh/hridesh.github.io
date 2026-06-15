@@ -547,6 +547,29 @@ a.card:hover { transform: translateY(-3px); box-shadow: $shadow; border-color: $
 
 // Wide page body: trim the first section's top padding under the page header
 .wide-body > .section:first-child { padding-top: 1.25rem; }
+
+// Wider prose for text-heavy pages
+.prose-wide { max-width: 940px; }
+.prose-wide > *:first-child { margin-top: 0; }
+
+// Content tables
+table { width: 100%; border-collapse: collapse; margin: 1.4rem 0; font-size: .95rem; }
+th, td { text-align: left; padding: .6rem .85rem; border-bottom: 1px solid $border; vertical-align: top; }
+thead th { border-bottom: 2px solid $border-strong; }
+tbody tr:nth-child(even) { background: $bg-soft; }
+
+// Sidebar panel (CV / About quick facts)
+.sidecard {
+  background: $bg-soft;
+  border: 1px solid $border;
+  border-radius: $radius;
+  padding: 1.3rem 1.4rem;
+  font-size: .95rem;
+  h3 { margin-top: 0; font-size: 1.05rem; }
+  ul { list-style: none; padding: 0; margin: 0 0 1rem; }
+  li { margin: .35rem 0; }
+  .label { display: block; font-size: .72rem; text-transform: uppercase; letter-spacing: .05em; color: $text-muted; font-weight: 700; margin-top: .8rem; }
+}
 .skip-link {
   position: absolute; left: -999px;
   &:focus { left: 1rem; top: .6rem; background: #fff; padding: .5rem .8rem; border-radius: 8px; z-index: 100; }
