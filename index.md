@@ -27,7 +27,8 @@ lede: Computer scientist and academic leader working across programming language
         Phone: (504) 865-5764
       </p>
       <p class="muted" style="margin-bottom:.6rem">Open to select advisory work, talks, and collaborations.</p>
-      <p><a href="mailto:hrajan@tulane.edu">hrajan@tulane.edu</a></p>
+      <p style="margin-bottom:.4rem"><a href="mailto:hrajan@tulane.edu">hrajan@tulane.edu</a></p>
+      <p class="muted" style="margin-bottom:1rem">For scheduling and appointments, contact my assistant, LaShanda Robinson, at <a href="mailto:lrobins5@tulane.edu">lrobins5@tulane.edu</a>.</p>
       <p style="margin-bottom:0">
         <a href="https://www.linkedin.com/in/hrideshrajan/">LinkedIn</a> &middot;
         <a href="https://github.com/hridesh">GitHub</a> &middot;
