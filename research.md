@@ -1,93 +1,52 @@
 ---
-layout: page
+layout: page-wide
 title: Research
+subtitle: Trustworthy AI and the software engineering of AI-enabled systems, grounded in programming languages and modular reasoning.
 permalink: /research/
 ---
 
-My research interests span the following areas.
+<section class="section">
+  <div class="section-head"><h2>Interests</h2></div>
+  <ul class="pill-row">
+    <li>Trustworthy AI</li>
+    <li>Software engineering of AI-enabled systems</li>
+    <li>Programming languages</li>
+    <li>Data-driven software engineering</li>
+    <li>Modular reasoning</li>
+  </ul>
+</section>
 
-* Trustworthy AI and the software engineering of AI-enabled systems
-* Software engineering (SE) and programming languages (PL)
-* Data-driven software engineering and ultra-large-scale software mining
-* Modular reasoning about properties of software.
-* Advanced modularity and separation of concerns mechanisms
-  and modular reasoning about such mechanisms.
+<section class="section">
+  <div class="section-head"><h2>Current research agenda</h2></div>
+  <div class="prose">
+    <p>I study the modularity of AI-enabled systems, with a particular focus on deep learning. Training, updating, and repurposing large models often consumes substantial financial and environmental resources. My approach is to <em>decompose deep neural networks into well-defined modules</em>, so that specific components can be isolated, reused, or replaced without retraining the entire model. The goal is sustainable, cost-aware AI development, where improvement and adaptation are local rather than global.</p>
+    <p>My broader agenda is to enhance programmer productivity and improve the reliability of the systems we build. I design programming abstractions that reduce error-prone tasks, strengthen modular structure, and support <em>modular reasoning</em>. With these abstractions in place, compilers and frameworks can implement complex concerns automatically, lowering defect rates and accelerating development. By improving modularity and the structure of reasoning, we can scale analysis and verification for both human review and automated tooling.</p>
+    <p>We are recruiting undergraduate students, graduate students, postdoctoral fellows, and in some cases research scientists for the projects below.</p>
+  </div>
+  <div class="cards">
+    <a class="card" href="https://ieeexplore.ieee.org/document/6606588"><span class="card-tag">Infrastructure</span><h3>Boa infrastructure</h3><p>Expanding our cyberinfrastructure for big-data-driven discovery in software engineering: connecting Boa with LLMs, generating Boa-like infrastructure for new domains, and lowering query cost so it runs on smaller clusters.</p></a>
+    <a class="card" href="https://dl.acm.org/doi/10.1109/ICSE55347.2025.00220"><span class="card-tag">Testing</span><h3>Separate testing of data &amp; AI models</h3><p>Building on Mock Deep Testing (ICSE 2025), our methodology for unit testing deep learning applications, and extending it to more kinds of models and data.</p></a>
+    <a class="card" href="https://dl.acm.org/doi/10.1145/3597503.3623333"><span class="card-tag">Trustworthy AI</span><h3>Design by contract for AI systems</h3><p>Building on our ICSE 2024 work inferring data preconditions from deep learning models, and extending the approach to other models and properties.</p></a>
+  </div>
+  <div class="prose">
+    <p>These three directions are active, and we are always happy to discuss follow-up work that builds on them. For the complete list of papers, visit my <a href="https://lab-design.github.io/papers/">lab's publications</a>.</p>
+  </div>
+</section>
 
-### Selected Books and Publications
+<section class="section">
+  <div class="section-head"><h2>Selected publications</h2><a class="more" href="{{ site.baseurl }}/publications/">All publications &#8594;</a></div>
+  <div class="split">
+    <div class="prose">
+      <p>One of my long-term projects has been a new pedagogy, and a textbook, for teaching programming languages and functional programming to students who begin in an imperative language such as Java:</p>
+      <p>Hridesh Rajan, <a href="https://mitpress.mit.edu/9780262045452/an-experiential-introduction-to-principles-of-programming-languages/"><em>An Experiential Introduction to Principles of Programming Languages</em></a>, MIT Press, Cambridge, MA, 304 pp., May 2022.</p>
+      <p>See the <a href="{{ site.baseurl }}/publications/">Publications</a> page for representative work across programming languages, data-driven software engineering, and trustworthy AI.</p>
+    </div>
+    <div>
+      <a href="https://mitpress.mit.edu/9780262045452/an-experiential-introduction-to-principles-of-programming-languages/"><img src="{{ site.baseurl }}/images/eipopl.jpeg" alt="Cover of An Experiential Introduction to Principles of Programming Languages" style="max-width:200px; border-radius:10px; box-shadow:0 8px 24px rgba(31,39,51,.14);"></a>
+    </div>
+  </div>
+</section>
 
-[![Cover of An Experiential Introduction to Principles of Programming Languages](images/eipopl.jpeg){: style="float: right" width="150"}](https://mitpress.mit.edu/9780262045452/an-experiential-introduction-to-principles-of-programming-languages/)
-
-- One of my long-term project has been to develop a new pedagogy and a textbook draft
-  to teach programming languages and functional programming to students who start in Computer Science programs
-  that teach an imperative language such as Java.
-  This textbook appeared as:
-  Hridesh Rajan, [*An Experiential Introduction to Principles of Programming Languages*](https://mitpress.mit.edu/9780262045452/an-experiential-introduction-to-principles-of-programming-languages/), MIT Press, Cambridge, MA, pp. 304, May 2022.
-
-- Hridesh Rajan and Gary T. Leavens, "[Ptolemy: A Language with Quantified, Typed Events](https://link.springer.com/chapter/10.1007/978-3-540-70592-5_8)," ECOOP ’08: 22nd European Conference on Object-Oriented Programming, July, 2008. This work addressed the debate on separating crosscutting concerns while preserving modular reasoning.
-
-- Robert Dyer, Hoan Anh Nguyen, Hridesh Rajan, and Tien N. Nguyen, "[Boa: A Language and Infrastructure for Analyzing Ultra-Large-Scale Software Repositories](https://ieeexplore.ieee.org/document/6606588)," 35th International Conference on Software Engineering, May, 2013. Boa was the first cyberinfrastructure for big data-driven discovery in software engineering.
-
-- Md Johirul Islam, Giang Nguyen, Rangeet Pan, and Hridesh Rajan, "[A Comprehensive Study on Deep Learning Bug Characteristics](https://dl.acm.org/doi/10.1145/3338906.3338955)," ESEC/FSE’19: The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), August, 2019. This work provided the first rigorous taxonomy of defects and repairs in neural-network code.
-
-- Mohammad Wardat, Wei Le, and Hridesh Rajan, "[DeepLocalize: Fault Localization for Deep Neural Networks](https://dl.acm.org/doi/10.1109/ICSE43902.2021.00034)," ICSE’21: The 43nd International Conference on Software Engineering, May, 2021. DeepLocalize was the first approach for bug localization in deep learning models.
-
-- Rangeet Pan and Hridesh Rajan, "[On Decomposing a Deep Neural Network into Modules](https://dl.acm.org/doi/10.1145/3368089.3409668)," ESEC/FSE’2020: The 28th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, November, 2020. This was the first work on decomposition and modularity of deep neural networks, and started the sub-field.
-
-[More ...](https://lab-design.github.io/papers/).
-
-
-### Current Research Agenda
-
-I study the modularity of AI-enabled systems, with a particular focus
-on deep learning. Training, updating, and repurposing large models
-often consumes substantial financial and environmental resources.
-My approach is to *decompose deep neural networks into well-defined
-modules* so that specific components can be isolated, reused, or
-replaced without retraining the entire model.
-The goal is sustainable, cost-aware AI development where improvement
-and adaptation are local, not global.
-
-My broader agenda is to enhance programmer productivity and improve
-the reliability of the systems we build. I design programming
-abstractions that reduce error-prone tasks, strengthen modular
-structure, and support *modular reasoning*. With these abstractions
-in place, compilers and frameworks can implement complex concerns
-automatically, lowering defect rates and accelerating development.
-By improving modularity and the structure of reasoning, we can
-increase the scalability of analysis and verification for both human
-review and automated tooling.
-
-We are recruiting undergraduate students, graduate students, postdoctoral 
-fellows, and in some cases research scientists for the following projects.
-
-- Boa Infrastructure: Starting with our ICSE 2023 paper, entitled 
-  [Boa: A Language and Infrastructure for Analyzing Ultra-Large-Scale Software Repositories](https://ieeexplore.ieee.org/document/6606588)
-  that introduced Boa the first cyberinfrastructure for big data-driven 
-  discovery in software engineering, we have led democratization of big 
-  science in this area. We are looking into expanding the infrastructure,
-  connecting Boa more explicitly with LLM, automating generation of Boa-like
-  infrastructure for other domains, and reducing the cost of running Boa 
-  queries so that they can be executed on smaller clusters. 
-
-- Separate and Independent Testing of Data and AI Models: Our ICSE 2025 
-  paper, entitled [Mock Deep Testing: Toward Separate Development of Data and Models for Deep Learning](https://dl.acm.org/doi/10.1109/ICSE55347.2025.00220),
-  has introduced our methodology of mock deep testing for unit testing 
-  of Deep Learning applications. We are looking into expanding the applicability
-  of this work for more kinds of deep learning models as well as different 
-  kinds of data.
-
-- Design by Contract for AI Systems: Our ICSE 2024 paper, 
-  [Inferring Data Preconditions from Deep Learning Models for Trustworthy Prediction in Deployment](https://dl.acm.org/doi/10.1145/3597503.3623333), 
-  showed an approach for inferring data preconditions. More work is needed 
-  on expanding this approach to other models, and other properties. 
-
-- While the three areas (discussed above) are being worked on, we are 
-  always happy to have a conversation about follow-up work building on 
-  our paper. For a complete list of our papers, 
-  please visit my [lab's webpages](https://lab-design.github.io/papers).
-
-
-### Contact
-
-Interested in collaborating, or in joining the lab as a student or postdoc? Reach me at [hrajan@tulane.edu](mailto:hrajan@tulane.edu), and see my [advice for prospective members](/prospective/).
-
+<section class="section">
+  <p class="callout">Interested in collaborating, or in joining the lab as a student or postdoc? Reach me at <a href="mailto:hrajan@tulane.edu">hrajan@tulane.edu</a>, and see my <a href="{{ site.baseurl }}/prospective/">advice for prospective members</a>.</p>
+</section>

@@ -533,6 +533,20 @@ a.card:hover { transform: translateY(-3px); box-shadow: $shadow; border-color: $
 .text-center { text-align: center; }
 .muted { color: $text-muted; }
 .float-right { float: right; margin: 0 0 1rem 1.5rem; }
+
+// Readable prose column inside wide pages
+.prose { max-width: 760px; }
+.prose > *:first-child { margin-top: 0; }
+
+// Multi-column list (e.g., alumni)
+.col-list { columns: 2; column-gap: 2.5rem; list-style: none; padding: 0; margin: 0; }
+.col-list li { break-inside: avoid; margin: 0 0 .95rem; }
+.col-list li a { font-weight: 600; border: 0; }
+.col-list .meta { color: $text-muted; font-size: .88rem; display: block; margin-top: .1rem; }
+@include mobile { .col-list { columns: 1; } }
+
+// Wide page body: trim the first section's top padding under the page header
+.wide-body > .section:first-child { padding-top: 1.25rem; }
 .skip-link {
   position: absolute; left: -999px;
   &:focus { left: 1rem; top: .6rem; background: #fff; padding: .5rem .8rem; border-radius: 8px; z-index: 100; }
