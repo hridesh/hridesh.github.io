@@ -495,8 +495,25 @@ a.card:hover { transform: translateY(-3px); box-shadow: $shadow; border-color: $
 .footer-about p { color: rgba(255,255,255,.7); font-size: .95rem; margin: 0; }
 .footer-links-col { justify-self: end; @include mobile { justify-self: start; } }
 .footer-links-col h5 { color: rgba(255,255,255,.6); text-transform: uppercase; letter-spacing: .06em; font-size: .75rem; font-family: $sans; margin: 0 0 .6rem; }
-.footer-social { display: flex; gap: .4rem; flex-wrap: wrap; }
-.footer-social a { border: 0; }
+.footer-social { display: flex; gap: .55rem; flex-wrap: wrap; }
+.footer-social a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 38px;
+  height: 38px;
+  border-radius: 9px;
+  border: 1px solid rgba(255,255,255,.18);
+  color: rgba(255,255,255,.85);
+  transition: color .15s ease, background-color .15s ease, border-color .15s ease, transform .15s ease;
+}
+.footer-social a:hover {
+  color: #fff;
+  background: rgba(255,255,255,.10);
+  border-color: rgba(255,255,255,.38);
+  transform: translateY(-2px);
+}
+.footer-social svg { width: 18px; height: 18px; fill: currentColor; display: block; }
 .footer-bottom {
   border-top: 1px solid rgba(255,255,255,.12);
   padding: 1.2rem 0;
@@ -509,14 +526,6 @@ a.card:hover { transform: translateY(-3px); box-shadow: $shadow; border-color: $
   a { color: rgba(255,255,255,.85); border: 0; &:hover { color: #fff; } }
 }
 
-// Footer social icons: render the dark monochrome SVGs as white on the green footer
-.footer-social .svg-icon {
-  width: 30px; height: 30px;
-  filter: brightness(0) invert(1);
-  opacity: .82;
-  transition: opacity .15s ease, transform .15s ease;
-}
-.footer-social a:hover .svg-icon { opacity: 1; transform: translateY(-2px); }
 
 /* ============================================================
    UTILITIES
