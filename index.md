@@ -40,7 +40,7 @@ lede: Computer scientist and academic leader working across programming language
 <section class="section">
   <div class="section-head">
     <h2>Selected work</h2>
-    <a class="more" href="{{ site.baseurl }}/research/">More in research &#8594;</a>
+    <a class="more" href="{{ site.baseurl }}/publications/">All publications &#8594;</a>
   </div>
   <div class="cards">
     <a class="card" href="https://mitpress.mit.edu/9780262045452/an-experiential-introduction-to-principles-of-programming-languages/">
