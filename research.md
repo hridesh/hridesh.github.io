@@ -6,9 +6,9 @@ permalink: /research/
 
 My research interests span the following areas.
 
-* Software Engineering (SE), programming languages (PL), and data science
-* Data science, SE &amp; PL for data-intensive systems,
-  and data-driven SE.
+* Trustworthy AI and the software engineering of AI-enabled systems
+* Software engineering (SE) and programming languages (PL)
+* Data-driven software engineering and ultra-large-scale software mining
 * Modular reasoning about properties of software.
 * Advanced modularity and separation of concerns mechanisms
   and modular reasoning about such mechanisms.

@@ -11,7 +11,7 @@ permalink: /cv/
 
 ### Summary
 
-Computer scientist and academic leader working across programming languages, software engineering, and data science. Known for the Ptolemy programming language and for Boa, an infrastructure for data-driven software engineering at ultra-large scale. Current work focuses on the modularity and trustworthiness of AI-enabled systems. AAAS Fellow, US–UK Fulbright Scholar, and ACM Distinguished Member.
+Computer scientist and academic leader working across programming languages, software engineering, and trustworthy AI. Known for the Ptolemy programming language and for Boa, an infrastructure for data-driven software engineering at ultra-large scale. Current work focuses on the modularity and trustworthiness of AI-enabled systems. AAAS Fellow, US–UK Fulbright Scholar, and ACM Distinguished Member.
 
 ### Education
 

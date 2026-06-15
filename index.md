@@ -5,7 +5,7 @@ permalink: /
 eyebrow: Computer Scientist · Academic Leader
 headline: Hridesh Rajan
 role: Dean, School of Science &amp; Engineering
-lede: Computer scientist and academic leader working across programming languages, software engineering, and data science. At Tulane, I am building an interdisciplinary-first, translational School of Science and Engineering focused on Better Lives.
+lede: Computer scientist and academic leader working across programming languages, software engineering, and trustworthy AI. At Tulane, I am building an interdisciplinary-first, translational School of Science and Engineering focused on Better Lives.
 ---
 
 <section class="section">
@@ -13,7 +13,7 @@ lede: Computer scientist and academic leader working across programming language
     <div>
       <h2>Overview</h2>
       <p>I serve as the Dean of the <a href="https://sse.tulane.edu">School of Science and Engineering</a> at <a href="https://tulane.edu">Tulane University</a> and as a Professor in the <a href="https://sse.tulane.edu/cs">Department of Computer Science</a>. Before Tulane, I was the Kingland Professor and Chair of <a href="https://www.cs.iastate.edu">Computer Science</a> at <a href="https://www.iastate.edu">Iowa State University</a> (2019–2024) and the founding Professor-in-Charge of <a href="https://datascience.iastate.edu">Data Science Programs</a> (2017–2019).</p>
-      <p>My research spans programming languages, software engineering, and data science. I am known for the design of the <a href="https://link.springer.com/chapter/10.1007/978-3-540-70592-5_8">Ptolemy programming language</a>, which advanced modular reasoning about crosscutting concerns, and for <a href="https://github.com/boalang">Boa and its infrastructure</a>, which lowered the barriers to data-driven software engineering at ultra-large scale.</p>
+      <p>My research spans programming languages, software engineering, and trustworthy AI. I am known for the design of the <a href="https://link.springer.com/chapter/10.1007/978-3-540-70592-5_8">Ptolemy programming language</a>, which advanced modular reasoning about crosscutting concerns, and for <a href="https://github.com/boalang">Boa and its infrastructure</a>, which lowered the barriers to data-driven software engineering at ultra-large scale.</p>
       <p>I lead with a collaborative, outcomes-oriented style: building high-performing teams, launching programs that meet national needs, and creating partnerships that translate research into societal impact.</p>
       <p><a href="{{ site.baseurl }}/about/">Read the full biography &#8594;</a></p>
     </div>
