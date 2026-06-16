@@ -40,24 +40,25 @@ lede: Computer scientist and academic leader working across programming language
 
 <section class="section">
   <div class="section-head">
-    <h2>Selected work</h2>
-    <a class="more" href="{{ site.baseurl }}/publications/">All publications &#8594;</a>
+    <h2>Research</h2>
+    <a class="more" href="{{ site.baseurl }}/research/">Explore research &#8594;</a>
   </div>
+  <p class="lead">A single principle runs through my work: modular reasoning. I design the languages and interfaces that make it possible, scale it across millions of programs, and now carry it into AI-enabled systems.</p>
   <div class="cards">
-    <a class="card" href="https://mitpress.mit.edu/9780262045452/an-experiential-introduction-to-principles-of-programming-languages/">
-      <span class="card-tag">Book &middot; MIT Press, 2022</span>
-      <h3>An Experiential Introduction to Principles of Programming Languages</h3>
-      <p>A new pedagogy for teaching programming languages and functional programming to students who begin in imperative languages such as Java.</p>
+    <a class="card" href="{{ site.baseurl }}/research/#modularity-and-modular-reasoning">
+      <span class="card-tag">Thrust 01</span>
+      <h3>Modularity &amp; Modular Reasoning</h3>
+      <p>Languages, interfaces, and contracts for reasoning about complex software one module at a time.</p>
     </a>
-    <a class="card" href="https://ieeexplore.ieee.org/document/6606588">
-      <span class="card-tag">Infrastructure &middot; Boa</span>
-      <h3>Mining ultra-large-scale software repositories</h3>
-      <p>Boa was the first cyberinfrastructure for big-data-driven discovery in software engineering, democratizing large-scale analysis.</p>
+    <a class="card" href="{{ site.baseurl }}/research/#software-at-scale">
+      <span class="card-tag">Thrust 02</span>
+      <h3>Software at Scale, with Boa</h3>
+      <p>Expressing software-analysis tasks modularly so they run across the world's open-source code.</p>
     </a>
-    <a class="card" href="https://dl.acm.org/doi/10.1145/3368089.3409668">
-      <span class="card-tag">Trustworthy AI</span>
-      <h3>Decomposing deep neural networks into modules</h3>
-      <p>The first work on decomposition and modularity of deep neural networks, opening a new sub-field toward sustainable, reusable AI.</p>
+    <a class="card" href="{{ site.baseurl }}/research/#modular-and-dependable-ai">
+      <span class="card-tag">Thrust 03</span>
+      <h3>Modular &amp; Dependable AI</h3>
+      <p>Decomposing learned models into modules and bringing software-engineering rigor to AI-enabled systems.</p>
     </a>
   </div>
 </section>

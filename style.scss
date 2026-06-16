@@ -548,6 +548,9 @@ a.card:hover { transform: translateY(-3px); box-shadow: $shadow; border-color: $
 // Wide page body: trim the first section's top padding under the page header
 .wide-body > .section:first-child { padding-top: 1.25rem; }
 
+// Anchored headings clear the sticky nav when deep-linked
+[id] { scroll-margin-top: 90px; }
+
 // Wider prose for text-heavy pages
 .prose-wide { max-width: 940px; }
 .prose-wide > *:first-child { margin-top: 0; }
