@@ -1,43 +1,18 @@
 ---
-layout: page-wide
-title: Publications
-subtitle: A selection of representative work across programming languages, data-driven software engineering, and trustworthy AI.
 permalink: /publications/
+sitemap: false
 ---
-
-<section class="section">
-  <p class="callout">For the complete and current list, see <a href="https://lab-design.github.io/papers/">my lab's publications</a> and <a href="https://dblp.org/search?q=Hridesh%20Rajan">DBLP</a>.</p>
-</section>
-
-<section class="section">
-  <div class="section-head"><h2>Book</h2></div>
-  <ul class="pub-list">
-    <li>Hridesh Rajan, <a href="https://mitpress.mit.edu/9780262045452/an-experiential-introduction-to-principles-of-programming-languages/"><em>An Experiential Introduction to Principles of Programming Languages</em></a>. <span class="venue">MIT Press, Cambridge, MA, 304 pp., May 2022.</span></li>
-  </ul>
-</section>
-
-<section class="section">
-  <div class="section-head"><h2>Programming languages and modular reasoning</h2></div>
-  <ul class="pub-list">
-    <li>Hridesh Rajan and Gary T. Leavens, <a href="https://link.springer.com/chapter/10.1007/978-3-540-70592-5_8">Ptolemy: A Language with Quantified, Typed Events</a>. <span class="venue">ECOOP 2008, 22nd European Conference on Object-Oriented Programming.</span> Reconciles separation of crosscutting concerns with modular reasoning.</li>
-  </ul>
-</section>
-
-<section class="section">
-  <div class="section-head"><h2>Data-driven software engineering</h2></div>
-  <ul class="pub-list">
-    <li>Robert Dyer, Hoan Anh Nguyen, Hridesh Rajan, and Tien N. Nguyen, <a href="https://ieeexplore.ieee.org/document/6606588">Boa: A Language and Infrastructure for Analyzing Ultra-Large-Scale Software Repositories</a>. <span class="venue">ICSE 2013, 35th International Conference on Software Engineering.</span> The first cyberinfrastructure for big-data-driven discovery in software engineering.</li>
-  </ul>
-</section>
-
-<section class="section">
-  <div class="section-head"><h2>Software engineering of AI-enabled systems and trustworthy AI</h2></div>
-  <ul class="pub-list">
-    <li>Md Johirul Islam, Giang Nguyen, Rangeet Pan, and Hridesh Rajan, <a href="https://dl.acm.org/doi/10.1145/3338906.3338955">A Comprehensive Study on Deep Learning Bug Characteristics</a>. <span class="venue">ESEC/FSE 2019.</span> The first rigorous taxonomy of defects and repairs in neural-network code.</li>
-    <li>Rangeet Pan and Hridesh Rajan, <a href="https://dl.acm.org/doi/10.1145/3368089.3409668">On Decomposing a Deep Neural Network into Modules</a>. <span class="venue">ESEC/FSE 2020.</span> Started the sub-field of decomposition and modularity for deep neural networks.</li>
-    <li>Mohammad Wardat, Wei Le, and Hridesh Rajan, <a href="https://dl.acm.org/doi/10.1109/ICSE43902.2021.00034">DeepLocalize: Fault Localization for Deep Neural Networks</a>. <span class="venue">ICSE 2021.</span> The first approach for bug localization in deep learning models.</li>
-    <li>Shibbir Ahmed, Hongyang Gao, and Hridesh Rajan, <a href="https://dl.acm.org/doi/10.1145/3597503.3623333">Inferring Data Preconditions from Deep Learning Models for Trustworthy Prediction in Deployment</a>. <span class="venue">ICSE 2024.</span></li>
-    <li>Ruchira Manke, Mohammad Wardat, Foutse Khomh, and Hridesh Rajan, <a href="https://dl.acm.org/doi/10.1109/ICSE55347.2025.00220">Mock Deep Testing: Toward Separate Development of Data and Models for Deep Learning</a>. <span class="venue">ICSE 2025.</span></li>
-  </ul>
-  <p class="muted">Author orderings and venues follow the citations on my lab site; please refer there for the authoritative record.</p>
-</section>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Publications — Hridesh Rajan</title>
+<link rel="canonical" href="https://hridesh.github.io/research/">
+<meta name="robots" content="noindex">
+<meta http-equiv="refresh" content="0; url=/research/">
+</head>
+<body>
+<p>The Publications page has moved to <a href="/research/">Research</a>.</p>
+<script>location.replace("/research/");</script>
+</body>
+</html>

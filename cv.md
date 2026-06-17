@@ -28,7 +28,7 @@ permalink: /cv/
       </ul>
 
       <h2>Selected publications</h2>
-      <p>Hridesh Rajan, <em>An Experiential Introduction to Principles of Programming Languages</em> (MIT Press, 2022). See the <a href="{{ site.baseurl }}/publications/">Publications</a> page for representative papers in programming languages, data-driven software engineering, and trustworthy AI, and <a href="https://lab-design.github.io/papers/">my lab</a> for the full list.</p>
+      <p>Hridesh Rajan, <em>An Experiential Introduction to Principles of Programming Languages</em> (MIT Press, 2022). See the <a href="{{ site.baseurl }}/research/">Research</a> page for representative papers across the three thrusts, and <a href="https://lab-design.github.io/papers/">my lab</a> for the full list.</p>
 
       <h2>Selected professional service</h2>
       <ul>

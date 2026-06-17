@@ -551,6 +551,22 @@ a.card:hover { transform: translateY(-3px); box-shadow: $shadow; border-color: $
 // Anchored headings clear the sticky nav when deep-linked
 [id] { scroll-margin-top: 90px; }
 
+// "More publications" expander
+.more-pubs { margin: .1rem 0 .4rem; }
+.more-pubs > summary {
+  cursor: pointer;
+  font-weight: 600;
+  color: $link;
+  font-size: .95rem;
+  padding: .45rem 0;
+  list-style: none;
+}
+.more-pubs > summary::-webkit-details-marker { display: none; }
+.more-pubs > summary::before { content: "+ "; color: $accent; font-weight: 700; }
+.more-pubs[open] > summary::before { content: "\2013 "; }
+.more-pubs > summary:hover { color: $link-hover; }
+.more-pubs .pub-list { margin-top: .2rem; }
+
 // Wider prose for text-heavy pages
 .prose-wide { max-width: 940px; }
 .prose-wide > *:first-child { margin-top: 0; }
