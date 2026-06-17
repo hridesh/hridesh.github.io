@@ -535,7 +535,7 @@ a.card:hover { transform: translateY(-3px); box-shadow: $shadow; border-color: $
 .float-right { float: right; margin: 0 0 1rem 1.5rem; }
 
 // Readable prose column inside wide pages
-.prose { max-width: 760px; }
+.prose { max-width: $readw; }
 .prose > *:first-child { margin-top: 0; }
 
 // Multi-column list (e.g., alumni)
@@ -568,8 +568,20 @@ a.card:hover { transform: translateY(-3px); box-shadow: $shadow; border-color: $
 .more-pubs .pub-list { margin-top: .2rem; }
 
 // Wider prose for text-heavy pages
-.prose-wide { max-width: 940px; }
+.prose-wide { max-width: $readw; }
 .prose-wide > *:first-child { margin-top: 0; }
+
+// One consistent reading column for flowing text across content sections.
+// Card grids (.cards) and two-column splits (.split) stay full-width by design.
+#main .section > p,
+#main .section > ul,
+#main .section > ol,
+#main .section > .prose,
+#main .section > .prose-wide,
+#main .section > .pub-list,
+#main .section > .col-list,
+#main .section > .more-pubs,
+#main .section > .callout { max-width: $readw; }
 
 // Content tables
 table { width: 100%; border-collapse: collapse; margin: 1.4rem 0; font-size: .95rem; }
