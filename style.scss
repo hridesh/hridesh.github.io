@@ -312,7 +312,7 @@ blockquote {
 }
 .section-head h2 { margin: 0; }
 .section-head .more { font-size: .95rem; font-weight: 600; }
-.lead { font-size: 1.15rem; color: $text-muted; max-width: 46em; }
+.lead { font-size: 1.15rem; color: $text-muted; }
 
 .cards {
   display: grid;
@@ -422,10 +422,10 @@ a.card:hover { transform: translateY(-3px); box-shadow: $shadow; border-color: $
   padding: 2.6rem 0 2rem;
   margin-bottom: 2.2rem;
   h1 { margin: 0; }
-  .page-sub { color: $text-muted; font-size: 1.1rem; margin: .5rem 0 0; max-width: 46em; }
+  .page-sub { color: $text-muted; font-size: 1.1rem; margin: .5rem 0 0; }
 }
 // Constrain long-form reading content for legibility
-.page .entry, .post .entry { max-width: $readw; }
+.page .entry, .post .entry { max-width: none; }
 
 /* ============================================================
    POSTS / NEWS
@@ -535,7 +535,7 @@ a.card:hover { transform: translateY(-3px); box-shadow: $shadow; border-color: $
 .float-right { float: right; margin: 0 0 1rem 1.5rem; }
 
 // Readable prose column inside wide pages
-.prose { max-width: $readw; }
+.prose { max-width: none; }
 .prose > *:first-child { margin-top: 0; }
 
 // Multi-column list (e.g., alumni)
@@ -568,20 +568,8 @@ a.card:hover { transform: translateY(-3px); box-shadow: $shadow; border-color: $
 .more-pubs .pub-list { margin-top: .2rem; }
 
 // Wider prose for text-heavy pages
-.prose-wide { max-width: $readw; }
+.prose-wide { max-width: none; }
 .prose-wide > *:first-child { margin-top: 0; }
-
-// One consistent reading column for flowing text across content sections.
-// Card grids (.cards) and two-column splits (.split) stay full-width by design.
-#main .section > p,
-#main .section > ul,
-#main .section > ol,
-#main .section > .prose,
-#main .section > .prose-wide,
-#main .section > .pub-list,
-#main .section > .col-list,
-#main .section > .more-pubs,
-#main .section > .callout { max-width: $readw; }
 
 // Content tables
 table { width: 100%; border-collapse: collapse; margin: 1.4rem 0; font-size: .95rem; }
