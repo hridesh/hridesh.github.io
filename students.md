@@ -1,7 +1,6 @@
 ---
 layout: page-wide
 title: Mentoring
-subtitle: Research-based training of graduate students, postdoctoral fellows, and undergraduates.
 permalink: /students/
 ---
 

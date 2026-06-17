@@ -1,7 +1,6 @@
 ---
 layout: page-wide
 title: Curriculum Vitae
-subtitle: A short-form CV. A full CV is available on request.
 permalink: /cv/
 ---
 

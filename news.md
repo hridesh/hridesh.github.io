@@ -1,7 +1,6 @@
 ---
 layout: page
 title: News
-subtitle: Milestones, awards, papers, and student successes from the lab and the School.
 permalink: /news/
 ---
 

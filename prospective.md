@@ -1,7 +1,6 @@
 ---
 layout: page-wide
 title: Advice for Prospective Graduate Students
-subtitle: How to reach out, and what makes a strong first email.
 permalink: /prospective/
 ---
 

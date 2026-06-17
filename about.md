@@ -1,7 +1,6 @@
 ---
 layout: page-wide
 title: About
-subtitle: Computer scientist and academic leader — programming languages, software engineering, and trustworthy AI.
 permalink: /about/
 ---
 

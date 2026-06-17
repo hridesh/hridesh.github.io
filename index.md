@@ -43,7 +43,7 @@ lede: Computer scientist and academic leader working across programming language
     <h2>Research</h2>
     <a class="more" href="{{ site.baseurl }}/research/">Explore research &#8594;</a>
   </div>
-  <p class="lead">A single principle runs through my work: modular reasoning. I design the languages and interfaces that make it possible, scale it across millions of programs, and now carry it into AI-enabled systems.</p>
+  <p class="lead">A single principle runs through our work: modular reasoning. We design the languages and interfaces that make it possible, scale it across millions of programs, and now carry it into AI-enabled systems.</p>
   <div class="cards">
     <a class="card" href="{{ site.baseurl }}/research/#modularity-and-modular-reasoning">
       <span class="card-tag">Thrust 01</span>

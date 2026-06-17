@@ -1,15 +1,14 @@
 ---
 layout: page-wide
 title: Research
-subtitle: One principle, modular reasoning, expressed across three thrusts.
 permalink: /research/
 ---
 
 <section class="section">
   <div class="prose">
-    <p>A single principle runs through my research: <strong>modular reasoning</strong>, the ability to understand and change one part of a system without grappling with the whole. I design the languages and interfaces that make modular reasoning possible, and I reframe software-analysis tasks so that this reasoning scales to millions of programs. Today the principle matters most for AI-enabled systems: I work to decompose learned models into modules and to bring software-engineering rigor to the AI that society increasingly depends on, so it can be built, debugged, and trusted.</p>
-    <p><a class="btn btn-ghost" href="https://scholar.google.com/citations?user=aiFvpucAAAAJ&hl=en">View my work on Google Scholar &#8594;</a></p>
-    <p class="muted">Complete publication record: <a href="https://scholar.google.com/citations?user=aiFvpucAAAAJ&hl=en">Google Scholar</a>, <a href="https://dblp.org/search?q=Hridesh%20Rajan">DBLP</a>, and <a href="https://lab-design.github.io/papers/">my lab</a>.</p>
+    <p>A single principle runs through our research: <strong>modular reasoning</strong>, the ability to understand and change one part of a system without grappling with the whole. We design the languages and interfaces that make modular reasoning possible, and we reframe software-analysis tasks so that this reasoning scales to millions of programs. Today the principle matters most for AI-enabled systems: we decompose learned models into modules and bring software-engineering rigor to the AI that society increasingly depends on, so it can be built, debugged, and trusted.</p>
+    <p><a class="btn btn-ghost" href="https://scholar.google.com/citations?user=aiFvpucAAAAJ&hl=en">View our work on Google Scholar &#8594;</a></p>
+    <p class="muted">Complete publication record: <a href="https://scholar.google.com/citations?user=aiFvpucAAAAJ&hl=en">Google Scholar</a>, <a href="https://dblp.org/search?q=Hridesh%20Rajan">DBLP</a>, and <a href="https://lab-design.github.io/papers/">our lab</a>.</p>
   </div>
   <div class="cards">
     <a class="card" href="#modularity-and-modular-reasoning"><span class="card-tag">Thrust 01</span><h3>Modularity &amp; Modular Reasoning</h3><p>Languages, interfaces, and contracts for reasoning about complex software one module at a time.</p></a>
@@ -21,7 +20,7 @@ permalink: /research/
 <section class="section">
   <div class="section-head"><h2 id="modularity-and-modular-reasoning">Modularity &amp; Modular Reasoning</h2></div>
   <div class="prose">
-    <p>I design languages, interfaces, and contracts that let engineers reason about complex software one module at a time, from aspect-oriented design and Classpects to Ptolemy's quantified, typed events, capsule-oriented Panini, and translucid contracts for modular verification.</p>
+    <p>We design languages, interfaces, and contracts that let engineers reason about complex software one module at a time, from aspect-oriented design and Classpects to Ptolemy's quantified, typed events, capsule-oriented Panini, and translucid contracts for modular verification.</p>
   </div>
   <ul class="pub-list">
     <li>Hridesh Rajan, <a href="https://mitpress.mit.edu/9780262045452/an-experiential-introduction-to-principles-of-programming-languages/"><em>An Experiential Introduction to Principles of Programming Languages</em></a>. <span class="venue">MIT Press, 2022.</span></li>
@@ -69,7 +68,7 @@ permalink: /research/
 <section class="section">
   <div class="section-head"><h2 id="modular-and-dependable-ai">Modular &amp; Dependable AI</h2></div>
   <div class="prose">
-    <p>Modular reasoning extended to AI-enabled systems. I decompose learned models such as deep neural networks into reusable, replaceable modules, and I work to make AI software dependable through the first comprehensive study of deep-learning bugs, fault localization and repair for neural networks, and fairness across machine-learning pipelines.</p>
+    <p>Modular reasoning extended to AI-enabled systems. We decompose learned models such as deep neural networks into reusable, replaceable modules, and we work to make AI software dependable through the first comprehensive study of deep-learning bugs, fault localization and repair for neural networks, and fairness across machine-learning pipelines.</p>
   </div>
   <ul class="pub-list">
     <li><a href="https://lab-design.github.io/papers/ESEC-FSE-19/">A Comprehensive Study on Deep Learning Bug Characteristics</a>. <span class="venue">ESEC/FSE 2019.</span></li>
@@ -100,7 +99,7 @@ permalink: /research/
     <div>
       <div class="section-head"><h2>Joining the lab</h2></div>
       <div class="prose">
-        <p>I recruit undergraduate students, graduate students, postdoctoral fellows, and in some cases research scientists across all three thrusts. If the questions above resonate with you, I would like to hear from you.</p>
+        <p>We recruit undergraduate students, graduate students, postdoctoral fellows, and in some cases research scientists across all three thrusts. If these questions resonate with you, I would like to hear from you.</p>
       </div>
     </div>
     <aside class="contact-card">

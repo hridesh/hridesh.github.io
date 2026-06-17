@@ -1,7 +1,6 @@
 ---
 layout: page-wide
 title: Service
-subtitle: International and national service to the computing and engineering communities.
 permalink: /service/
 ---
 
