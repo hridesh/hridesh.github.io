@@ -1,0 +1,23 @@
+# Hridesh Rajan
+
+> Hridesh Rajan is Dean of the School of Science and Engineering and a Professor of Computer Science at Tulane University. His work spans programming languages, software engineering, and trustworthy AI, unified by modular reasoning: understanding and changing one part of a system without having to understand all of it.
+
+## Research thrusts
+- Modularity and Modular Reasoning: languages, interfaces, and contracts for reasoning about software one part at a time (aspect-oriented design, Classpects, the Ptolemy language, capsule-oriented Panini): https://hridesh.github.io/research/#modularity-and-modular-reasoning
+- Software at Scale, with Boa: a language and infrastructure for writing a software analysis once and running it across hundreds of thousands of open-source projects: https://hridesh.github.io/research/#software-at-scale
+- Modular and Dependable AI: decomposing deep neural networks into reusable modules, locating and repairing faults in deep learning, and fairness across machine-learning pipelines: https://hridesh.github.io/research/#modular-and-dependable-ai
+
+## Key pages
+- About: https://hridesh.github.io/about/
+- Research: https://hridesh.github.io/research/
+- CV: https://hridesh.github.io/cv/
+- Mentoring: https://hridesh.github.io/students/
+- News: https://hridesh.github.io/news/
+- Google Scholar: https://scholar.google.com/citations?user=aiFvpucAAAAJ&hl=en
+
+## Selected works
+- An Experiential Introduction to Principles of Programming Languages (MIT Press, 2022): https://mitpress.mit.edu/9780262045452/an-experiential-introduction-to-principles-of-programming-languages/
+- Boa: A Language and Infrastructure for Analyzing Ultra-Large-Scale Software Repositories (ICSE 2013): https://lab-design.github.io/papers/ICSE-13/
+- A Comprehensive Study on Deep Learning Bug Characteristics (ESEC/FSE 2019): https://lab-design.github.io/papers/ESEC-FSE-19/
+- On Decomposing a Deep Neural Network into Modules (ESEC/FSE 2020): https://lab-design.github.io/papers/ESEC-FSE-20b/
+- Ptolemy: A Language with Quantified, Typed Events (ECOOP 2008): https://lab-design.github.io/papers/ECOOP-2008/
