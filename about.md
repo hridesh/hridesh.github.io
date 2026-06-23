@@ -42,7 +42,7 @@ permalink: /about/
 <section class="section">
   <div class="section-head"><h2>Major awards and honors</h2></div>
   <ul class="col-list">
-    <li>AAAS Fellow<span class="meta">2021</span></li>
+    <li>AAAS Fellow<span class="meta">2020</span></li>
     <li>ACM SIGSOFT Distinguished Paper Award, ASE 2023<span class="meta">2023</span></li>
     <li>Early Achievement in Departmental Leadership Award<span class="meta">2022</span></li>
     <li>ACM SIGSOFT Distinguished Paper Award, ESEC/FSE 2020<span class="meta">2020</span></li>

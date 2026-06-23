@@ -46,7 +46,7 @@ permalink: /cv/
       <a class="btn btn-primary" href="{{ site.baseurl }}/Hridesh-Rajan-CV.pdf" style="margin-bottom:1.1rem;">Download CV (PDF)</a>
       <span class="label">Selected honors</span>
       <ul>
-        <li>AAAS Fellow (2021)</li>
+        <li>AAAS Fellow (2020)</li>
         <li>ACM SIGSOFT Distinguished Paper Award, ASE 2023</li>
         <li>Early Achievement in Departmental Leadership (2022)</li>
         <li>ACM SIGSOFT Distinguished Paper Award, ESEC/FSE 2020</li>

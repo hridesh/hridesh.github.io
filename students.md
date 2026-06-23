@@ -38,7 +38,7 @@ permalink: /students/
     <li><a href="https://www.linkedin.com/in/davidobr/">David O'Brien</a><span class="meta">PhD Summer '24 &middot; Research Scientist, Amazon AWS</span></li>
     <li><a href="https://scholar.google.com/citations?user=04sYwigAAAAJ&hl=ar">Mohammad Wardat</a><span class="meta">PhD Summer '23 &middot; Assistant Professor, Oakland University</span></li>
     <li><a href="https://rangeetpan.github.io">Rangeet Pan</a><span class="meta">PhD Summer '22 &middot; Research Staff Member, IBM T.J. Watson Research Center</span></li>
-    <li><a href="https://www.linkedin.com/in/samantha-syeda/">Samantha Khairunnessa</a><span class="meta">PhD Summer '21, MS Fall '17 &middot; Assistant Professor, Florida Gulf Coast University</span></li>
+    <li><a href="https://www.linkedin.com/in/samantha-syeda/">Samantha Khairunnesa</a><span class="meta">PhD Summer '21, MS Fall '17 &middot; Assistant Professor, Bradley University</span></li>
     <li><a href="https://www.linkedin.com/in/hamidbagheri/">Hamid Bagheri</a><span class="meta">PhD Summer '20, MS Fall '19 &middot; Data Scientist, John Deere</span></li>
     <li><a href="https://www.linkedin.com/in/johir/">Md. Johirul Islam</a><span class="meta">PhD Summer '20, MS Fall '19 &middot; Amazon R&amp;D</span></li>
     <li><a href="https://www.linkedin.com/in/gupadhyaya/">Ganesha Upadhyaya</a><span class="meta">PhD Fall '17, MS Spring '15 &middot; Harmony.One R&amp;D</span></li>
